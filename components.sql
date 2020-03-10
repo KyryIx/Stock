@@ -1,0 +1,407 @@
+INSERT INTO components( name, description, category, quantity, locationBox, status, locationImage, locationDatasheet, locationAttachment ) VALUES
+(
+	'Módulo Serial I2C para Display LCD',
+	'Módulo Serial I2C para Display LCD para conexão de display ao Arduino usando o chip PCF8574',
+	'DIY',
+	1,
+	'Box 000',
+	'ORGANIZED',
+	'Serial LCD I2C Module with chip PCF8574;Figure 1.jpg;Figure 2.jpg;Figure 3.jpg;Figure 4.jpg',
+	'Serial LCD I2C Module with chip PCF8574;Schemas.pdf',
+	'Serial LCD I2C Module with chip PCF8574;New LiquidCrystal _ wiki _ Home — Bitbucket.pdf;NewLiquidCrystal_1.5.1.zip'
+),
+(
+	'Módulo LCD Nokia 5110',
+	'Módulo LCD Nokia 5110 de 1.6\" com chip PCD8544 de 48x48 pixels com tensão de 2.7V ~ 3.3V, interface SPI, corrente de operação <5mA, com iluminação <20mA.',
+	'DIY',
+	1,
+	'Box 000',
+	'ORGANIZED',
+	'Module LCD Nokia 5110;Figure 1.jpg',
+	'Module LCD Nokia 5110;Nokia5110.pdf',
+	'Module LCD Nokia 5110;Adafruit-PCD8544-Nokia-5110-LCD-library-1.1.1.zip;Adafruit-GFX-Library-1.7.4.zip;BitmapEncoder-master.zip;LCDAssistant.zip;LCDAssistantCMD.zip;TheDotFactory-0.1.4.7z'
+),
+(
+	'AGM-1604A-801 - Display de Cristal Liquido',
+	'Display de Cristal Liquido modelo AGM-1604A-801, no formato 16*4 caracteres, com luz branca de fundo e cor de fundo azul.',
+	'DIY',
+	1,
+	'Box 000',
+	'ORGANIZED',
+	'16x4 LCD Display White-Blue LED Backlight;Figure 1.jpg',
+	'16x4 LCD Display White-Blue LED Backlight;AGM-1604A-801.pdf',
+	'16x2 LCD Display White-Blue LED Backlight;Arduino - HelloWorld.pdf;In-Depth Tutorial to Interface 16x2 Character LCD Module with Arduino.pdf;HelloWord.ino'
+),
+(
+	'Módulo Touch Screen TFT 3.2in',
+	'Módulo Touch Screen TFT 3.2in, modelo TFT01-3.2, com 65k core, resolução 320x240 pixels e tensão de trabalho de 3.3V.',
+	'DIY',
+	1,
+	'Box 000',
+	'ORGANIZED',
+	'3.2 inch TFT LCD Screen Module;Figure 1.jpg;Figure 2.jpg',
+	'3.2 inch TFT LCD Screen Module;SSD1289-spec.pdf',
+	'3.2 in TFT LCD Screen Module;UTFT.zip;3.2 inch TFT Touch LCD.zip;LCD 3.2 TFT LCD Screen Module.zip;The instruction for mega2560 board and 3.2 inch touch screen and shield.zip'
+),
+(
+	'1602A - Módulo LCD com 16 caracteres por 2 linhas e fundo azul',
+	'Modelo 6514 com 16 caracteres x 2 linhas, luz de fundo azul, caracteres branco e tensão de alimentação de 5VDC',
+	'DIY',
+	1,
+	'Box 000',
+	'ORGANIZED',
+	'16x2 LCD Display White-Blue LED Backlight;Figure 1.jpg;Figure 2.jpg;Figure 3.jpg',
+	'16x2 LCD Display White-Blue LED Backlight;eone-1602a1.pdf',
+	'16x2 LCD Display White-Blue LED Backlight;Arduino - HelloWorld.pdf;In-Depth Tutorial to Interface 16x2 Character LCD Module with Arduino.pdf;HelloWord.ino'
+),
+(
+	'GTM2088ARGB-28 - Matriz de LEDs RGB 8x8 com super brilho',
+	'Matriz de LEDs RGB 8x8 com super brilho, tensão 2.3V (Red)/3.4V (Green)/3.4V (Blue) e corrente de 50mA.',
+	'LED',
+	1,
+	'Box 000',
+	'ORGANIZED',
+	'LED Matrix 8x8 - Triple Color RGB common Anode Display - 5mm;Figure 1.jpg;Figure 2.jpg;Figure 3.jpg;Figure 4.jpg;Figure 5.jpg;Figure 6.jpg',
+	'LED Matrix 8x8 - Triple Color RGB common Anode Display - 5mm;GTM2088ARGB-28.pdf',
+	'LED Matrix 8x8 - Triple Color RGB common Anode Display - 5mm;Product Description.txt;8×32 Scrolling LED Message Display.zip'
+),
+(
+	'Módulo matriz de LEDs vermelho com MAX7219',
+	'Módulo matriz de LEDs (8x8) vermelho com catodo comum usando o chip MAX7219, alimentado em 5VDC, comunicação SPI e dimensões de 5cm de comprimento, 3.2cm de largura e 1.5cm de altura.',
+	'LED',
+	1,
+	'Box 000',
+	'ORGANIZED',
+	'MAX7219 Dot Matrix Display Module;Figure 1.jpg',
+	'MAX7219 Serially Interfaced, 8-Digit LED Display Drivers;MAX7219-MAX7221 Serially Interfaced, 8-Digit LED Display Drivers.pdf',
+	'MAX7219 Dot Matrix Display Module;LedControl-master.zip;8x8 LED Matrix MAX7219 Tutorial with Scrolling Text and Android Control via Bluetooth.zip;Aprenda a usar o Módulo Matriz de LEDs com MAX7219 - Embarcados.pdf'
+),
+(
+	'Módulo LED RGB para Arduino',
+	'Módulo 5050 (JY-MCU) LED RGB SMD de três cores para Arduino, podendo obter cores diferentes usando PWM.',
+	'LED',
+	1,
+	'Box 000',
+	'ORGANIZED',
+	'SMD 5050 RGB LED Module;Figure 1.png',
+	'SMD 5050 RGB LED Module;5050LED.pdf',
+	'SMD 5050 RGB LED Module;3 Color RGB LED Module - Summerfuel Robotics.pdf'
+),
+(
+	'Módulo OLED Display 0.96 polegadas Azul/Amarelo 128X64 SPI',
+	'Módulo OLED Display de 0.96 polegadas nas cores Azul e Amarelo com resolução de 128X64 pixels e comunicação SPI.',
+	'LED',
+	1,
+	'Box 000',
+	'ORGANIZED',
+	'0.96 inch SPI Serial 128X64 Yellow Blue OLED Display Module;Figure 1.jpg;Figure 2.jpg;Figure 3.jpg;Figure 4.jpg',
+	'0.96 inch SPI Serial 128X64 Yellow Blue OLED Display Module;SSD1306.pdf',
+	'0.96 inch SPI Serial 128X64 Yellow Blue OLED Display Module;Adafruit_SSD1306-2.0.4.zip;Adafruit-GFX-Library-1.7.4.zip'
+),
+(
+	'Módulo OLED Display 1.3 polegadas Branco 128X64 SPI',
+	'Módulo OLED Display de 1.3 polegadas na cor Branca com resolução de 128X64 pixels e comunicação SPI.',
+	'LED',
+	1,
+	'Box 000',
+	'ORGANIZED',
+	'1.3 inch SPI Serial 128X64 Yellow Blue OLED Display Module;Figure 1.jpg;Figure 2.jpg;Figure 3.jpg;Figure 4.jpg',
+	'1.3 inch SPI Serial 128X64 Yellow Blue OLED Display Module;sh1106_datasheet.pdf',
+	'1.3 inch SPI Serial 128X64 Yellow Blue OLED Display Module;Getting started with µOLED displays.zip'
+),
+/* name, description, category, quantity, locationBox, status, locationImage, locationDatasheet, locationAttachment */
+(
+	'Fonte Ajustável para Protoboard',
+	'Fonte Ajustável para Protoboard (YwRobot Breadboard Power Supply) com saídas de 3.3V e 5V.',
+	'DIY',
+	3
+),
+(
+	'Módulo Buck-boost para FPV com LM2587 para entrada de 3 ~ 35V para 1,2 ~ 30V 2A DC',
+	'Módulo Buck-boost para FPV com LM2587 para entrada de 3 ~ 35V para 1,2 ~ 30V 2A DC.',
+	'DIY',
+	1,
+)
+(
+	'Placa Amplificadora Stereo com TDA2030A',
+	'Placa Amplificadora Stereo com TDA2030A com duplo canal para acesso OCL 18Wx2 ou mono BTL 36Wx1. Resistores de 1% de metal de filmes, Chemi-Con e Panasonic capacitores, 2x3300uF/25V como filtro. Tensão de entrada AC 9V-12V.',
+	'DIY',
+	1,
+),
+(
+	'RD084DY002 - Módulo de Recarga de Bateria de Lítio 1A',
+	'Módulo de Recarga de Bateria de Lítio 1A, com LED indicador de carga. Modelo RD084DY002',
+	'DIY',
+	1,
+),
+(
+	'Placa de Expansão GSM/GPRS FreeArduino',
+	'Placa de Expansão GSM/GPRS FreeArduino usada para fazer/receber ligações, enviar/receber mensagens como também transferências de dados.',
+	'DIY',
+	1,
+),
+(
+	'Sensor de nível de água',
+	'Sensor de nível de água para ser usado no Arduino.',
+	'DIY',
+	1,
+),
+(
+	'Válvula Elétrica Solenoide para água e ar',
+	'Válvula Elétrica Solenoide para água e ar NO e NC com tensão de alimentação de 12V com 0.5in normalmente fechada.',
+	'DIY',
+	1,
+),
+(
+	'Ethernet Shield com Wiznet W5100',
+	'Ethernet Shield com Wiznet W5100 para conexão a cabo para Arduino.',
+	'DIY',
+	1,
+),
+(
+	'Módulo Encoder Rotação de 360°',
+	'Módulo Encoder Rotação de 360° com resolução de 20 pulsos por revolução e corrente máxima de 10mA.',
+	'DIY',
+	1,
+),
+(
+	'Módulo reconhecimento de impressão digital',
+	'Módulo reconhecimento de impressão digital com frequência de trabalho de 433MHz,868MHz ou 915MHz. Sensibilidade de -100dBm, tensão de alimentação de 3.6~6V, tamanho dos caracteres de 256 bytes, tempo de pesquisa < 1 segundo.',
+	'DIY',
+	1,
+),
+(
+	'ZHO-0420S-05A4.5 - Mini Solenóide 5V',
+	'Mini Solenóide 5V com curso do eixo de aproximadamente 4,5mm, diâmetro do eixo de 1,6mm (3mm na extrimidade), corrente de alimentação de 1.1A. Modelo ZHO-0420S-05A4.5',
+	'DIY',
+	1,
+),
+(
+	'PCF8574 - Placa de Expansão',
+	'Placa de Expansão PCF8574 no qual pode ser conectado por I2C provendo até 64 portas I/O. A placa é uma interface 8-bit paralela.',
+	'DIY',
+	1,
+),
+(
+	'DS1307 - Módulo de Real Time Clock',
+	'Módulo de Real Time Clock (RTC) com memória 24C32 de 32K com comunicação I2C e chip DS1307.',
+	'DIY',
+	1,
+),
+(
+	'Protoshield',
+	'Protoshield desenvolvido para criar shields de acordo com a necessidade do usuário com dois botões, dois leds, entradas para NOKIA 5110, LCM 1602, entre outros.',
+	'DIY',
+	1,
+),
+(
+	'Shield de Sensor 5.0',
+	'Shield de Sensor no qual podem ser conectados módulo bluetooth, sdcard, display, sensores, entre outros. As dimensões são de 5.7 x 5.7 x 2 cm.',
+	'DIY',
+	1,
+),
+(
+	'W908 - Ibeacon',
+	'Ibeacon W908 com chip CC2541, a prova de água, uso de bateria CR2477, range efetivo de 30m e máximo de 100m e corrente de 100uA (standby).',
+	'DIY',
+	1,
+),
+(
+	'PCW2138WC - Carregador sem fio',
+	'Carregador sem fio (PCW2138WC) com entrada/saída de 5~12VDC/(5VDC/600mA), indutância da bobina de transmissão de 30uH, distância de transmissão de 1~20mm, diâmetro da bobina de 38mm e altura da bobina de 2mm.',
+	'DIY',
+	1,
+),
+(
+	'HLK-RM04 - Módulo Adaptador Wi-Fi',
+	'Módulo Adaptador Wi-Fi HLK-RM04 com antena onboard e externa, modo client/AP/server, com todas as funcionalidades de rede com e sem fio.',
+	'DIY',
+	1,
+),
+(
+	'PCF8591 - Módulo Conversor de 8-Bit A/D e D/A',
+	'Módulo Conversor PCF8591 de 8-Bit A/D e D/A, tensão de 2.5~6V, 3 pinos de entrada (A0, A1 e A2) e 4 pinos de entrada analógicos programados como saída simples ou entrada diferencial.',
+	'DIY',
+	1,
+),
+(
+	'Módulo Transmissor/Receptor RF de 433MHz',
+	'Corrente transm. máx<=40mA (12V), mín<=9mA (3V), modo ressonante/modulação SAW/(ASK/OOK), freq. trab. 315~433.92MHz, pot. trans. 25mW (315MHz,12V), erro freq. 150kHz (máx), vel. <=10kbps,  intervalo de trans. 20~200m.',
+	'DIY',
+	1,
+),
+(
+	'Módulo Player MP3 Music com controle Serial UART',
+	'Suporte a formato MP3 e WAV, controle por UART, frequência de amostragem de 8kHz~48kHz, tensão de alimentação de 3.2~5.2VDC, suporte para Micro SD (SDHC) Card <=2G (<16G).',
+	'DIY',
+	1,
+),
+(
+	'KY-023 - Módulo Joystick',
+	'Módulo joystick PS2, no qual tem um cross rocker que é um resistor bidirecional 10K, com balancim em direções diferentes, a resistência muda com direção, fonte de alimentação 5V, estado original x, tensão de leitura Y é de cerca de 2,5V.',
+	'DIY',
+	1,
+),
+(
+	'TEA5767 - Módulo Receptor FM',
+	'Módulo receptor FM com suporte de frequência entre 76~108MHz usando o chip Philips TEA5767.',
+	'DIY',
+	1,
+),
+(
+	'OV7670 - Módulo Camera VGA 300KP',
+	'Array fotosensível 640x480, tensão IO 2.5~3.0V, formato saída YUV/YCbCr4:2:2 RGB565/555/444 GRB4:2:2 Raw RGB Data (8 digit), tamanho lente 1/6\"; ângulo visão 25 graus; taxa frame máx. 30fps VGA, sensibilidade 1.3V/(Lux-sec), sinal taxa ruído 46 dB',
+	'DIY',
+	1,
+),
+(
+	'Joystick Escudo v1.2',
+	'Um Joystick para adicição do Nokia 5110 LCD e interface de nRF24L01. Pode-se desenvolver facilmente jogos com Joystick, e até a comunicação entre si com nRF24L01 wireless. ',
+	'DIY',
+	1,
+),
+(
+	'Cabo conversor IPX para RP-SMA macho',
+	'Cabo conversor adaptador IPX para RP-SMA macho com comprimento de 19cm.',
+	'DIY',
+	1,
+),
+(
+	'Conversor Lógico Bidirecional 5V/3V',
+	'Conversor nível lógico de 4 canais para Arduino, em uso de I2C.',
+	'DIY',
+	6,
+),
+(
+	'A7 - Placa de Desenvolvimento GPS GPRS GSM SMS e Módulo de Voz',
+	'Placa de Desenvolvimento A7 GPS GPRS GSM SMS e Módulo de Voz com tensão de alimentação de 3.3~4.2V, suporte as frequ&ecirc;ncias 850/900/1800/1900 MHz com duas antenas.',
+	'DIY',
+	1,
+),
+(
+	'ATK-NEO-6M-V12 - Módulo GPS  com antena Ulbox',
+	'Taxa 4.8k/9.6k/38.4k(padrão)/57.6k; 3.3/5V sistema SCM; GPS L1 (1575.42MHZ) código C/A; SBAS:WAAS/EGNOS/MSAS; Precisão:2.5 MCEP (SBAS2.0mCEP); Inicio a frio/quente:27s (mais rápido)/1s; Sensibilidade:161dBm; Protocolo:NMEA(padrão)/UBX Binary',
+	'DIY',
+	1,
+),
+(
+	'CD74HC4067 - Placa com Multiplexador/Demultiplexador Analógico de 16 canais',
+	'Multiplexador/Demultiplexador analógico com tensão de trabalho de 2~6V. Modelo CD74HC4067 de 16 canais.',
+	'DIY',
+	1,
+),
+(
+	'CNC Shield V3 para impressora 3D com 4 Drivers A4988',
+	'CNC Shield com tensão de 12~36VDC, botão reset, 4 eixos (X, Y, Z e A), entrada para conectores de fim de curso para cada eixo. Compatível com Arduino UNO e GRBL.',
+	'DIY',
+	1,
+),
+(
+	'Controle para uso em MP3',
+	'Controle para uso em MP3. Uso de duas pilhas de relógio. Há 21 teclas incluindo turn on/off, mode, play e pause, mute, entre outros.',
+	'Equipamento',
+	1,
+),
+(
+	'Módulo DRF1278F LoRa 433MHz SX1278',
+	'Frequency Range: 433MHz Modulation: FSK/GFSK/MSK/LoRa SPI Data Interface Sensitivity: -136dBm Output Power: +20dBm Data Rate: <300 kbps 127dB dynamic Range RSSI Packet engine up to 256 bytes with CRC Standby current: 1uA Supply voltage: 1.8~3.6V',
+	'DIY',
+	2,
+),
+(
+	'Célula de Carga para balança de até 50kg',
+	'Capacity:40~50 kg Error:0.05 mv/v Output Sensitivity:1.0±0.1 mv/v Nonlinearity:0.03 %FS Repeatability:0.03 %FS Hysteresis:0.03 %FS Zero Output:±0.1 mV/V Input Resistance:1000±20 Ω Insulation Resistance:≥5000 MΩ Overload Capacity:150 %FS',
+	'DIY',
+	1,
+),
+(
+	'Módulo TTL para RS485 para Arduino',
+	'Chipset MAX485; 2 pinos para comunicação e fiação fácil RS-485 Tensão de trabalho de 5V',
+	'DIY',
+	2,
+),
+(
+	'Módulo sem fio NRF24L01 + PA + LNA (com antena)',
+	'Controlador: NRF24L01+ Frequência: 2.4GHz Tensão de operação: 1.9 à 3.6V Taxa de transferência: 2 Mbit/s Corrente em power down: 400nA Corrente em standby: 32uA Dimensões: 29 x 15mm Regulador de tensão embutido Conector para antena SMA',
+	'DIY',
+	2,
+),
+(
+	'Módulo SD Card',
+	'LED indicador Suporte para SD Card Pinos: GND, 3.3V, 5V, CS, MOSI, SCK, MISO e GND',
+	'DIY',
+	1,
+),
+(
+	'Conversor Digital para Analógico de 12Bits com memória EEPROM',
+	'O módulo CJMCU-MCP4725 é um conversor DAC (Digital-to-Analog Converter) controlado por I2C. Caracteristicas: resolução de 12bits Interface I2C (suportados os modos Standard, Fast, e High-Speed) Alimentção de 2.7~5.5V',
+	'DIY',
+	1,
+),
+(
+	'X9C103S - Potenciômetro 10kΩ controlado digitalmente',
+	'Potenciômetro controlado digitalmente com resistência de 10k Ohms, com 99 posições e com tensão de alimentação entre 3V à 5V. Corrente máx. ativa de 3mA. Corrente máx. standby de 750µA. Duração de 100000 trocas de dados por bit.',
+	'DIY',
+	3,
+),
+(
+	'Conversor RS232 para TTL',
+	'Transceiver : 2 (1 TTL -> RS232 + 1 TTL <- RS232) Operating Voltage:3 V ~ 5.5 V Maximum Datarate: 120 kbps Operation: Full Duplex Protocol: RS232 Receiver Hysteresis: 300mV Temperature range: -40°C ~ 85°C Size: 10mm x 15mm'
+	'DIY',
+	3,
+) 
+	
+	
+) AND 
+       locationImage IN (
+		'Fonte Ajustável para Protoboard.jpg',
+		'Módulo Buck-boost para FPV.png',
+		'Placa Amplificadora Stereo TDA2030A 2.1.jpg',
+		'Módulo de Recarga de Bateria de Lítio 1A.jpg',
+		'Placa de Expansão GSM-GPRS FreeArduino.jpg',
+		'Sensor de nível de água.jpg',
+		'Válvula Elétrica Solenoide para água e ar.jpg',
+		'Ethernet Shield com Wiznet W5100.jpg',
+		'Módulo Encoder Rotação de 360.jpg',
+		'Modulo reconhecimento de impressão digital.jpg',
+		'Mini Solenóide 5V.jpg', 'Placa de Expansão PCF8574.jpg',
+		'Módulo de Real Time Clock RTC DS1307 DS-1307 AT24C32.jpg', 'protoshield-prototype-para-arduino-protoboard-170-pontos1.jpg;protoshield-prototype-para-arduino-protoboard-170-pontos2.jpg',
+		'Shield de Sensor 5.0.jpg',
+		'ibeacon w908.jpg;Ibeacon w908 -Bluetooth-TICC2541.jpg',
+		'Carregador sem fio.jpg',
+		'Módulo Adaptador Wi-Fi HLK-RM04.jpg',
+		'Módulo Conversor PCF8591 - 1.jpg;Módulo Conversor PCF8591 - 2.jpg;Módulo Conversor PCF8591 - 3.jpg;Módulo Conversor PCF8591 - 4.jpg',
+		'Modulo Transmissor-Receptor RF de 433MHz.jpg',
+		'Modulo Player MP3 Music com controle Serial UART1.jpg;Modulo Player MP3 Music com controle Serial UART2.jpg',
+		'Módulo Joystick KY-023.jpg',
+		'Módulo Receptor FM TEA57671.jpg;Módulo Receptor FM TEA5767_pinout.jpg;Módulo Receptor FM TEA5767_schematictea.jpg',
+		'Módulo Camera VGA 300KP OV7670.jpg',
+		'Joystick Escudo v1.2.jpg',
+		'Cabo conversor IPX para RP-SMA macho.jpg',
+		'Conversor Lógico Bidirecional 5V-3V.jpg',
+		'Placa de Desenvolvimento A7 GPS GPRS GSM SMS e Módulo de Voz.jpg',
+		'Módulo GPS  com antena Ulbox ATK-NEO-6M-V121.jpg;Módulo GPS  com antena Ulbox ATK-NEO-6M-V122.jpg;Módulo GPS  com antena Ulbox ATK-NEO-6M-V123.jpg',
+		'Placa com Multiplexador-Demultiplexador Analógico CD74HC4067 de 16 canais.jpg',
+		'CNC Shield V3 para impressora 3D com 4 Drivers A4988_1.jpg;CNC Shield V3 para impressora 3D com 4 Drivers A4988_2.jpg', 
+		'Controle para uso em MP3.jpg', 'LoRa_SX1278_433MHz_Module_DRF1278F_1.jpg;LoRa_SX1278_433MHz_Module_DRF1278F_2.jpg;LoRa_SX1278_433MHz_Module_DRF1278F_3.jpg;LoRa_SX1278_433MHz_Module_DRF1278F_4.jpg',
+		'Load Sensor - 50kg_1.jpg;Load Sensor - 50kg_2.jpg',
+		'Módulo TTL para RS485 para Arduino_1.jpg;Módulo TTL para RS485 para Arduino_2.jpg;Módulo TTL para RS485 para Arduino_3.jpg',
+		'NRF24L01 + PA + LNA (com antena)_1.jpg;NRF24L01 + PA + LNA (com antena)_2.jpg', 
+		'SD_Card_Module_1.jpg;SD_Card_Module_2.jpg;SD_Card_Module_Pin_Outs.png',
+		'MCP4725_1.png;MCP4725_2.jpg;MCP4725_3.jpg', 
+		'x9c103s_digital_potentiometer_module_2.jpg;x9c103s_digital_potentiometer_module_1.jpg;Potenciômetro Digital X9C103S_1.jpg;Potenciômetro Digital X9C103S_2.jpg;Potenciômetro Digital X9C103S_3.jpg;Potenciômetro Digital X9C103S_4.jpg',
+		'Mini_RS232_to_TTL_Converter_1.jpg;Mini_RS232_to_TTL_Converter_2.jpg'
+	) AND 
+       locationDatasheet IN (
+		'', 
+		'ZFM-20_Series_Fingerprint_Identification_Module-User_Manual.pdf;DY001fingerprint.pdf;adafruit-optical-fingerprint-sensor.pdf',
+		'DRF1278F - 20dBm LoRa Long Range RF Front-end Module.pdf', 'Load Sensor - 50kg.pdf', 'nRF24L01P_Product_Specification_1_0.pdf;nWP_011_v1.1.pdf;RF_Test_Instructions_nRF24L01P_v1_0.pdf;Tuning_the_nFR24xx_matching_network.pdf',
+		'SDCard Module_schematic.pdf;Micro SD Data Sheet.pdf;SDCard Datasheet  SDCard V 1.2.pdf',
+		'MCP4725.pdf', 'X9C102, X9C103, X9C104, X9C503 - Digitally Controlled Potentiometer.pdf',
+		'MAX3222, MAX3232, MAX3237, MAX3241 - 3.0V to 5.5V, Low-Power, up to 1Mbps, True RS-232 Transceivers Using Four 0.1µF External Capacitors.pdf'
+	)
+	   
+       locationAttachment IN ('', 'SFGDemoV2.0.rar;Adafruit-Fingerprint-Sensor-Library-master.zip', 'nAN24-12.zip;nRF24L01P-EK.zip') 
+	   
+	   
+       locationBox IN ('CX. PAPEL 05', 'CX. PAPEL 05-B', 'CX. PAPEL 05-A')
