@@ -1,0 +1,116 @@
+<!--
+	https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout
+	https://developer.mozilla.org/pt-BR/docs/Web/API/Node/firstChild
+	https://developer.mozilla.org/pt-BR/docs/Web/API/Node/removeChild
+	https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/JSON/parse
+	http://loading.io/
+-->
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>Everton Pereira - Components</title>
+		<meta charset="utf-8"/>
+		<script src="./libs/jquery-3.2.1.min.js"></script>
+		<link href="./libs/bootstrap-4.0.0/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+		<script src="./libs/bootstrap-4.0.0/js/bootstrap.min.js"></script>
+		<script src="./menu.js"></script>
+		<style>
+			* {
+				font-family: Tahoma;
+			}
+			
+			#principal_menu {
+				display: flex;
+			}
+			
+			#principal_menu > div {
+				border: 0px solid black;
+				margin: 5px;
+				text-align: center;
+				padding: 10px;
+			}
+			
+			#principal_menu > div:nth-child(1) {
+				flex: 4;
+				text-align: right;
+			}
+			
+			#principal_menu > div:nth-child(2) {
+				flex: 1;
+			}
+			
+			#principal_menu > div:nth-child(3) {
+				flex: 4;
+				text-align: left;
+			}
+			
+			#secundary_menu {
+				display: grid;
+				grid-columns: 1fr 1fr 1fr 1fr 1fr;
+				grid-rows: 65px 65px;
+				width: 90%;
+				height: 95%;
+				border-bottom: 0px dotted black;
+				margin: auto;
+			}
+			
+			button{
+				margin: 5px;
+			}
+			
+			#result_process {
+				display: grid;
+				grid-columns: 5fr 5fr 15fr 5fr 1fr 5fr 5fr 1fr;
+				grid-rows: 65px 65px;
+				width: 90%;
+				height: 95%;
+				border-bottom: 0px dotted red;
+				margin: auto;
+			}
+			
+			tr:nth-child(even){
+				background-color: #eee;
+			}
+			
+			.class_id, .class_category{
+				padding: 0px 5px 0px 5px;
+				text-align: center;
+			}
+			
+			.class_name{
+				font-weight: bold;
+			}
+			
+			.class_description{
+			}
+			
+			.class_quantity{
+			}
+			
+			.class_locationBox{
+			}
+			
+			.class_locationImage{
+			}
+			
+			.class_status{
+			}
+		</style>
+	</head>
+	<body>
+		<h1 style="text-align:center;">My Itens</h1>
+		<div id="principal_menu">
+			<div>
+				<button type="button" class="btn btn-info" value="category" onclick="loadOption('secundary_menu', 'result_process', this.value);" style="min-width:10rem;"><b>Category</b></button>
+			</div>
+			<div>
+				<button type="button" class="btn btn-info" value="location" onclick="loadOption('secundary_menu', 'result_process', this.value);" style="min-width:10rem;"><b>Location</b></button>
+			</div>
+			<div>
+				<button type="button" class="btn btn-info" value="query" onclick="loadOption('secundary_menu', 'result_process', this.value);" style="min-width:10rem;"><b>Query SQL</b></button>
+			</div>
+		</div>
+		<div id="secundary_menu"></div>		
+		<div id="result_process"></div>
+	</body>
+</html>
