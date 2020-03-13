@@ -35,7 +35,8 @@ var category_options_english = [
 ];
 
 var location_options_portuguese = [
-	'Caixa 000'/*,
+	'Bancada',
+	'Caixa 000',/*
 	'Caixa 001',
 	'Caixa 002',
 	'Caixa 003',
@@ -57,12 +58,13 @@ var location_options_portuguese = [
 	'Caixa Armario 09',
 	'Caixa Armario 10',
 	'Caixa Armario 11',
-	'Caixa Armario 12',
+	'Caixa Armario 12',*/
 	'Caixa Papel 01',
 	'Caixa Papel 02',
 	'Caixa Papel 03',
 	'Caixa Papel 04',
 	'Caixa Papel 05',
+	'Caixa Papel 06'/*,
 	'Maleta 01',
 	'Outros',
 	'Todos'
@@ -71,7 +73,8 @@ var location_options_portuguese = [
 ];
 
 var location_options_english = [
-	'Box 000'/*,
+	'Office',
+	'Box 000',/*
 	'Box 001',
 	'Box 002',
 	'Box 003',
@@ -93,12 +96,13 @@ var location_options_english = [
 	'Cabinet box 09',
 	'Cabinet box 10',
 	'Cabinet box 11',
-	'Cabinet box 12',
+	'Cabinet box 12',*/
 	'Paper box 01',
 	'Paper box 02',
 	'Paper box 03',
 	'Paper box 04',
 	'Paper box 05',
+	'Paper box 06'/*,
 	'Component case 01',
 	'Other',
 	'All'

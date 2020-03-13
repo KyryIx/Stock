@@ -1,11 +1,769 @@
 INSERT INTO components( name, description, category, quantity, locationBox, status, locationImage, locationDatasheet, locationAttachment ) VALUES
 (
+	'Capacitor Eletrolítico SNAP-IN 100uF/400V',
+	'Capacitor Eletrolítico SNAP-IN 100uF por 400V com 22mm de diametro e 30mm de altura.',
+	'Capacitor',
+	1,
+	'',
+	'NOT ORGANIZED',
+	'Capacitor eletrolitico snap-in.jpg',
+	'',
+	''
+),
+(
+	'Capacitor Eletrolítico Snap-in 47uF/400V',
+	'Capacitor G-LUXON Eletrolítico Snap-in 47UF por 400V e TW85&deg;. Di&acirc;metro de 22mm e altura de 20mm.',
+	'Capacitor',
+	1,
+	'',
+	'NOT ORGANIZED',
+	'Capacitor eletrolitico snap-in.jpg',
+	'',
+	''
+),
+(
+	'Capacitor Huang Eletrolítico 33uF/400V',
+	'Capacitor Huang Eletrolítico 33UF por 400V.Di&acirc;metro de 16mm e altura de 22mm. Temperatura de -40&deg;C até 105&deg;C.',
+	'Capacitor',
+	1,
+	'',
+	'NOT ORGANIZED',
+	'Capacitor Eletrolítico 33UF-400V - 105.jpg',
+	'',
+	''
+),
+(
+	'Capacitor trimmer 20pF',
+	'Capacitor trimmer 20pF na cor vermelha e com 2 terminais.',
+	'Capacitor',
+	3,
+	'',
+	'NOT ORGANIZED',
+	'Capacitor trimmer 20pF vermelho 2 terminais.jpg;Capacitor trimmer 2 terminais.png',
+	'',
+	''
+),
+(
+	'Capacitor trimmer 5pF',
+	'Capacitor trimmer 5pF na cor azul e com 2 terminais.',
+	'Capacitor',
+	1,
+	'',
+	'NOT ORGANIZED',
+	'Capacitor trimmer 5pF azul 2 terminais.jpg;Capacitor trimmer 2 terminais.png',
+	'',
+	''
+),
+(
+	'Capacitor trimmer 30pF',
+	'Capacitor trimmer 30pF na cor verde e com 2 terminais.',
+	'Integrated Circuit',
+	1,
+	'',
+	'NOT ORGANIZED',
+	'Capacitor trimmer 30pF verde 2 terminais.jpg;Capacitor trimmer 2 terminais.png',
+	'',
+	''
+),
+(
+	'MOC3020 - Acoplador Óptico',
+	'Acoplador Óptico que também é isolador. Driver Fototriac para saída 250V. Driver de saída projetado para 220V AC.',
+	'Circuito',
+	7,
+	'',
+	'NOT ORGANIZED',
+	'MOC3020.jpg',
+	'',
+	''
+),
+(
+	'PIC18F4550 - Microcontrolador',
+	'Microcontrolador com USB 2.0, 13 canais A/D de 10 bits, 24k bytes de Flash, SRAM de 2048 bytes, 256 bytes de EEPROM, 35 I/O, SPP, SPI, I2C, EUSART, timers de 8 (1) e 16 (3) bits.',
+	'Integrated Circuit',
+	1,
+	'',
+	'NOT ORGANIZED',
+	'PIC18F4550.jpg',
+	'',
+	''
+),
+(
+	'AT28C256 - Memória EEPROM',
+	'Memória EEPROM AT28C256 de 256K bits (32k x 8).',
+	'Integrated Circuit',
+	1,
+	'',
+	'NOT ORGANIZED',
+	'AT28C256-20PC.jpg',
+	'',
+	''
+),
+(
+	'AT28C64 - Memória EEPROM',
+	'Memória EEPROM AT28C64 de 64K bits (8k x 8).',
+	'Integrated Circuit',
+	2,
+	'',
+	'NOT ORGANIZED',
+	'AT28C64.jpg',
+	''
+	''
+),
+(
+	'PIC16F84A - Microcontrolador',
+	'Microcontrolador de 8 bit, com apenas 35 instruções, 1024 palavras de memória de programa, 68 bytes RAM, 64 bytes EEPROM.',
+	'Integrated Circuit',
+	5,
+	'',
+	'NOT ORGANIZED',
+	'PIC16F84A.jpg',
+	'',
+	''
+),
+(
+	'dsPIC4013 - Microcontrolador',
+	'Microcontrolador alta performance de 16 bits para controle de sinal digital, 48k+16k bytes de memória de programa, 2048 bytes SRAM, 1024 bytes EEPROM, 5 timers 16 bits, 4 PWM, interface codec AC 97 e I2S, 13 canais A/D 12 bits, 2 UART, 1 SPI/I2C/CAN',
+	'Integrated Circuit',
+	1,
+	'',
+	'NOT ORGANIZED',
+	'dsPIC30F4013.png',
+	'',
+	''
+),
+(
+	'PIC16F628A - Microcontrolador',
+	'Microcontrolador de 8 bit, com apenas 35 instruções, 2048 palavras de memória de programa, 224 bytes RAM, 128 bytes EEPROM, 2 comparadores, timer de 8/16 bits, PWM de 10 bits e USART.',
+	'Integrated Circuit',
+	3,
+	'',
+	'NOT ORGANIZED',
+	'PIC16F628A.jpg',
+	'',
+	''
+),
+(
+	'80C51 - Microcontrolador',
+	'Microcontrolador 80C51 de chip CHMOS de 8 bit, com 128 x 8 bit de RAM, 32 linhas de programação I/O, 2 timers/contadores, processador boleano, ...',
+	'Integrated Circuit',
+	1,
+	'',
+	'NOT ORGANIZED',
+	'80C51.jpg',
+	'',
+	''
+),
+(
+	'PIC12F675 - Microcontrolador',
+	'Microcontrolador 8 pinos em 8 bits com 6 pinos I/O, 1 comparador analógico, 1024 palavras de memória de programa, 64 bytes SRAM, 128 bytes EEPROM, 6 I/O, 4 canais I/O de 10 bits e um timer de 8 bits e outro de 16 bits.',
+	'Integrated Circuit',
+	1,
+	'',
+	'NOT ORGANIZED',
+	'PIC12F675.jpg',
+	'',
+	''
+),
+(
+	'AT24C04 - Memória EEPROM',
+	'Memória EEPROM com interface serial I2C. Outro nome pode ser ATMLU018. Memória de tamanho de 16K (512 x 8) bytes.',
+	'Integrated Circuit',
+	1,
+	'',
+	'NOT ORGANIZED',
+	'AT24C04-DIP-8-Serial EEPROM (ATMLU018).jpg',
+	'',
+	''
+),
+(
+	'6N138 - Acoplador Óptico',
+	'Acoplador óptico de alta velocidade, 100kBd, corrente de entrada baixa e saída de fotodiodo acoplador com aplicações em interface de sistemas de microprocessamento, recepção de linha RS232, tradução de tensão TTL e CMOS, entre outras.',
+	'Integrated Circuit',
+	12,
+	'',
+	'NOT ORGANIZED',
+	'6N138.jpg',
+	'',
+	''
+),
+(
+	'TLP521 - Acoplador Óptico',
+	'Acoplador óptico com um fototransistor dimensões 6.4+-0.25 x 4.58+-0.25 mm com 0.26g.',
+	'Integrated Circuit',
+	1,
+	'',
+	'NOT ORGANIZED',
+	'TLP521 - Acoplador Optico.jpg',
+	'',
+	''
+),
+(
+	'EL817 - Acoplador Óptico',
+	'Acoplador óptico com VCE=5V e IF=5mA.',
+	'Integrated Circuit',
+	4,
+	'',
+	'NOT ORGANIZED',
+	'EL817.jpg',
+	'',
+	''
+),
+(
+	'4N25 - Acoplador Óptico',
+	'Acoplador óptico com fototransistor de saída e com conexão de base.',
+	'Integrated Circuit',
+	9,
+	'',
+	'NOT ORGANIZED',
+	'4N25.jpg',
+	'',
+	''
+),
+(
+	'NE555 - Timer',
+	'Timer com baixo tempo de turn-off, máxima frequência de operação maior que 500kHz, tempo de microsegundos à horas, saída de até 200mA, entre outros.',
+	'Integrated Circuit',
+	4,
+	'',
+	'NOT ORGANIZED',
+	'NE555.jpg',
+	'',
+	''
+),
+(
+	'741 - Amplificador Operacional de Uso Geral',
+	'Amplificador Operacional com proteção, ganho em torno de 200V/mV, resistência de entrada de 2 MOhms e resistência de saída de 75 Ohms.',
+	'Integrated Circuit',
+	6,
+	'',
+	'NOT ORGANIZED',
+	'741-op-amp.png',
+	'',
+	''
+),
+(
+	'LM358 - Dual amplificador operacional de baixa potência',
+	'Dual amplificador operacional de baixa potência com grande ganho de tensão DC de 100dB, larga largura de banda (ganho unitário) de 1MHz com tensão de alimentação variando entre 3V~32V.',
+	'Integrated Circuit',
+	1,
+	'',
+	'NOT ORGANIZED',
+	'LM358.jpg',
+	'',
+	''
+),
+(
+	'MT8870DE - Receptor integrado de DTMF',
+	'Receptor integrado de DTMF com modo de baixa potência, inibidor, aplicações em sistemas de cartão de crédito, controle remoto, entre outros.',
+	'Integrated Circuit',
+	1,
+	'',
+	'NOT ORGANIZED',
+	'MT8870.jpg',
+	'',
+	''
+),
+(
+	'MAX232N/ST232BN - Driver e Receiver EIA-232',
+	'Driver e Receiver EIA-232, com operação acima até 120kbits/s, com dois drivers e dois receptores e tensão de alimentação +-30V.',
+	'Integrated Circuit',
+	3,
+	'',
+	'NOT ORGANIZED',
+	'MAX232N.jpg;ST232.jpg',
+	'',
+	''
+),
+(
+	'LM324 - Quatro Amplificadores Operacional',
+	'Quatro Amplificadores Operacional em um único chip, circuito de saída protegido, intervalo de alimentação de 3~32V, entre outras características.',
+	'Integrated Circuit',
+	1,
+	'',
+	'NOT ORGANIZED',
+	'LM324.jpg',
+	'',
+	''
+),
+(
+	'ADC0804LCN - Conversor A/D de 8Bit',
+	'Conversor A/D de resolução de 8 bits com tempo de conversão de 100us. Tensão de alimentação de 5V com intervalo de tensão de entrada de 0~5V.',
+	'Integrated Circuit',
+	1,
+	'',
+	'NOT ORGANIZED',
+	'ADC0804LCN.jpg',
+	'',
+	''
+),
+(
+	'L293B - Drivers de quatro canais',
+	'Drivers com quatro canais com corrente de saída de 1A por canal e 2A de pico, alta imunidade a ruídos e proteção contra sobre temperatura.',
+	'Integrated Circuit',
+	1,
+	'',
+	'NOT ORGANIZED',
+	'L293D.jpg',
+	'',
+	''
+),
+(
+	'ULN2003APG - Arranjo de 7 Darlington',
+	'Arranjo de 7 Darlington de alta corrente, sinais 5V TTL e CMOS e 500mA por saída.',
+	'Integrated Circuit',
+	1,
+	'',
+	'NOT ORGANIZED',
+	'ULN2803.jpg;ULN2003APG.jpg',
+	'',
+	''
+),
+(
+	'74HC595 - conversor de serial para paralelo',
+	'Conversor com registrador de deslocamento de 8 bits com registradores de saída com 3 estados, alimentação de 2~6V, e aplicações em switches de rede, dislpay de LEDs e servidores.',
+	'Integrated Circuit',
+	8,
+	'',
+	'NOT ORGANIZED',
+	'SN74HC595.jpg',
+	'',
+	''
+),
+(
+	'4019 - Seletor de Porta AND/OR CMOS',
+	'Seletor de Porta AND/OR CMOS com 4 destas, com aplicações em seleção de porta AND*OR, deslocamento para direita/esquerda de registradores, entre outros.',
+	'Integrated Circuit',
+	2,
+	'',
+	'NOT ORGANIZED',
+	'CD4019.jpg',
+	'',
+	''
+),
+(
+	'74HC238 - Decoder/Demultiplexador inverso e não-inverso',
+	'Decoder/Demultiplexador inverso e não-inverso de alta velocidade com 8 bits, tensão de 2~6V e tensão nominal de 3.3V e 5V.',
+	'Integrated Circuit',
+	3,
+	'',
+	'NOT ORGANIZED',
+	'74HC238.jpg;CD74HC238.jpg',
+	'',
+	''
+),
+(
+	'4511 - Driver decodificador BCD para display de 7 segmentos',
+	'Driver decodificador BCD para display de 7 segmentos com aplicações em display de LED de catodo comum, catodo comum multiplexado, incandescente ou de fluorescente de baixa tensão.',
+	'Integrated Circuit',
+	4,
+	'',
+	'NOT ORGANIZED',
+	'CD4511.jpg',
+	'',
+	''
+),
+(
+	'74LS245 - Transceptor de Barramento Octal com 3 estados de saída',
+	'Transceptor de Barramento Octal com 3 estados de saída, com aplicações em construção de automação, controle e automação de fabricas e testes e medidas.',
+	'Integrated Circuit',
+	4,
+	'',
+	'NOT ORGANIZED',
+	'SN74LS245.jpg',
+	'',
+	''
+),
+(
+	'4011 - Quatro portas NAND',
+	'Quatro portas NAND com duas entradas por porta.',
+	'Integrated Circuit',
+	2,
+	'',
+	'NOT ORGANIZED',
+	'CD4011.jpg',
+	'',
+	''
+),
+(
+	'4001 - Quatro portas NOR',
+	'Quatro portas NOR com duas entradas por porta.',
+	'Integrated Circuit',
+	2,
+	'',
+	'NOT ORGANIZED',
+	'CD4001.jpg',
+	'',
+	''
+),
+(
+	'74HC32 - Quatro portas OR',
+	'Quatro portas OR com duas entradas por porta.',
+	'Integrated Circuit',
+	2,
+	'',
+	'NOT ORGANIZED',
+	'SN74HC32.jpg',
+	'',
+	''
+),
+(
+	'74HC00 - Quatro portas NAND',
+	'Quatro portas NAND com duas entradas por porta.',
+	'Integrated Circuit',
+	2,
+	'',
+	'NOT ORGANIZED',
+	'SN74HC00N.jpg',
+	'',
+	''
+),
+(
+	'74HC08 - Quatro portas AND',
+	'Quatro portas AND com duas entradas por porta.',
+	'Integrated Circuit',
+	2,
+	'',
+	'NOT ORGANIZED',
+	'SN74HC08N.jpg',
+	'',
+	''
+),
+(
+	'74HC04 - Seis portas inversoras',
+	'Seis portas inversoras, isto é, seis portas NOT.',
+	'Integrated Circuit',
+	2,
+	'',
+	'NOT ORGANIZED',
+	'SN74HC04N.jpg',
+	'',
+	''
+),
+(
+	'4071 - Quatro portas OR',
+	'Quatro portas OR com duas entradas por porta.',
+	'Integrated Circuit',
+	2,
+	'',
+	'NOT ORGANIZED',
+	'HEF4071.jpg',
+	'',
+	''
+),
+(
+	'ATMEGA328P-PU - Microcontrolador',
+	'Microcontrolador CMOS 8-bit de 131 instruções, RISC, 32 registradores trabalho uso geral 8-bit, 32KBytes memória flash, 1KBytes EEPROM, 2KBytes SRAM, 2 timer/contador 8-bit, 1 timer/contador 16-bit, 6 canais PWM, 8 canais A/D 10-bit, entre outros.',
+	'Integrated Circuit',
+	10,
+	'',
+	'NOT ORGANIZED',
+	'ATMEGA328P-PU.jpg',
+	'',
+	''
+),
+(
+	'LM567CN - Decodificador de Tom',
+	'Decodificador de tom de frequência central ajustável de 0.01Hz até 500kHz, com saída lógica de até 100mA, com aplicações em decodificação de toque de tom, oscilador de precisão, controle ultrassônico, entre outros.',
+	'Integrated Circuit',
+	2,
+	'',
+	'NOT ORGANIZED',
+	'LM567-NE567-tone-decoder.jpg',
+	'',
+	''
+),
+(
+	'INA118 - Amplificador de instrumentação',
+	'Amplificador de instrumentação INA118, de baixa potência e alta precisão, com ganho de 1 até 10000. Alimentação de +-1.35~+-18V.',
+	'Integrated Circuit',
+	1,
+	'',
+	'NOT ORGANIZED',
+	'INA118-INA118P-DIP8.jpg',
+	'',
+	''
+),
+(
+	'Alicate Compressão TALON TL-H518A',
+	'Cripador TALON TL-H518A para cabos coaxial RG59 e RG6 com conector F.',
+	'Tool',
+	1,
+	'',
+	'NOT ORGANIZED',
+	'Alicate Compressão TALON TL-H518A.jpg',
+	'',
+	''
+),
+(
+	'Alicate Decapador de Cabo Coaxial',
+	'Descascador de fios e cabo coaxial de 4, 6, 8 e 12mm, podendo descascar fios RG58 e RG59.',
+	'Tool',
+	1,
+	'',
+	'NOT ORGANIZED',
+	'Alicate Decapador de Cabo Coaxial.jpg',
+	'',
+	''
+),
+(
+	'Display Matriz de LED Vermelho',
+	'Display Matriz HS-757-BS Anodo Comum Vermelho, 13x18mm.',
+	'LED',
+	1,
+	'',
+	'NOT ORGANIZED',
+	'Display Matriz HS-757-BS Anodo Comum Vermelho.png;LED Dot Matrix Display 5x7 1.9mm Red Common Anode-Common Cathode  757AS-757BS.jpg',
+	'',
+	''
+),
+(
+	'Mini Quadricoptero JINXINGDA JD-385',
+	'Marca: JINXINGDA; Modelo: JD-385; Material: ABS + liga de alumínio; Canal: 4 Canais; Especificação Canal: back/forward/backward/upward/downward/left/right/3D; Giroscópio: Sim; Frequência Controle Remoto: 2.4GHz; Faixa de controle remoto: 60~80 metros; Capacidade da bateria: 240 mAh; Tipo de Bateria: Polímero íon de lítio; Tempo de carregamento: 30 minutos; Tempo de Trabalho: 8~10 minutos',
+	'Other',
+	1,
+	'',
+	'NOT ORGANIZED',
+	'JINXINGDA JD-385_1.jpg;JINXINGDA JD-385_2.jpg;JINXINGDA JD-385_3.jpg;JINXINGDA JD-385_4.jpg;JINXINGDA JD-385_5.jpg;JINXINGDA JD-385_6.jpg;JINXINGDA JD-385_7.jpg',
+	'',
+	''
+),
+(
+	'Tv Portátil LCD Midi Japan Md-7550',
+	'Tv Portátil TFT-LCD Midi MD-7550, 7 polegadas, colorida, analógica e resolução de 640 x 480 pixel.',
+	'Other',
+	1,
+	'',
+	'NOT ORGANIZED',
+	'TV MIDI MD-7550.png',
+	'',
+	''
+),
+(
+	'Scanner 1D Scanworld-918',
+	'Material: Case Plástico; Interface: USB; Tipo: Pistola scanner de código de barras; Uso: Identifificar código de barra 1D; Marca: Barcode Scanner ; Modelo: Scanworld-918',
+	'Other',
+	1,
+	'',
+	'NOT ORGANIZED',
+	'Scanner 1D Scanworld-918.png',
+	'',
+	''
+),
+(
+	'Conversor Analógico para Digital (ADC) de 24-Bit HX711 para balanças',
+	'Módule Amplificador HX711 para leitura de massa em células de carga. Conexões: fio vermelho para E+, fio preto para E-, fio verde para A+ e fio branco para A-. Alimentação: 2.6~5.5V; Consumo de corrente: operação normal < 1.5mA, desligado < 1uA.',
+	'DIY',
+	1,
+	'',
+	'NOT ORGANIZED',	'Load_Cell_Amplifier_HX711_1.jpg;Load_Cell_Amplifier_HX711_2.jpg;Load_Cell_Amplifier_HX711_3.jpg;Load_Cell_Amplifier_HX711_4.jpg;Load_Cell_Weight_Sensor_1kg_3.jpg',
+	'HX711 - 24-Bit Analog-to-Digital Converter (ADC) for Weigh Scales.pdf',
+	''
+),
+(
+	'PIC16F688 - Microcontrolador',
+	'Microcontrolador de 8 bit, com 35 instruções, 4096 palavras de mem. de programa, 256 bytes SRAM, 256 bytes EEPROM, 12 pinos I/O, módulo comparador analógico, conversor A/D resolução 10 bits e 8 canais, módulo USART (RS-485/RS-232/LIN) 1.2 e ICSP.',
+	'Integrated Circuit',
+	1,
+	'',
+	'NOT ORGANIZED',
+	'microcontrolador_PIC16F688.jpg',
+	'PIC16F688.pdf',
+	''
+),
+(
+	'MCP2551 - CAN Transceiver',
+	'Transceiver para comunicação entre TTL e CAN e permitindo comunicações até 112 nós.',
+	'Integrated Circuit',
+	2,
+	'',
+	'NOT ORGANIZED',
+	'MCP2551.jpg',
+	'AN228 - A CAN Physical Layer Discussion.pdf;AN713 - An introduction to the CAN protocol that discusses the basics and key features.pdf;MCP2551- High-Speed CAN Transceiver.pdf;TB3101 - MCP2551 to MCP2561 Migration.pdf',
+	''
+),
+(
+	'6N139 - Acoplador Óptico',
+	'Acoplador óptico de alta velocidade, 100kBd, corrente de entrada baixa e saída de fotodiodo acoplador com aplicações em interface de sistemas de microprocessamento, recepção de linha RS232, tradução de tensão TTL e CMOS, entre outras.',
+	'Integrated Circuit',
+	8,
+	'',
+	'NOT ORGANIZED',
+	'6N139.jpg',
+	'6N138, 6N139.pdf',
+	''
+),
+(
+	'IR2104 - Driver Meia-Ponte',
+	'VOFFSET: 600V max.; IO+/-: 130 mA / 270 mA; ton/off (typ.): 680 & 150 ns; Deadtime (typ.): 520 ns; Gate drive supply (VOUT) range from 10 to 20V; 3.3V, 5V and 15V input logic compatible',
+	'Integrated Circuit',
+	1,
+	'',
+	'NOT ORGANIZED',
+	'IR2104_1.jpg;IR2104_2.jpg',
+	'IR2104 - Half-Bridge Driver.pdf',
+	''
+),
+(
+	'LF351 - Amplificador Operacional com estágio de entrada com JFET',
+	'Internally adjustable input offset voltage; Low input bias and offset current; Output short-circuit protection; High input impedance JFET input stage; Internal frequency compensation; Latch up free operation; High slew rate 16 V/µs (typical)',
+	'Integrated Circuit',
+	1,
+	'',
+	'NOT ORGANIZED',
+	'LF351N-LF351-OPAMP-JFET-4MHZ-8DIP_1.jpg;LF351N-LF351-OPAMP-JFET-4MHZ-8DIP_2.jpg',
+	'LF351 - Wide bandwidth single JFET operational amplifiers.pdf',
+	''
+),
+(
+	'LM3900 - Amplificador Operacional',
+	'VCC (single)/VCC+ (dual)/VCC– (dual): 4.5~32 V/2.2~16 V/–2.2~–16 V; AVD - Large-signal differential voltage amplification (VO=10 V, f=100 Hz, RL=10 kΩ) MIN/TYP: 1.2/2.8 V/mV; resistance ri - Input (inverting input)/ro - Output: 1 MΩ/8 kΩ',
+	'Integrated Circuit',
+	1,
+	'',
+	'NOT ORGANIZED',
+	'LM3900.jpg',
+	'LM3900 - Quadruple Norton Operational Amplifiers.pdf',
+	''
+),
+(
+	'ADC0832 - Conversor Serial A/D de 8Bit Multiplexado',
+	'No Zero or Full-Scale Adjust Required; 2-Channel Multiplexer Options with Address Logic; 0V to 5V Input Range with Single 5V Power Supply; Resolution: 8 Bits; Total Unadjusted Error: ±1/2 LSB and ±1 LSB; Low Power: 15 mW; Conversion Time: 32 μs',
+	'Integrated Circuit',
+	1,
+	'',
+	'NOT ORGANIZED',
+	'ADC0832_1.jpg;ADC0832_2.jpg',
+	'ADC0831-N, ADC0832-N, ADC0834-N, ADC0838-N - 8-Bit Serial I-O A-D Converters with Multiplexer Options.pdf',
+	''
+),
+(
+	'TBA820M - Amplificador de Audio de 1.2W',
+	'Supply voltage (Vs): 3~16 V; Output peak current (Io): 1.5 A; Power dissipation at Tamb=50°C (Ptot): 1 W; Input resistance [pin 3] f=1 kHz (Ri): 5 MΩ',
+	'Integrated Circuit',
+	1,
+	'',
+	'NOT ORGANIZED',
+	'TBA820M.jpg',
+	'TBA820M - 1.2W Audio Amplifier.pdf',
+	''
+),
+(
+	'ULN2803A - Array de Transistores Darlington',
+	'500 mA - Rated Collector Current (Single Output); High-Voltage Outputs: 50 V; Output Clamp Diodes; Inputs Compatible With Various Types of Logic',
+	'Integrated Circuit',
+	1,
+	'',
+	'NOT ORGANIZED',
+	'ULN2803_1.jpg;ULN2803_2.jpg',
+	'ULN2803A - Darlington Transistor Arrays.pdf',
+	''
+),
+(
+	'4070 - Quatro portas OR Exclusivo (XOR)',
+	'Quatro portas OR Exclusivo com duas entradas por porta.',
+	'Integrated Circuit',
+	3,
+	'',
+	'NOT ORGANIZED',
+	'HCF4070BE.png',
+	'HCF4070.pdf;HCF4070B.pdf',
+	''
+),
+(
+	'TL072CP - Amplificador Operacional com entrada JFET e baixo ruído',
+	'Baixo consumo de alimentação; Proteção de saída de curto-circuito; Baixa distorção total harmônica: 0.003% (Típico); Alta Impedância de entrada (estágio de entrada JFET); Alto taxa de Slew: 13 V/μs (Típico)',
+	'Integrated Circuit',
+	2,
+	'',
+	'NOT ORGANIZED',
+	'TL072.jpg',
+	'TL07xx Low-Noise JFET-Input Operational Amplifiers.pdf',
+	''
+),
+(
+	'TL071CP - Amplificador Operacional com entrada JFET e baixo ruído',
+	'Baixo consumo de alimentação; Proteção de saída de curto-circuito; Baixa distorção total harmônica: 0.003% (Típico); Alta Impedância de entrada (estágio de entrada JFET); Alto taxa de Slew: 13 V/μs (Típico); Pinos de offset',
+	'Integrated Circuit',
+	2,
+	'',
+	'NOT ORGANIZED',
+	'TL071.jpg',
+	'TL07xx Low-Noise JFET-Input Operational Amplifiers.pdf',
+	'',
+	''
+),
+(
+	'H11AA1 - Optoacoplador com entrada AC  e Fototransistor de saída com conexão de base',
+	'Entrada AC ou entrada com duas polaridades; I/O compatível com circuitos integrados; Teste de tensão de isolação: 5300 VRMS',
+	'Integrated Circuit',
+	1,
+	'',
+	'NOT ORGANIZED',
+	'H11AA1_1.jpg;H11AA1_2.jpg',
+	'H11AA1 - Optocoupler, Phototransistor Output, AC Input, with Base Connection.pdf',
+	''
+),
+(
+	'OPA544 - Amplificador Operacional de média potência',
+	'Wide Power Supply Range: ±10V ~ ± 35V; Output Current: 4A (Typ); GBW: 1.4MHz (Typ); Slew Rate: 8V/us (Typ); Vos (Offset Voltage@25C): 5mV (Max); Offset Drift: 10uV/C (Typ); Iq per channel: 12mA (Typ); Input Bias Current: 100pA (Max); CMRR: 106dB (Typ)',
+	'Integrated Circuit',
+	1,
+	'',
+	'NOT ORGANIZED',
+	'OPA544.jpg',
+	'OPA544 - High-Voltage, High-Current Operational Amplifier.pdf',
+	''
+),
+(
+	'Nextion HMI NX3224T024',
+	'NX3224T024 tem 65K (65536) cores (16 bit - 5R6G5B), resolução de 320×240 pixels (também pode configurar 240×320 pixels), sensor resistivo, luz de fundo, suporte a cartão SD, e comunicação serial.',
+	'DIY',
+	1,
+	'',
+	'NOT ORGANIZED',	'NX3224T024_1.jpg;NX3224T024_2.jpg;NX3224T024_3.jpg;NX3224T024_4.jpg;NX3224T024_5.jpg;NX3224T024_6.jpg;NX3224T024_7.jpg;NX3224T024_8.jpg;NX3224T024_9.jpg;NX3224T024_10.jpg;NX3224T024_11.jpg;NX3224T024_12.jpg',
+	'NX3224T024 - ITEAD Wiki.pdf',
+	''
+),
+(
+	'TDA7439 - Processador de áudio controlado digitalmente',
+	'Processador de áudio controlado digitalmente de três bandas, entrada multiplexada, entre outras.',
+	'Integrated Circuit',
+	1,
+	'',
+	'NOT ORGANIZED',
+	'TDA7439_1.jpg;TDA7439_2.jpg',
+	'TDA7439 - Three-band digitally-controlled audio processor.pdf',
+	''
+),
+(
+	'LM311 - Comparador diferencial',
+	'Tempo de resposta rápida: 165 ns; Corrente máxma de bias de entrada: 300 nA; Corrente máxida de offset de entrada: 70 nA; Pode ser operado com simples fonte 5 V',
+	'Integrated Circuit',
+	2,
+	'',
+	'NOT ORGANIZED',
+	'LM311.jpg',
+	'LM111, LM211, LM311 Differential Comparators.pdf',
+	''
+),
+(
+	'LM339 - 4 Comparadores diferencial',
+	'Wide Supply Ranges; Single Supply: 2 V to 36 V; Dual Supplies: ±1 V to ±18 V; Low Supply-Current Drain Independent of Supply Voltage: 0.8 mA (Typ); Low Input Bias Current: 25 nA (Typ); Low Input Offset Voltage: 2 mV (Typ)',
+	'Integrated Circuit',
+	1,
+	'',
+	'NOT ORGANIZED',
+	'LM339.jpg',
+	'LM339, LM239, LM139, LM2901 Quad Differential Comparators.pdf',
+	''
+),
+(
 	'Módulo Serial I2C para Display LCD',
 	'Módulo Serial I2C para Display LCD para conexão de display ao Arduino usando o chip PCF8574',
 	'DIY',
 	1,
 	'Box 000',
-	'ORGANIZED',
+	'NOT ORGANIZED',
 	'Serial LCD I2C Module with chip PCF8574;Figure 1.jpg;Figure 2.jpg;Figure 3.jpg;Figure 4.jpg',
 	'Serial LCD I2C Module with chip PCF8574;Schemas.pdf',
 	'Serial LCD I2C Module with chip PCF8574;New LiquidCrystal _ wiki _ Home — Bitbucket.pdf;NewLiquidCrystal_1.5.1.zip'
@@ -16,7 +774,7 @@ INSERT INTO components( name, description, category, quantity, locationBox, stat
 	'DIY',
 	1,
 	'Box 000',
-	'ORGANIZED',
+	'NOT ORGANIZED',
 	'Module LCD Nokia 5110;Figure 1.jpg',
 	'Module LCD Nokia 5110;Nokia5110.pdf',
 	'Module LCD Nokia 5110;Adafruit-PCD8544-Nokia-5110-LCD-library-1.1.1.zip;Adafruit-GFX-Library-1.7.4.zip;BitmapEncoder-master.zip;LCDAssistant.zip;LCDAssistantCMD.zip;TheDotFactory-0.1.4.7z'
@@ -27,7 +785,7 @@ INSERT INTO components( name, description, category, quantity, locationBox, stat
 	'DIY',
 	1,
 	'Box 000',
-	'ORGANIZED',
+	'NOT ORGANIZED',
 	'16x4 LCD Display White-Blue LED Backlight;Figure 1.jpg',
 	'16x4 LCD Display White-Blue LED Backlight;AGM-1604A-801.pdf',
 	'16x2 LCD Display White-Blue LED Backlight;Arduino - HelloWorld.pdf;In-Depth Tutorial to Interface 16x2 Character LCD Module with Arduino.pdf;HelloWord.ino'
@@ -38,7 +796,7 @@ INSERT INTO components( name, description, category, quantity, locationBox, stat
 	'DIY',
 	1,
 	'Box 000',
-	'ORGANIZED',
+	'NOT ORGANIZED',
 	'3.2 inch TFT LCD Screen Module;Figure 1.jpg;Figure 2.jpg',
 	'3.2 inch TFT LCD Screen Module;SSD1289-spec.pdf',
 	'3.2 in TFT LCD Screen Module;UTFT.zip;3.2 inch TFT Touch LCD.zip;LCD 3.2 TFT LCD Screen Module.zip;The instruction for mega2560 board and 3.2 inch touch screen and shield.zip'
@@ -49,7 +807,7 @@ INSERT INTO components( name, description, category, quantity, locationBox, stat
 	'DIY',
 	1,
 	'Box 000',
-	'ORGANIZED',
+	'NOT ORGANIZED',
 	'16x2 LCD Display White-Blue LED Backlight;Figure 1.jpg;Figure 2.jpg;Figure 3.jpg',
 	'16x2 LCD Display White-Blue LED Backlight;eone-1602a1.pdf',
 	'16x2 LCD Display White-Blue LED Backlight;Arduino - HelloWorld.pdf;In-Depth Tutorial to Interface 16x2 Character LCD Module with Arduino.pdf;HelloWord.ino'
@@ -60,7 +818,7 @@ INSERT INTO components( name, description, category, quantity, locationBox, stat
 	'LED',
 	1,
 	'Box 000',
-	'ORGANIZED',
+	'NOT ORGANIZED',
 	'LED Matrix 8x8 - Triple Color RGB common Anode Display - 5mm;Figure 1.jpg;Figure 2.jpg;Figure 3.jpg;Figure 4.jpg;Figure 5.jpg;Figure 6.jpg',
 	'LED Matrix 8x8 - Triple Color RGB common Anode Display - 5mm;GTM2088ARGB-28.pdf',
 	'LED Matrix 8x8 - Triple Color RGB common Anode Display - 5mm;Product Description.txt;8×32 Scrolling LED Message Display.zip'
@@ -71,7 +829,7 @@ INSERT INTO components( name, description, category, quantity, locationBox, stat
 	'LED',
 	1,
 	'Box 000',
-	'ORGANIZED',
+	'NOT ORGANIZED',
 	'MAX7219 Dot Matrix Display Module;Figure 1.jpg',
 	'MAX7219 Serially Interfaced, 8-Digit LED Display Drivers;MAX7219-MAX7221 Serially Interfaced, 8-Digit LED Display Drivers.pdf',
 	'MAX7219 Dot Matrix Display Module;LedControl-master.zip;8x8 LED Matrix MAX7219 Tutorial with Scrolling Text and Android Control via Bluetooth.zip;Aprenda a usar o Módulo Matriz de LEDs com MAX7219 - Embarcados.pdf'
@@ -82,7 +840,7 @@ INSERT INTO components( name, description, category, quantity, locationBox, stat
 	'LED',
 	1,
 	'Box 000',
-	'ORGANIZED',
+	'NOT ORGANIZED',
 	'SMD 5050 RGB LED Module;Figure 1.png',
 	'SMD 5050 RGB LED Module;5050LED.pdf',
 	'SMD 5050 RGB LED Module;3 Color RGB LED Module - Summerfuel Robotics.pdf'
@@ -93,7 +851,7 @@ INSERT INTO components( name, description, category, quantity, locationBox, stat
 	'LED',
 	1,
 	'Box 000',
-	'ORGANIZED',
+	'NOT ORGANIZED',
 	'0.96 inch SPI Serial 128X64 Yellow Blue OLED Display Module;Figure 1.jpg;Figure 2.jpg;Figure 3.jpg;Figure 4.jpg',
 	'0.96 inch SPI Serial 128X64 Yellow Blue OLED Display Module;SSD1306.pdf',
 	'0.96 inch SPI Serial 128X64 Yellow Blue OLED Display Module;Adafruit_SSD1306-2.0.4.zip;Adafruit-GFX-Library-1.7.4.zip'
@@ -104,7 +862,7 @@ INSERT INTO components( name, description, category, quantity, locationBox, stat
 	'LED',
 	1,
 	'Box 000',
-	'ORGANIZED',
+	'NOT ORGANIZED',
 	'1.3 inch SPI Serial 128X64 Yellow Blue OLED Display Module;Figure 1.jpg;Figure 2.jpg;Figure 3.jpg;Figure 4.jpg',
 	'1.3 inch SPI Serial 128X64 Yellow Blue OLED Display Module;sh1106_datasheet.pdf',
 	'1.3 inch SPI Serial 128X64 Yellow Blue OLED Display Module;Getting started with µOLED displays.zip'
@@ -115,7 +873,7 @@ INSERT INTO components( name, description, category, quantity, locationBox, stat
 	'Tool',
 	1,
 	'Paper Box 01',
-	'ORGANIZED',
+	'NOT ORGANIZED',
 	'Alicate Decapador H5 21K547.jpg',
 	'',
 	''
@@ -126,7 +884,7 @@ INSERT INTO components( name, description, category, quantity, locationBox, stat
 	'Tool',
 	1
 	'Paper Box 01',
-	'ORGANIZED',
+	'NOT ORGANIZED',
 	'Assistente de Soldagem Hikari HK-151.jpg',
 	'',
 	''
@@ -137,7 +895,7 @@ INSERT INTO components( name, description, category, quantity, locationBox, stat
 	'Tool',
 	1,
 	'Paper Box 01',
-	'ORGANIZED',
+	'NOT ORGANIZED',
 	'Extrator de CI PLCC Pinça WJ-368.jpg',
 	'',
 	''
@@ -148,7 +906,7 @@ INSERT INTO components( name, description, category, quantity, locationBox, stat
 	'Tool',
 	1,
 	'Paper Box 01',
-	'ORGANIZED',
+	'NOT ORGANIZED',
 	'Pulseira anti-estática LEKO.jpg',
 	'',
 	''
@@ -159,7 +917,7 @@ INSERT INTO components( name, description, category, quantity, locationBox, stat
 	'Tool',
 	1,
 	'Paper Box 01',
-	'ORGANIZED',
+	'NOT ORGANIZED',
 	'Pinça angular de precisão anti-magnética TS-15.jpg',
 	'',
 	''
@@ -170,7 +928,7 @@ INSERT INTO components( name, description, category, quantity, locationBox, stat
 	'Tool',
 	1,
 	'Paper Box 01',
-	'ORGANIZED',
+	'NOT ORGANIZED',
 	'Alicate Pinça Bico Pato Reto (Polofer).jpg',
 	'',
 	''
@@ -181,7 +939,7 @@ INSERT INTO components( name, description, category, quantity, locationBox, stat
 	'Tool',
 	1,
 	'Paper Box 01',
-	'ORGANIZED',
+	'NOT ORGANIZED',
 	'Alicate Pinça CT01 Aço Inox 125mm - ponta reta lisa.jpg',
 	'',
 	''
@@ -192,7 +950,7 @@ INSERT INTO components( name, description, category, quantity, locationBox, stat
 	'Tool',
 	9,
 	'Paper Box 01',
-	'ORGANIZED',
+	'NOT ORGANIZED',
 	'Broca de aço inoxidável para circuito impresso PCB.jpg',
 	'',
 	''
@@ -203,7 +961,7 @@ INSERT INTO components( name, description, category, quantity, locationBox, stat
 	'Tool',
 	1,
 	'Paper Box 01',
-	'ORGANIZED',
+	'NOT ORGANIZED',
 	'Cabo teste para analisador lógico.jpg',
 	'',
 	''
@@ -214,7 +972,7 @@ INSERT INTO components( name, description, category, quantity, locationBox, stat
 	'Tool',
 	1,
 	'Paper Box 01',
-	'ORGANIZED',
+	'NOT ORGANIZED',
 	'Jogo de Chave Torx T5 A T10.png',
 	'',
 	''
@@ -225,7 +983,7 @@ INSERT INTO components( name, description, category, quantity, locationBox, stat
 	'Tool',
 	1,
 	'Paper Box 01',
-	'ORGANIZED',
+	'NOT ORGANIZED',
 	'Lupa de Aumento 75mm.jpg'
 	'',
 	''
@@ -236,7 +994,7 @@ INSERT INTO components( name, description, category, quantity, locationBox, stat
 	'Tool',
 	1,
 	'Paper Box 01',
-	'ORGANIZED',
+	'NOT ORGANIZED',
 	'Alicate de Corte Diagonal.jpg',
 	'',
 	''
@@ -247,7 +1005,7 @@ INSERT INTO components( name, description, category, quantity, locationBox, stat
 	'Tool',
 	1,
 	'Paper Box 01',
-	'ORGANIZED',
+	'NOT ORGANIZED',
 	'Alicate Aço Especial Corte Zero ACI-12.jpg',
 	'',
 	''
@@ -258,7 +1016,7 @@ INSERT INTO components( name, description, category, quantity, locationBox, stat
 	'Tool',
 	1,
 	'Paper Box 01',
-	'ORGANIZED',
+	'NOT ORGANIZED',
 	'Sugador de Solda Suetoku Profissional.jpg',
 	'',
 	''
@@ -269,7 +1027,7 @@ INSERT INTO components( name, description, category, quantity, locationBox, stat
 	'Tool',
 	1,
 	'Paper Box 01',
-	'ORGANIZED',
+	'NOT ORGANIZED',
 	'Kit de Chaves de Precisão com 31 Peças.jpg',
 	'',
 	''
@@ -280,7 +1038,7 @@ INSERT INTO components( name, description, category, quantity, locationBox, stat
 	'Tool',
 	1,
 	'Paper Box 01',
-	'ORGANIZED',
+	'NOT ORGANIZED',
 	'Luva ESD Anti-estática Fingerfit Ponta dos Dedos.png',
 	'',
 	''
@@ -291,7 +1049,7 @@ INSERT INTO components( name, description, category, quantity, locationBox, stat
 	'Tool',
 	1,
 	'Paper Box 01',
-	'ORGANIZED',
+	'NOT ORGANIZED',
 	'Kit acessorios com 137 pecas para mini esmeril EDA-9QR_1.jpg;Kit Acessorios com 137 Pecas para Mini Esmeril EDA-9QR-2.jpg;Kit Acessorios com 137 Pecas para Mini Esmeril EDA-9QR-3.jpg',
 	'',
 	''
@@ -302,7 +1060,7 @@ INSERT INTO components( name, description, category, quantity, locationBox, stat
 	'Tool',
 	1,
 	'Paper Box 01',
-	'ORGANIZED',
+	'NOT ORGANIZED',
 	'Kit chaves para celular lelong 36 pecas_le-960_1.png;Kit chaves para celular lelong 36 pecas_le-960_2.png',
 	'',
 	''
@@ -313,7 +1071,7 @@ INSERT INTO components( name, description, category, quantity, locationBox, stat
 	'Tool',
 	1,
 	'Paper Box 01',
-	'ORGANIZED',
+	'NOT ORGANIZED',
 	'Pontas para Retífica Black Bull_1.jpg;Pontas para Retífica Black Bull_2.jpg',
 	'',
 	''
@@ -324,7 +1082,7 @@ INSERT INTO components( name, description, category, quantity, locationBox, stat
 	'Tool',
 	1,
 	'Paper Box 01',
-	'ORGANIZED',
+	'NOT ORGANIZED',
 	'Agulha Circuito Eletrônico_1.jpg;Agulha Circuito Eletrônico_2.jpg;Agulha Circuito Eletrônico_3.jpg;Agulha Circuito Eletrônico_4.jpg;Agulha Circuito Eletrônico_5.jpg;Agulha Circuito Eletrônico_6.jpg',
 	'',
 	''
@@ -335,7 +1093,7 @@ INSERT INTO components( name, description, category, quantity, locationBox, stat
 	'Tool',
 	1,
 	'Paper Box 01',
-	'ORGANIZED',
+	'NOT ORGANIZED',
 	'Ponta de Prova Gancho_1.jpg;Ponta de Prova Gancho_2.jpg;Ponta de Prova Gancho_3.jpg;Ponta de Prova Gancho_4.jpg;Ponta de Prova Gancho_5.jpg;Ponta de Prova Gancho_6.jpg',
 	'',
 	''
@@ -346,7 +1104,7 @@ INSERT INTO components( name, description, category, quantity, locationBox, stat
 	'Tool',
 	1,
 	'Paper Box 01',
-	'ORGANIZED',
+	'NOT ORGANIZED',
 	'Chave Ajuste Spectrol TO-008 para trimmer-trimpot.jpg',
 	'',
 	''
@@ -357,7 +1115,7 @@ INSERT INTO components( name, description, category, quantity, locationBox, stat
 	'Tool',
 	1,
 	'Paper Box 01',
-	'ORGANIZED',
+	'NOT ORGANIZED',
 	'escova_esd_hk-219_frente.jpg;escova_esd_hk-219_lateral.jpg',
 	'',
 	''
@@ -368,35 +1126,281 @@ INSERT INTO components( name, description, category, quantity, locationBox, stat
 	'Tool',
 	1,
 	'Paper Box 01',
-	'ORGANIZED',
+	'NOT ORGANIZED',
 	'Detector e Medidor de Tensão Hyx Vd4.jpg',
 	'',
 	''
 ),
-
-
-
-
-
-
-
-
-continuar na caixa de papel 02
-
-
-
-
-
-
-
-
+(
+	'Wi-Pi módulo Wi-Fi para Raspberry Pi',
+	'Wi-Pi módulo Wi-Fi para Raspberry Pi compativel com IEEE 802.11,802.11g e 802.11b. Intervalo de frequência de 2.4GHz até .4835GHz. Suporte nativo para o Linux Raspbian Weezy. Interface USB 2.0 e potência máxima de transmissão de 20dBm.',
+	'Equipment',
+	1,
+	'Paper Box 02',
+	'NOT ORGANIZED',
+	'Wi-Pi módulo Wi-Fi para Raspberry Pi.jpg',
+	'',
+	''
+),
+(
+	'Adaptador USB para Ethernet Apple',
+	'Adaptador USB 2.0 para Ethernet Apple que oferece um conector RJ-45 compatível com Ethernet 10/100BASE-T.',
+	'Equipment',
+	1,
+	'Paper Box 02',
+	'NOT ORGANIZED',
+	'Adaptador USB para Ethernet Apple.jpg',
+	'',
+	''
+),
+(
+	'Gravador AVR USBasp',
+	'Gravador para controladores Atmel AVR com uma conexão USB. Permite a leitura ou escrita na EEPROM, firmware, fuse bits e lock bits. Velocidade de programação maior que 5kBytes/seg. Opção de modo lento SCK para alvos com baixo clock (<1.5MHz).',
+	'Equipment',
+	1,
+	'Paper Box 02',
+	'NOT ORGANIZED',
+	'Gravador AVR USBasp_1.jpg;Gravador AVR USBasp_2.jpg;Gravador AVR USBasp_3.jpg;Gravador AVR USBasp_4.jpg',
+	'',
+	''
+),
+(
+	'Adaptador 10 pinos para 6 pinos AVRISP USBasp',
+	'Adaptador 10 pinos para 6 pinos AVRISP USBasp para uso no gravador AVR USBasp, AVRISP, USBASP e STK500.',
+	'Equipment',
+	1,
+	'Paper Box 02',
+	'NOT ORGANIZED',
+	'Adaptador 10 pinos para 6 pinos AVRISP USBasp_1.jpg;Adaptador 10 pinos para 6 pinos AVRISP USBasp_2.jpg;Adaptador 10 pinos para 6 pinos AVRISP USBasp_3.jpg;Adaptador 10 pinos para 6 pinos AVRISP USBasp_4.jpg',
+	'',
+	''
+),
+(
+	'Conversor USB para RS232 TTL PL2303HX',
+	'Simples comunicação UART e saída de 3.3V ou 5V.',
+	'Equipment',
+	1,
+	'Paper Box 02',
+	'NOT ORGANIZED',
+	'Conversor USB para RS232 TTL PL2303HX.jpg',
+	'',
+	''
+),
+(
+	'Placa Adaptadora de Som USB Virtual com canal 5.1',
+	'Placa de som surround virtual 5.1 com USB 2.0, perfeito para fone de ouvido ou alto falantes e um microfone.',
+	'Equipment',
+	1,
+	'Paper Box 02',
+	'NOT ORGANIZED',
+	'Placa Adaptadora de Som USB Virtual com canal 5.1_1.jpg;Placa Adaptadora de Som USB Virtual com canal 5.1_2.jpg',
+	'',
+	''
+),
+(
+	'Multímetro Digital MD-6130 True RMS',
+	'Multímetro Digital MD-6130 para leituras de tensão/corrente elétrica contínua/alternada (True RMS), de temperatura, de teste de transistores, diodos e continuidade, de resistência, de capacitância, indutância e frequência.',
+	'Equipment',
+	1,
+	'Paper Box 02',
+	'NOT ORGANIZED',
+	'Multímetro Digital MD-6130 True RMS.jpg',
+	'',
+	''
+),
+(
+	'Multímetro Analógico HM202A+',
+	'Multímetro Analógico HM202A+ com medição de tensão elétrica contínua/alternada, corrente elétrica contínua, resistência, decibel, teste de transistores/ICEO e continuidade.',
+	'Equipment',
+	1,
+	'Paper Box 02',
+	'NOT ORGANIZED',
+	'Multímetro Analógico HM202A+.jpg',
+	'',
+	''
+),
+(
+	'Satelite Finder SF-95',
+	'Satelite Finder SF-95 é um localizado de Satélite FINDER 950~2150MHz, com entrada máxima de -10dBm e tensão de alimentação 13~18V DC.',
+	'Equipment',
+	1,
+	'Paper Box 02',
+	'NOT ORGANIZED',
+	'Satelite Finder SF-95.jpg;Satelite Finder SF-95_1.jpg;Satelite Finder SF-95_2.jpg;Satelite Finder SF-95_3.jpg',
+	'',
+	''
+),
+(
+	'PICkit 3 PIC Programmer',
+	'Com conexão USB, execução real-time, compatível MPLAB IDE, monitor curto-circuito/sobre-tensão, suporte baixa tensão até 2V (2~6V), LEDs diagnóstico (alimentação, ocupado e erro), leitura/escrita memória de programa e dados microcontrolador.',
+	'Equipment',
+	1,
+	'Paper Box 02',
+	'NOT ORGANIZED',
+	'PICkit 3 PIC Programmer.jpg',
+	'',
+	''
+),
+(
+	'Gravador de PIC K150 (USB 40ZIF)',
+	'Gravador de microcontroladores PIC de alguns das séries 12C, 12F, 16C, 16F e 18. Gravador com soquete ZIF de 40 pinos. Compatível somente com Windows 98/2000/NT/XP e 7.',
+	'Equipment',
+	1,
+	'Paper Box 02',
+	'NOT ORGANIZED',
+	'Gravador de PIC K150 (USB 40ZIF)_1.jpg;Gravador de PIC K150 (USB 40ZIF)_2.jpg',
+	'',
+	''
+),
+(
+	'Mini Teclado Wireless 2.4Hz USB',
+	'Mini Teclado Wireless 2.4Hz USB com suporte para HTPC, computadores com sistemas operacional Windows/Linux/Mac, PlayStation3, XBOX 360 e Android. Tensão de alimentação de 3V (2x AAA) com corrente menor que 50mA em operação e 1mA em descanso.',
+	'Equipment',
+	1,
+	'Paper Box 02',
+	'NOT ORGANIZED',
+	'Mini Teclado Wireless 2.4Hz USB.jpg',
+	'',
+	''
+),
+(
+	'Analisador Lógico Open Bench',
+	'Analisador lógico open source (Open Bench Logic Sniffer) com interface USB, captura formas de onda de até 50MHz sobre 32 canais, 16 canais de 5V com buffer.',
+	'Equipment',
+	1,
+	'Paper Box 02',
+	'NOT ORGANIZED',
+	'Analisador Lógico Open Bench_1.jpg;Analisador Lógico Open Bench_2.jpg;Analisador Lógico Open Bench_3.jpg',
+	'',
+	''
+),
+(
+	'Balança Digital Portátil',
+	'Balança digital com capacidade de 1000g, e mínimo de 0.1g, com unidades em g, ct, oz e gn. Divisões de 0.1g, temperatura de operação de 10~30ºC e uso de 2 pilhas AAA.',
+	'Equipment',
+	1,
+	'Paper Box 02',
+	'NOT ORGANIZED',
+	'Balança Digital Portátil.jpg',
+	'',
+	''
+),
+(
+	'RF Explorer 3G Combo - Analisador de Espectro',
+	'Analisador de Espectro portátil com tela LCD 128x64 pixels, leitura em 240~960MHz/15~2700MHz, com alcance de 112kHz~100MHz, uma antena Sub-GHz Nagoya NA-773 e outra 2.4GHz helicoidal, amplitude de resolução de 0.5dBm.',
+	'Equipment',
+	1,
+	'Paper Box 02',
+	'NOT ORGANIZED',
+	'RF Explorer 3G Combo - Analisador de Espectro.png',
+	'',
+	''
+),
+(
+	'Microscopio 1000X USB',
+	'Microscópio USB com ampliação de 1000X, com captura de imagem e vídeo.',
+	'Equipment',
+	1,
+	'Paper Box 02',
+	'NOT ORGANIZED',
+	'Microscopio 1000X USB.jpg',
+	'',
+	''
+),
+(
+	'Nano Adaptador USB Wireless N150Mbps TL-WN725N',
+	'Adaptador USB Wireless com velocidade de transmissão Wireless de até 150Mbps e segurança avançada com suporte a WEP de 64/128, WPA, PA2/WPA-PSK/WPA2-PSK (TKIP / AES).',
+	'Equipment',
+	1,
+	'Paper Box 02',
+	'NOT ORGANIZED',
+	'Nano Adaptador USB Wireless N150Mbps TL-WN725N_1.jpg;Nano Adaptador USB Wireless N150Mbps TL-WN725N_2.jpg',
+	'',
+	''
+),
+(
+	'Multímetro Digital Minipa ET-2041',
+	'Leitura tensão contínua (alternada) 200mV~1000V (2V~750V), corrente contínua (alternada) 2mA~20A (20mA~20A), capacitância 2nF~20uF, temperatura, frequência, teste transistores bipolares, teste diodos/continuidade e resistência 200Ohms~200MOhms.'
+	'Equipment',
+	1,
+	'Paper Box 02',
+	'NOT ORGANIZED',
+	'Multímetro Digital Minipa ET-2041.jpg',
+	'',
+	''
+),
+(
+	'Cabo conversor USB para RS232',
+	'Especificação USB 1.1 e 2.0; Suporte RS232 com interface DB9 e DB25; Taxa de transferência acima de 1Mbps',
+	'Equipment',
+	1,
+	'Paper Box 02',
+	'NOT ORGANIZED',
+	'Adaptador USB-RS232 - 1.jpg;Adaptador USB-RS232 - 2.jpg;Adaptador USB-RS232 - 3.jpg;Adaptador USB-RS232 - 4.jpg',
+	'',
+	''
+),
+(
+	'Peso de Calibração de 5 gramas',
+	'Peso de Calibração de 5 gramas.',
+	'Equipment',
+	1,
+	'Paper Box 02',
+	'NOT ORGANIZED',
+	'peso de Calibracao 5 gramas_1.jpg;peso de Calibracao 5 gramas_2.jpg;peso de Calibracao 5 gramas_3.jpg',
+	'',
+	''
+),
+(
+	'Tomada USB 2.0 com 7 portas',
+	'Tomada USB 2.0 com 7 portas compatível com USB 1.1, taxa de transferência de dados de 1.5 Mbps até 480 Mbps e proteção de 500mA.',
+	'Equipment',
+	1,
+	'Paper Box 02',
+	'NOT ORGANIZED',
+	'Tomada USB 2.0 com 7 portas_1.jpg;Tomada USB 2.0 com 7 portas_2.jpg;Tomada USB 2.0 com 7 portas_3.jpg;Tomada USB 2.0 com 7 portas_4.jpg;Tomada USB 2.0 com 7 portas_5.jpg;Tomada USB 2.0 com 7 portas_6.jpg;',
+	'',
+	''
+),
+(
+	'Cabo extensor com conector OBD2 macho para fêmea de 16 pinos para ELM327 da Elbow',
+	'Cabo extensor com conector OBD2 macho para fêmea de 16 pinos para ELM327 da Elbow com comprimento de 60cm',
+	'Equipment',
+	1,
+	'Paper Box 02',
+	'NOT ORGANIZED',	'Extension_Cable_Flat_OBD2_16Pin_Male_to_Female_ELM327_1.jpg;Extension_Cable_Flat_OBD2_16Pin_Male_to_Female_ELM327_2.jpg;Extension_Cable_Flat_OBD2_16Pin_Male_to_Female_ELM327_3.jpg;Extension_Cable_Flat_OBD2_16Pin_Male_to_Female_ELM327_4.jpg',
+	'',
+	''
+),
+(
+	'Conversor USB para RS485',
+	'Módulo conversor USB para RS485; Cor: Preta; Driver USB: CH340; Velocidade: 75~115200bps; Máxima distância de comunicação RS485: 1200m; Dimensões: 60mmx18mmx14mm.';
+	'Equipment',
+	1,
+	'Paper Box 02',
+	'NOT ORGANIZED',
+	'USB to RS485_1.jpg;USB to RS485_2.jpg;USB to RS485_3.jpg;USB to RS485_4.jpg',
+	'',
+	'CH341SER.zip;CH341SER (2).zip'
+),
+(
+	'Conversor USB para RS232 TTL FT232RL',
+	'Módulo Conversor FTDI FT232RL USB para RS232 Serial TTL com operação em 3.3 ou 5V. Chip: FT232RL; LEDs indicadores RX e TX; Tensão TTL selecionável para 5V ou 3.3V; Pinos: DTR, RXD, TX, VCC, CTS, GND; Interface: Mini USB; Dimensões: 36 x 18mm',
+	'Equipment',
+	1,
+	'Paper Box 02',
+	'NOT ORGANIZED',
+	'USB to RS232 TTL FT232RL_1.png;USB to RS232 TTL FT232RL_2.jpg',
+	'FT232R USB UART I.C._v104.pdf',
+	''
+),
 (
 	'CC2530 - Módulo ZigBee',
 	'Composto por 2 Módulos ZigBee CC2530, 2 Placas Base, 2 Antenas 2.4G 3dB, 1 Módulo Smart RF04EE, 2 Cabos USB. Módulo com 16 canais de transmissão, taxa de transmissão de até 250kbps, transmissão confiável de até 250 metros.',
 	'DIY',
 	1,
 	'Paper Box 03',
-	'ORGANIZED',
+	'NOT ORGANIZED',
 	'Module ZigBee CC2530, 2 base board and module Smart RF04EE;Figure 1.jpg;Figure 2.jpg',
 	'Module ZigBee CC2530, 2 base board and module Smart RF04EE;cc2530.pdf',
 	'Module ZigBee CC2530, 2 base board and module Smart RF04EE;ZigBee.7z'
@@ -407,7 +1411,7 @@ continuar na caixa de papel 02
 	'Embedded',
 	1,
 	'Paper Box 03',
-	'ORGANIZED',
+	'NOT ORGANIZED',
 	'Arduino LilyPad.jpg',
 	'',
 	''
@@ -418,7 +1422,7 @@ continuar na caixa de papel 02
 	'Embedded',
 	2,
 	'Paper Box 03',
-	'ORGANIZED',
+	'NOT ORGANIZED',
 	'Arduino Nano V3-0_1.jpg;Arduino Nano V3-0_2.jpg',
 	'',
 	'CH341SER.zip;CH341SER (2).zip',
@@ -429,7 +1433,7 @@ continuar na caixa de papel 02
 	'Embedded',
 	1,
 	'Paper Box 03',
-	'ORGANIZED',
+	'NOT ORGANIZED',
 	'Onion Omega 2 - front-back.png;Onion Omega 2 - Pinout-Diagram.png',
 	'',
 	''
@@ -440,7 +1444,7 @@ continuar na caixa de papel 02
 	'Embedded',
 	1,
 	'Paper Box 03',
-	'ORGANIZED',
+	'NOT ORGANIZED',
 	'Arduino-Mega-2560-Pinout.jpg',
 	'',
 	''
@@ -451,7 +1455,7 @@ continuar na caixa de papel 02
 	'Embedded',
 	1,
 	'Paper Box 03',
-	'ORGANIZED',
+	'NOT ORGANIZED',
 	'Arduino Uno R3.jpg;Arduino Uno R3 - perspective.png',
 	'',
 	''
@@ -462,7 +1466,7 @@ continuar na caixa de papel 02
 	'Embedded',
 	1,
 	'Paper Box 03',
-	'ORGANIZED',
+	'NOT ORGANIZED',
 	'Beaglebone Black - perspective.jpg;Beaglebone Black.jpg;BeagleBone Black - top.jpg',
 	'',
 	''
@@ -473,7 +1477,7 @@ continuar na caixa de papel 02
 	'Embedded',
 	1,
 	'Paper Box 03',
-	'ORGANIZED',
+	'NOT ORGANIZED',
 	'CHIP.png'
 	'',
 	''
@@ -484,7 +1488,7 @@ continuar na caixa de papel 02
 	'Embedded',
 	1,
 	'Paper Box 03',
-	'ORGANIZED',
+	'NOT ORGANIZED',
 	'Raspberry Pi modelo Board B Rev2.0 512 ARM.png',
 	'',
 	''
@@ -495,7 +1499,7 @@ continuar na caixa de papel 02
 	'Embedded',
 	1,
 	'Paper Box 03',
-	'ORGANIZED',
+	'NOT ORGANIZED',
 	'Raspberry Pi 3 model B.jpg',
 	'',
 	''
@@ -506,7 +1510,7 @@ continuar na caixa de papel 02
 	'Equipment',
 	1,
 	'Paper Box 03',
-	'ORGANIZED',
+	'NOT ORGANIZED',
 	'Adaptador TF para SD Card.jpg',
 	'',
 	''
@@ -517,7 +1521,7 @@ continuar na caixa de papel 02
 	'Tool',
 	1,
 	'Paper Box 03',
-	'ORGANIZED',
+	'NOT ORGANIZED',
 	'Adaptador GPIO para Raspberry PI_1.jpg;Adaptador GPIO para Raspberry PI_2.jpg;Adaptador GPIO para Raspberry PI_3.jpg;Adaptador GPIO para Raspberry PI_4.jpg',
 	'',
 	''
@@ -528,7 +1532,7 @@ continuar na caixa de papel 02
 	'Embedded',
 	2,
 	'Paper Box 03',
-	'ORGANIZED',
+	'NOT ORGANIZED',
 	'nodemcu_amica_esp12_1.jpg;nodemcu_amica_esp12_2.jpg',
 	'',
 	''
@@ -539,7 +1543,7 @@ continuar na caixa de papel 02
 	'Embedded',
 	4,
 	'Paper Box 03',
-	'ORGANIZED',
+	'NOT ORGANIZED',
 	'ESP-12F_1.jpg;ESP-12F_2.jpg;ESP-12F_3.jpg;ESP-12F_4.jpg',
 	'ESP-12F.pdf',
 	''
@@ -550,7 +1554,7 @@ continuar na caixa de papel 02
 	'Embedded',
 	1,
 	'Paper Box 03',
-	'ORGANIZED',
+	'NOT ORGANIZED',
 	'ESP-32_1.jpg;ESP-32_2.jpg;ESP-32_3.png;ESP-32_4.png',
 	'ESP32 Datasheet.pdf;ESP-WROOM-32 Datasheet.pdf'
 	'',
@@ -562,7 +1566,7 @@ continuar na caixa de papel 02
 	'Integrated Circuit',
 	10,
 	'Paper Box 04',
-	'ORGANIZED',
+	'NOT ORGANIZED',
 	'DS18B20.png;DS18B20_pins.png',
 	'',
 	''
@@ -573,7 +1577,7 @@ continuar na caixa de papel 02
 	'Integrated Circuit',
 	1,
 	'Paper Box 04',
-	'ORGANIZED',
+	'NOT ORGANIZED',
 	'LM35DZ.jpg',
 	'',
 	''
@@ -584,7 +1588,7 @@ continuar na caixa de papel 02
 	'DIY',
 	1,
 	'Paper Box 04',
-	'ORGANIZED',
+	'NOT ORGANIZED',
 	'Modulo de Sensor de Som.jpg',
 	'',
 	''
@@ -595,7 +1599,7 @@ continuar na caixa de papel 02
 	'DIY',
 	1,
 	'Paper Box 04',
-	'ORGANIZED',
+	'NOT ORGANIZED',
 	'Sensor de chuva.jpg',
 	'',
 	''
@@ -606,7 +1610,7 @@ continuar na caixa de papel 02
 	'DIY',
 	1,
 	'Paper Box 04',
-	'ORGANIZED',
+	'NOT ORGANIZED',
 	'Módulo Sensor de Cartão RFID.jpg',
 	'',
 	''
@@ -617,7 +1621,7 @@ continuar na caixa de papel 02
 	'DIY',
 	1,
 	'Paper Box 04',
-	'ORGANIZED',
+	'NOT ORGANIZED',
 	'Módulo de 3 eixos de aceleração e giroscópio DOF MPU-6050.jpg',
 	'',
 	''
@@ -628,7 +1632,7 @@ continuar na caixa de papel 02
 	'DIY',
 	1,
 	'Paper Box 04',
-	'ORGANIZED',
+	'NOT ORGANIZED',
 	'Módulo de sensor de ultrassônico HC-SR04.jpg',
 	'',
 	''
@@ -639,7 +1643,7 @@ continuar na caixa de papel 02
 	'DIY',
 	1,
 	'Paper Box 04',
-	'ORGANIZED',
+	'NOT ORGANIZED',
 	'Módulo de frequência cardíaca XD-58C.jpg',
 	'',
 	''
@@ -650,7 +1654,7 @@ continuar na caixa de papel 02
 	'DIY',
 	1,
 	'Paper Box 04',
-	'ORGANIZED',
+	'NOT ORGANIZED',
 	'Módulo de Sensor de Corrente até 20A ACS712 20A.jpg',
 	'',
 	''
@@ -661,7 +1665,7 @@ continuar na caixa de papel 02
 	'DIY',
 	1,
 	'Paper Box 04',
-	'ORGANIZED',
+	'NOT ORGANIZED',
 	'Sensor Álcool Etanol MQ-3.jpg',
 	'',
 	''
@@ -672,7 +1676,7 @@ continuar na caixa de papel 02
 	'DIY',
 	1,
 	'Paper Box 04',
-	'ORGANIZED',
+	'NOT ORGANIZED',
 	'Sensor Infravermelho de movimento ROBOX IR HC-SR501.jpg',
 	'',
 	''
@@ -683,7 +1687,7 @@ continuar na caixa de papel 02
 	'DIY',
 	1,
 	'Paper Box 04',
-	'ORGANIZED',
+	'NOT ORGANIZED',
 	'Sensor MQ-2 de gás liquefeito de petróleo e natural.png',
 	'',
 	''
@@ -694,7 +1698,7 @@ continuar na caixa de papel 02
 	'DIY',
 	1,
 	'Paper Box 04',
-	'ORGANIZED',
+	'NOT ORGANIZED',
 	'Sensor Digital de Intensidade de Luz BH1750FVI.jpg',
 	'BH1750FVI - Digital 16 bit Serial Output Type Ambient Light Sensor IC.pdf',
 	'TEST_BH1750.zip;BH1750-master.zip'
@@ -705,7 +1709,7 @@ continuar na caixa de papel 02
 	'DIY',
 	1,
 	'Paper Box 04',
-	'ORGANIZED',
+	'NOT ORGANIZED',
 	'Módulo Bluetooth V2.0 hc-05-HC-05-RF-Wireless1.jpg;Módulo Bluetooth V2.0 hc-05-HC-05-RF-Wireless2.jpg',
 	'',
 	''
@@ -716,7 +1720,7 @@ continuar na caixa de papel 02
 	'DIY',
 	1,
 	'Paper Box 04',
-	'ORGANIZED',
+	'NOT ORGANIZED',
 	'Sensor MQ-7 de Monóxido de Carbono1.jpg;Sensor MQ-7 de Monóxido de Carbono2.jpg',
 	'',
 	''
@@ -727,7 +1731,7 @@ continuar na caixa de papel 02
 	'DIY',
 	1,
 	'Paper Box 04',
-	'ORGANIZED',
+	'NOT ORGANIZED',
 	'Módulo Sensor Magnético de Efeito Hall (a3144eul).jpg',
 	'',
 	''
@@ -738,7 +1742,7 @@ continuar na caixa de papel 02
 	'DIY',
 	1,
 	'Paper Box 04',
-	'ORGANIZED',
+	'NOT ORGANIZED',
 	'Modulo de Sensor de Angulo (SW520).jpg',
 	'',
 	''
@@ -749,7 +1753,7 @@ continuar na caixa de papel 02
 	'DIY',
 	1,
 	'Paper Box 04',
-	'ORGANIZED',
+	'NOT ORGANIZED',
 	'Módulo Bússola GY-273 (HMC5883L).jpg',
 	'',
 	''
@@ -760,7 +1764,7 @@ continuar na caixa de papel 02
 	'DIY',
 	1,
 	'Paper Box 04',
-	'ORGANIZED',
+	'NOT ORGANIZED',
 	'Modulo Sensor Gestos e RGB.jpg',
 	'',
 	''
@@ -771,7 +1775,7 @@ continuar na caixa de papel 02
 	'DIY',
 	1,
 	'Paper Box 04',
-	'ORGANIZED',
+	'NOT ORGANIZED',
 	'Modulo Digital Sensor Aceleracao ADXL345.jpg',
 	'',
 	''
@@ -782,7 +1786,7 @@ continuar na caixa de papel 02
 	'DIY',
 	1,
 	'Paper Box 04',
-	'ORGANIZED',
+	'NOT ORGANIZED',
 	'Modulo Sensor Touch TTP223B (Touch Sensor Capacitive).jpg',
 	'',
 	''
@@ -793,7 +1797,7 @@ continuar na caixa de papel 02
 	'DIY',
 	1,
 	'Paper Box 04',
-	'ORGANIZED',
+	'NOT ORGANIZED',
 	'Módulo Digital Sensor de Pressão Barométrica e Temperatura do Ar BOSCH BMP085.jpg',
 	'BMP085 - Digital pressure sensor.pdf',
 	'Adafruit_Python_BMP-master.zip;Adafruit-BMP085-Library-master.zip;Adafruit_Python_GPIO-master.zip;BMP280_driver-master.zip',
@@ -804,7 +1808,7 @@ continuar na caixa de papel 02
 	'DIY',
 	1,
 	'Paper Box 04',
-	'ORGANIZED',
+	'NOT ORGANIZED',
 	'Módulo de Sensor de toque de corpo humano.jpg',
 	'',
 	''
@@ -815,7 +1819,7 @@ continuar na caixa de papel 02
 	'DIY',
 	1,
 	'Paper Box 04',
-	'ORGANIZED',
+	'NOT ORGANIZED',
 	'Módulo Bluetooth AT-09.jpg',
 	'',
 	''
@@ -826,7 +1830,7 @@ continuar na caixa de papel 02
 	'DIY',
 	1,
 	'Paper Box 04',
-	'ORGANIZED',
+	'NOT ORGANIZED',
 	'Sensor UVM-30A de Detecção de Raios Ultravioleta.jpg',
 	'',
 	''
@@ -837,7 +1841,7 @@ continuar na caixa de papel 02
 	'DIY',
 	1,
 	'Paper Box 04',
-	'ORGANIZED',
+	'NOT ORGANIZED',
 	'Sensor de detecção de radar HB100.jpg',
 	'',
 	''
@@ -848,7 +1852,7 @@ continuar na caixa de papel 02
 	'DIY',
 	1,
 	'Paper Box 04',
-	'ORGANIZED',
+	'NOT ORGANIZED',
 	'Radar doppler RCWL-0516.jpg',
 	'',
 	''
@@ -859,7 +1863,7 @@ continuar na caixa de papel 02
 	'DIY',
 	1,
 	'Paper Box 04',
-	'ORGANIZED',
+	'NOT ORGANIZED',
 	'GY-9250(MPU-9250)-9-axis_1.jpg;GY-9250(MPU-9250)-9-axis_2.jpg;GY-9250(MPU-9250)-9-axis_3.jpg;GY-9250(MPU-9250)-9-axis_4.jpg;GY-9250(MPU-9250)-9-axis_5.jpg',
 	'PS-MPU-9250A-01.pdf;RM-MPU-9250A-00.pdf',
 	'MPU9250-master.zip',
@@ -870,7 +1874,7 @@ continuar na caixa de papel 02
 	'DIY',
 	1,
 	'Paper Box 04',
-	'ORGANIZED',
+	'NOT ORGANIZED',
 	'Sensor Capacitivo.jpg',
 	'',
 	''
@@ -881,7 +1885,7 @@ continuar na caixa de papel 02
 	'DIY',
 	1,
 	'Paper Box 04',
-	'ORGANIZED',
+	'NOT ORGANIZED',
 	'Sensor Indutivo de Proximidade PR12-2DP1.jpg;Sensor Indutivo de Proximidade PR12-2DP2.png',
 	'',
 	''
@@ -892,7 +1896,7 @@ continuar na caixa de papel 02
 	'DIY',
 	1,
 	'Paper Box 04',
-	'ORGANIZED',
+	'NOT ORGANIZED',
 	'Contador de Fluxo de água - YF-S201.jpg',
 	'',
 	''
@@ -903,7 +1907,7 @@ continuar na caixa de papel 02
 	'DIY',
 	1,
 	'Paper Box 04',
-	'ORGANIZED',
+	'NOT ORGANIZED',
 	'Modulo ISD1820, para gravação de voz.jpg',
 	'',
 	''
@@ -914,7 +1918,7 @@ continuar na caixa de papel 02
 	'DIY',
 	1,
 	'Paper Box 04',
-	'ORGANIZED',
+	'NOT ORGANIZED',
 	'Sensor de Temperatura e Umidade DHT21-AM2301_1.jpg;Sensor de Temperatura e Umidade DHT21-AM2301_2.jpg;Sensor de Temperatura e Umidade DHT21-AM2301_3.jpg',
 	'',
 	''
@@ -925,7 +1929,7 @@ continuar na caixa de papel 02
 	'DIY',
 	1,
 	'Paper Box 04',
-	'ORGANIZED',
+	'NOT ORGANIZED',
 	'Motor DC com caixa de redução e eixo duplo-1.jpg;Motor DC com caixa de redução e eixo duplo-2.jpg;Motor DC com caixa de redução e eixo duplo-3.jpg',
 	'',
 	''
@@ -936,7 +1940,7 @@ continuar na caixa de papel 02
 	'DIY',
 	1,
 	'Paper Box 04',
-	'ORGANIZED',
+	'NOT ORGANIZED',
 	'Sensor de Corrente não Invasivo 100A SCT013-000.jpg',
 	'',
 	''
@@ -947,7 +1951,7 @@ continuar na caixa de papel 02
 	'Equipment',
 	1,
 	'Paper Box 04',
-	'ORGANIZED',
+	'NOT ORGANIZED',
 	'ELM327 OBD2 - Interface de diagnóstico.jpg',
 	'',
 	''
@@ -958,7 +1962,7 @@ continuar na caixa de papel 02
 	'DIY',
 	1,
 	'Paper Box 04',
-	'ORGANIZED',
+	'NOT ORGANIZED',
 	'E18-D80NK - Sensor de Proximidade_1.jpg;E18-D80NK - Sensor de Proximidade_2.jpg;E18-D80NK - Sensor de Proximidade_3.jpg;E18-D80NK - Sensor de Proximidade_4.jpg;E18-D80NK - Sensor de Proximidade_5.jpg;E18-D80NK - Sensor de Proximidade_6.jpg',
 	'E18-D80NK Long range adjustable IR sensor.pdf;Wiring the E18-D80NK Infrared Distance Ranging Sensor.pdf',
 	''
@@ -969,7 +1973,7 @@ continuar na caixa de papel 02
 	'DIY',
 	2,
 	'Paper Box 04',
-	'ORGANIZED',
+	'NOT ORGANIZED',
 	'Load_Cell_Weight_Sensor_5kg_1.jpg;Load_Cell_Weight_Sensor_5kg_2.jpg',
 	'5KG resistance strain type pressure sensor.doc',
 	''
@@ -980,7 +1984,7 @@ continuar na caixa de papel 02
 	'DIY',
 	4,
 	'Paper Box 04',
-	'ORGANIZED',
+	'NOT ORGANIZED',
 	'Sensor LSON Ultrason.jpeg',
 	'',
 	''
@@ -991,7 +1995,7 @@ continuar na caixa de papel 02
 	'DIY',
 	3,
 	'Paper Box 05',
-	'ORGANIZED',
+	'NOT ORGANIZED',
 	'Fonte Ajustável para Protoboard.jpg',
 	'',
 	''
@@ -1002,7 +2006,7 @@ continuar na caixa de papel 02
 	'DIY',
 	1,
 	'Paper Box 05',
-	'ORGANIZED',
+	'NOT ORGANIZED',
 	'Módulo Buck-boost para FPV.png',
 	'',
 	''
@@ -1013,7 +2017,7 @@ continuar na caixa de papel 02
 	'DIY',
 	1,
 	'Paper Box 05',
-	'ORGANIZED',
+	'NOT ORGANIZED',
 	'Placa Amplificadora Stereo TDA2030A 2.1.jpg',
 	'',
 	''
@@ -1024,7 +2028,7 @@ continuar na caixa de papel 02
 	'DIY',
 	1,
 	'Paper Box 05',
-	'ORGANIZED',
+	'NOT ORGANIZED',
 	'Módulo de Recarga de Bateria de Lítio 1A.jpg',
 	'',
 	''
@@ -1035,7 +2039,7 @@ continuar na caixa de papel 02
 	'DIY',
 	1,
 	'Paper Box 05',
-	'ORGANIZED',
+	'NOT ORGANIZED',
 	'Placa de Expansão GSM-GPRS FreeArduino.jpg',
 	'',
 	''
@@ -1046,7 +2050,7 @@ continuar na caixa de papel 02
 	'DIY',
 	1,
 	'Paper Box 05',
-	'ORGANIZED',
+	'NOT ORGANIZED',
 	'Sensor de nível de água.jpg',
 	'',
 	''
@@ -1057,7 +2061,7 @@ continuar na caixa de papel 02
 	'DIY',
 	1,
 	'Paper Box 05',
-	'ORGANIZED',
+	'NOT ORGANIZED',
 	'Válvula Elétrica Solenoide para água e ar.jpg',
 	'',
 	''
@@ -1068,7 +2072,7 @@ continuar na caixa de papel 02
 	'DIY',
 	1,
 	'Paper Box 05',
-	'ORGANIZED',
+	'NOT ORGANIZED',
 	'Ethernet Shield com Wiznet W5100.jpg',
 	'',
 	''
@@ -1079,7 +2083,7 @@ continuar na caixa de papel 02
 	'DIY',
 	1,
 	'Paper Box 05',
-	'ORGANIZED',
+	'NOT ORGANIZED',
 	'Módulo Encoder Rotação de 360.jpg',
 	'',
 	''
@@ -1090,7 +2094,7 @@ continuar na caixa de papel 02
 	'DIY',
 	1,
 	'Paper Box 05',
-	'ORGANIZED',
+	'NOT ORGANIZED',
 	'Modulo reconhecimento de impressão digital.jpg',
 	'ZFM-20_Series_Fingerprint_Identification_Module-User_Manual.pdf;DY001fingerprint.pdf;adafruit-optical-fingerprint-sensor.pdf',
 	'SFGDemoV2.0.rar;Adafruit-Fingerprint-Sensor-Library-master.zip'
@@ -1101,7 +2105,7 @@ continuar na caixa de papel 02
 	'DIY',
 	1,
 	'Paper Box 05',
-	'ORGANIZED',
+	'NOT ORGANIZED',
 	'Mini Solenóide 5V.jpg',
 	'',
 	''
@@ -1112,7 +2116,7 @@ continuar na caixa de papel 02
 	'DIY',
 	1,
 	'Paper Box 05',
-	'ORGANIZED',
+	'NOT ORGANIZED',
 	'Placa de Expansão PCF8574.jpg',
 	'',
 	''
@@ -1123,7 +2127,7 @@ continuar na caixa de papel 02
 	'DIY',
 	1,
 	'Paper Box 05',
-	'ORGANIZED',
+	'NOT ORGANIZED',
 	'Módulo de Real Time Clock RTC DS1307 DS-1307 AT24C32.jpg',
 	'',
 	''
@@ -1134,7 +2138,7 @@ continuar na caixa de papel 02
 	'DIY',
 	1,
 	'Paper Box 05',
-	'ORGANIZED',
+	'NOT ORGANIZED',
 	'protoshield-prototype-para-arduino-protoboard-170-pontos1.jpg;protoshield-prototype-para-arduino-protoboard-170-pontos2.jpg',
 	'',
 	''
@@ -1145,7 +2149,7 @@ continuar na caixa de papel 02
 	'DIY',
 	1,
 	'Paper Box 05',
-	'ORGANIZED',
+	'NOT ORGANIZED',
 	'Shield de Sensor 5.0.jpg',
 	'',
 	''
@@ -1156,7 +2160,7 @@ continuar na caixa de papel 02
 	'DIY',
 	1,
 	'Paper Box 05',
-	'ORGANIZED',
+	'NOT ORGANIZED',
 	'ibeacon w908.jpg;Ibeacon w908 -Bluetooth-TICC2541.jpg',
 	'',
 	''
@@ -1167,7 +2171,7 @@ continuar na caixa de papel 02
 	'DIY',
 	1,
 	'Paper Box 05',
-	'ORGANIZED',
+	'NOT ORGANIZED',
 	'Carregador sem fio.jpg',
 	'',
 	''
@@ -1178,7 +2182,7 @@ continuar na caixa de papel 02
 	'DIY',
 	1,
 	'Paper Box 05',
-	'ORGANIZED',
+	'NOT ORGANIZED',
 	'Módulo Adaptador Wi-Fi HLK-RM04.jpg',
 	'',
 	''
@@ -1189,7 +2193,7 @@ continuar na caixa de papel 02
 	'DIY',
 	1,
 	'Paper Box 05',
-	'ORGANIZED',
+	'NOT ORGANIZED',
 	'Módulo Conversor PCF8591 - 1.jpg;Módulo Conversor PCF8591 - 2.jpg;Módulo Conversor PCF8591 - 3.jpg;Módulo Conversor PCF8591 - 4.jpg',
 	'',
 	''
@@ -1200,7 +2204,7 @@ continuar na caixa de papel 02
 	'DIY',
 	1,
 	'Paper Box 05',
-	'ORGANIZED',
+	'NOT ORGANIZED',
 	'Modulo Transmissor-Receptor RF de 433MHz.jpg',
 	'',
 	''
@@ -1211,7 +2215,7 @@ continuar na caixa de papel 02
 	'DIY',
 	1,
 	'Paper Box 05',
-	'ORGANIZED',
+	'NOT ORGANIZED',
 	'Modulo Player MP3 Music com controle Serial UART1.jpg;Modulo Player MP3 Music com controle Serial UART2.jpg',
 	'',
 	''
@@ -1222,7 +2226,7 @@ continuar na caixa de papel 02
 	'DIY',
 	1,
 	'Paper Box 05',
-	'ORGANIZED',
+	'NOT ORGANIZED',
 	'Módulo Joystick KY-023.jpg',
 	'',
 	''
@@ -1233,7 +2237,7 @@ continuar na caixa de papel 02
 	'DIY',
 	1,
 	'Paper Box 05',
-	'ORGANIZED',
+	'NOT ORGANIZED',
 	'Módulo Receptor FM TEA57671.jpg;Módulo Receptor FM TEA5767_pinout.jpg;Módulo Receptor FM TEA5767_schematictea.jpg',
 	'',
 	''
@@ -1244,7 +2248,7 @@ continuar na caixa de papel 02
 	'DIY',
 	1,
 	'Paper Box 05',
-	'ORGANIZED',
+	'NOT ORGANIZED',
 	'Módulo Camera VGA 300KP OV7670.jpg',
 	'',
 	''
@@ -1255,7 +2259,7 @@ continuar na caixa de papel 02
 	'DIY',
 	1,
 	'Paper Box 05',
-	'ORGANIZED',
+	'NOT ORGANIZED',
 	'Joystick Escudo v1.2.jpg',
 	'',
 	''
@@ -1266,7 +2270,7 @@ continuar na caixa de papel 02
 	'DIY',
 	1,
 	'Paper Box 05',
-	'ORGANIZED',
+	'NOT ORGANIZED',
 	'Cabo conversor IPX para RP-SMA macho.jpg',
 	'',
 	''
@@ -1277,7 +2281,7 @@ continuar na caixa de papel 02
 	'DIY',
 	6,
 	'Paper Box 05',
-	'ORGANIZED',
+	'NOT ORGANIZED',
 	'Conversor Lógico Bidirecional 5V-3V.jpg',
 	'',
 	''
@@ -1288,7 +2292,7 @@ continuar na caixa de papel 02
 	'DIY',
 	1,
 	'Paper Box 05',
-	'ORGANIZED',
+	'NOT ORGANIZED',
 	'Placa de Desenvolvimento A7 GPS GPRS GSM SMS e Módulo de Voz.jpg',
 	'',
 	''
@@ -1299,7 +2303,7 @@ continuar na caixa de papel 02
 	'DIY',
 	1,
 	'Paper Box 05',
-	'ORGANIZED',
+	'NOT ORGANIZED',
 	'Módulo GPS  com antena Ulbox ATK-NEO-6M-V121.jpg;Módulo GPS  com antena Ulbox ATK-NEO-6M-V122.jpg;Módulo GPS  com antena Ulbox ATK-NEO-6M-V123.jpg',
 	'',
 	''
@@ -1310,7 +2314,7 @@ continuar na caixa de papel 02
 	'DIY',
 	1,
 	'Paper Box 05',
-	'ORGANIZED',
+	'NOT ORGANIZED',
 	'Placa com Multiplexador-Demultiplexador Analógico CD74HC4067 de 16 canais.jpg',
 	'',
 	''
@@ -1321,7 +2325,7 @@ continuar na caixa de papel 02
 	'DIY',
 	1,
 	'Paper Box 05',
-	'ORGANIZED',
+	'NOT ORGANIZED',
 	'CNC Shield V3 para impressora 3D com 4 Drivers A4988_1.jpg;CNC Shield V3 para impressora 3D com 4 Drivers A4988_2.jpg',
 	'',
 	''
@@ -1332,7 +2336,7 @@ continuar na caixa de papel 02
 	'Equipamento',
 	1,
 	'Paper Box 05',
-	'ORGANIZED',
+	'NOT ORGANIZED',
 	'Controle para uso em MP3.jpg',
 	'',
 	''
@@ -1343,7 +2347,7 @@ continuar na caixa de papel 02
 	'DIY',
 	2,
 	'Paper Box 05',
-	'ORGANIZED',
+	'NOT ORGANIZED',
 	'LoRa_SX1278_433MHz_Module_DRF1278F_1.jpg;LoRa_SX1278_433MHz_Module_DRF1278F_2.jpg;LoRa_SX1278_433MHz_Module_DRF1278F_3.jpg;LoRa_SX1278_433MHz_Module_DRF1278F_4.jpg',
 	'DRF1278F - 20dBm LoRa Long Range RF Front-end Module.pdf',
 	''
@@ -1354,7 +2358,7 @@ continuar na caixa de papel 02
 	'DIY',
 	1,
 	'Paper Box 05',
-	'ORGANIZED',
+	'NOT ORGANIZED',
 	'Load Sensor - 50kg_1.jpg;Load Sensor - 50kg_2.jpg',
 	'Load Sensor - 50kg.pdf',
 	''
@@ -1365,7 +2369,7 @@ continuar na caixa de papel 02
 	'DIY',
 	2,
 	'Paper Box 05',
-	'ORGANIZED',
+	'NOT ORGANIZED',
 	'Módulo TTL para RS485 para Arduino_1.jpg;Módulo TTL para RS485 para Arduino_2.jpg;Módulo TTL para RS485 para Arduino_3.jpg',
 	'',
 	''
@@ -1376,7 +2380,7 @@ continuar na caixa de papel 02
 	'DIY',
 	2,
 	'Paper Box 05',
-	'ORGANIZED',
+	'NOT ORGANIZED',
 	'NRF24L01 + PA + LNA (com antena)_1.jpg;NRF24L01 + PA + LNA (com antena)_2.jpg',
 	'nRF24L01P_Product_Specification_1_0.pdf;nWP_011_v1.1.pdf;RF_Test_Instructions_nRF24L01P_v1_0.pdf;Tuning_the_nFR24xx_matching_network.pdf',
 	'nAN24-12.zip;nRF24L01P-EK.zip'
@@ -1387,7 +2391,7 @@ continuar na caixa de papel 02
 	'DIY',
 	1,
 	'Paper Box 05',
-	'ORGANIZED',
+	'NOT ORGANIZED',
 	'SD_Card_Module_1.jpg;SD_Card_Module_2.jpg;SD_Card_Module_Pin_Outs.png',
 	'SDCard Module_schematic.pdf;Micro SD Data Sheet.pdf;SDCard Datasheet  SDCard V 1.2.pdf',
 	''
@@ -1398,7 +2402,7 @@ continuar na caixa de papel 02
 	'DIY',
 	1,
 	'Paper Box 05',
-	'ORGANIZED',
+	'NOT ORGANIZED',
 	'MCP4725_1.png;MCP4725_2.jpg;MCP4725_3.jpg',
 	'MCP4725.pdf',
 	''
@@ -1409,7 +2413,7 @@ continuar na caixa de papel 02
 	'DIY',
 	3,
 	'Paper Box 05',
-	'ORGANIZED',
+	'NOT ORGANIZED',
 	'x9c103s_digital_potentiometer_module_2.jpg;x9c103s_digital_potentiometer_module_1.jpg;Potenciômetro Digital X9C103S_1.jpg;Potenciômetro Digital X9C103S_2.jpg;Potenciômetro Digital X9C103S_3.jpg;Potenciômetro Digital X9C103S_4.jpg',
 	'X9C102, X9C103, X9C104, X9C503 - Digitally Controlled Potentiometer.pdf',
 	''
@@ -1420,7 +2424,7 @@ continuar na caixa de papel 02
 	'DIY',
 	3,
 	'Paper Box 05',
-	'ORGANIZED',
+	'NOT ORGANIZED',
 	'Mini_RS232_to_TTL_Converter_1.jpg;Mini_RS232_to_TTL_Converter_2.jpg',
 	'MAX3222, MAX3232, MAX3237, MAX3241 - 3.0V to 5.5V, Low-Power, up to 1Mbps, True RS-232 Transceivers Using Four 0.1µF External Capacitors.pdf',
 	''
@@ -1431,7 +2435,7 @@ continuar na caixa de papel 02
 	'DIY',
 	1,
 	'Paper Box 06',
-	'ORGANIZED',
+	'NOT ORGANIZED',
 	'Rele de Estado Solido SSR-25 DA.jpg',
 	'',
 	''
@@ -1442,7 +2446,7 @@ continuar na caixa de papel 02
 	'DIY',
 	2,
 	'Paper Box 06',
-	'ORGANIZED',
+	'NOT ORGANIZED',
 	'Modulo L298N.jpg;Modulo L298N_description.jpg',
 	'',
 	''
@@ -1453,7 +2457,7 @@ continuar na caixa de papel 02
 	'DIY',
 	1,
 	'Paper Box 06',
-	'ORGANIZED',
+	'NOT ORGANIZED',
 	'Modulo Relay 1 relay.jpg'
 	'Songle Relay - SRD.pdf',
 	''
@@ -1464,7 +2468,7 @@ continuar na caixa de papel 02
 	'DIY',
 	1,
 	'Paper Box 06',
-	'ORGANIZED',
+	'NOT ORGANIZED',
 	'Servo Motor Pro Tower MG9951.jpg;Servo Motor Pro Tower MG9952.jpg;Servo Motor Pro Tower MG9953.jpg;Servo Motor Pro Tower MG9954.jpg',
 	'',
 	''
@@ -1475,7 +2479,7 @@ continuar na caixa de papel 02
 	'DIY',
 	1,
 	'Paper Box 06',
-	'ORGANIZED',
+	'NOT ORGANIZED',
 	'Controle JVC RM-RK50 (P14-Infrared module).jpg',
 	'',
 	''
@@ -1486,7 +2490,7 @@ continuar na caixa de papel 02
 	'LED',
 	2,
 	'Paper Box 06',
-	'ORGANIZED',
+	'NOT ORGANIZED',
 	'Lanterna de LED Raspberry Pi_1.jpg;Lanterna de LED Raspberry Pi_2.jpg;Lanterna de LED Raspberry Pi_3.jpg;Lanterna de LED Raspberry Pi_4.jpg',
 	'',
 	''
@@ -1497,7 +2501,7 @@ continuar na caixa de papel 02
 	'LED',
 	1,
 	'Paper Box 06',
-	'ORGANIZED',
+	'NOT ORGANIZED',
 	'Módulo receptor infravermelho.png',
 	'',
 	''
@@ -1508,7 +2512,7 @@ continuar na caixa de papel 02
 	'DIY',
 	1,
 	'Paper Box 06',
-	'ORGANIZED',
+	'NOT ORGANIZED',
 	'teclado_numerico_16_teclas_pretas_1.jpg;teclado_numerico_16_teclas_pretas_2.jpg;teclado_numerico_16_teclas_pretas_3.jpg',
 	'',
 	''
@@ -1519,7 +2523,7 @@ continuar na caixa de papel 02
 	'DIY',
 	1,
 	'Paper Box 06',
-	'ORGANIZED',
+	'NOT ORGANIZED',
 	'Voltímetro Analógico 91L16 0 a 300 VAC_1.jpg;Voltímetro Analógico 91L16 0 a 300 VAC_2.jpg;Voltímetro Analógico 91L16 0 a 300 VAC_3.jpg',
 	'',
 	''
@@ -1530,7 +2534,7 @@ continuar na caixa de papel 02
 	'DIY',
 	1,
 	'Paper Box 06',
-	'ORGANIZED',
+	'NOT ORGANIZED',
 	'Slide_Switch_AYZ0202__Arduino_LilyPad_1.png;Slide_Switch_AYZ0202__Arduino_LilyPad_2.png;Slide_Switch_AYZ0202__Arduino_LilyPad_3.png;Slide_Switch_AYZ0202__Arduino_LilyPad_4.png',
 	'',
 	''
@@ -1541,11 +2545,73 @@ continuar na caixa de papel 02
 	'DIY',
 	1,
 	'Paper Box 06',
-	'ORGANIZED',
-	'relay_module_8ch_01.jpg;relay_module_8ch_02.jpg;relay_module_8ch_03.jpg;relay_module_8ch_04.jpg;relay_module_8ch_05.jpg;relay_module_8ch_06.jpg;relay_module_8ch_07.png',
+	'NOT ORGANIZED',	'relay_module_8ch_01.jpg;relay_module_8ch_02.jpg;relay_module_8ch_03.jpg;relay_module_8ch_04.jpg;relay_module_8ch_05.jpg;relay_module_8ch_06.jpg;relay_module_8ch_07.png',
 	'8 Channel 5V Optical Isolated Relay Module.pdf;Songle Relay - SRD.pdf',
 	'8_channel_relay.py;8_channel_relay_low.ino;8+Relay+Module.rar'
 ),
 (
-	
+	'Osciloscópio Hantek 6022BE',
+	'Osciloscópio Hantek 6022BE com dois canais analógicos de 20MHz com taxa de amostragem de 48MS/s, salva tela em TXT, JPG/MP, MS Excell/Word, com transformada rápida de Fourier (FFT), funçõoes matemáticas, entre outras.',
+	'Equipment',
+	1,
+	'Office',
+	'NOT ORGANIZED',
+	'Hantek 6022BE_1.jpg;Hantek 6022BE_2.jpg;Hantek 6022BE_3.jpg;Hantek 6022BE_4.jpg;Hantek 6022BE_5.jpg;Hantek 6022BE_6.jpg;Hantek 6022BE_7.jpg;Hantek 6022BE_8.jpg;Hantek 6022BE_9.jpg;Hantek 6022BE_10.jpg;Hantek 6022BE_11.jpg',
+	'HT6022_Manual.pdf',
+	'Hantek6022BE.zip'
 ),
+(
+	'Gerador de forma de onda arbitrária DDS- 3X25 25M',
+	'Com canal 12 bits saída, saída sinal sincronizada, 1 canal medida entrada de contador/frequência. Formas geradas como seno, quadrada, triangular, dente serra, TTL, ruído branco, ruído gaussiano, trapezoidal, exponencial, AM e FM.',
+	'Equipment',
+	1,
+	'Office',
+	'NOT ORGANIZED',
+	'Gerador de forma de onda arbitrária DDS-3X25 25M.jpg',
+	'DDS3X25_Manual.pdf',
+	'DDS3X25.zip'
+),
+(
+	'Estação de retrabalho BST-898D',
+	'Estação de retrabalho SMD com temperatura de saída de 100~450ºC (ar) e 200~480ºC (solda) e tensão de entrada de 110/220 V para 50/60Hz. Potência de saída de 720W (soprador) e 40W (soldador)',
+	'Equipment',
+	1,
+	'Office',
+	'NOT ORGANIZED',
+	'Estação de retrabalho BST-898D.jpg',
+	'',
+	''
+),
+(
+	'Micro furadeira NEJE AH0002-3',
+	'Micro furadeira NEJE AH0002-3 de aço inoxidável com comprimento de 95mm, diâmetro de 4mm, tensão de alimentação de 12~24VDC, corrente maior que 2A, rotação sem carga de 4000~12000rpm, faixa de broca de 0.3~4mm.',
+	'Tool',
+	1,
+	'Office',
+	'NOT ORGANIZED',
+	'Micro furadeira NEJE AH0002-3.jpg',
+	'',
+	''
+),
+(
+	'Lupa de Cabeça Profissional',
+	'Super Lupa de Cabeça Profissional 2 Super Leds + 5 Lentes - MG81001-H, com possibilidade de ampliar 6 vezes além de LEDs de iluminação.',
+	'Tool',
+	1,
+	'Office',
+	'NOT ORGANIZED',
+	'Lupa de Cabeça Profissional.jpg',
+	'',
+	''
+),
+(
+	'Fonte de Alimentação Icel PS-5000',
+	'Fonte simétrica, modos tensão/corrente constante, exatidão +-0.5%, saídas 0~30V/0~3A//0~30V/0~3A//5V/3A, ligação série (paralelo) 0~60V/0~6A (0~30V/0~6A), proteção contra curto, regulagem menor 0.01%, riple menor 0.5Vrms, alimentação 126/220V (50/60Hz).',
+	'Equipment',
+	1,
+	'Stand',
+	'NOT ORGANIZED',
+	'Fonte de Alimentação Icel PS-5000.jpg',
+	'PS-5000 Manual de instruções.pdf',
+	''
+);
