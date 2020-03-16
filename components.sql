@@ -106,7 +106,7 @@ INSERT INTO components( name, description, category, quantity, locationBox, stat
 	'',
 	'NOT ORGANIZED',
 	'AT28C64.jpg',
-	''
+	'',
 	''
 ),
 (
@@ -555,7 +555,8 @@ INSERT INTO components( name, description, category, quantity, locationBox, stat
 	'DIY',
 	1,
 	'',
-	'NOT ORGANIZED',	'Load_Cell_Amplifier_HX711_1.jpg;Load_Cell_Amplifier_HX711_2.jpg;Load_Cell_Amplifier_HX711_3.jpg;Load_Cell_Amplifier_HX711_4.jpg;Load_Cell_Weight_Sensor_1kg_3.jpg',
+	'NOT ORGANIZED',
+	'Load_Cell_Amplifier_HX711_1.jpg;Load_Cell_Amplifier_HX711_2.jpg;Load_Cell_Amplifier_HX711_3.jpg;Load_Cell_Amplifier_HX711_4.jpg;Load_Cell_Weight_Sensor_1kg_3.jpg',
 	'HX711 - 24-Bit Analog-to-Digital Converter (ADC) for Weigh Scales.pdf',
 	''
 ),
@@ -689,7 +690,6 @@ INSERT INTO components( name, description, category, quantity, locationBox, stat
 	'NOT ORGANIZED',
 	'TL071.jpg',
 	'TL07xx Low-Noise JFET-Input Operational Amplifiers.pdf',
-	'',
 	''
 ),
 (
@@ -720,7 +720,8 @@ INSERT INTO components( name, description, category, quantity, locationBox, stat
 	'DIY',
 	1,
 	'',
-	'NOT ORGANIZED',	'NX3224T024_1.jpg;NX3224T024_2.jpg;NX3224T024_3.jpg;NX3224T024_4.jpg;NX3224T024_5.jpg;NX3224T024_6.jpg;NX3224T024_7.jpg;NX3224T024_8.jpg;NX3224T024_9.jpg;NX3224T024_10.jpg;NX3224T024_11.jpg;NX3224T024_12.jpg',
+	'NOT ORGANIZED',
+	'NX3224T024_1.jpg;NX3224T024_2.jpg;NX3224T024_3.jpg;NX3224T024_4.jpg;NX3224T024_5.jpg;NX3224T024_6.jpg;NX3224T024_7.jpg;NX3224T024_8.jpg;NX3224T024_9.jpg;NX3224T024_10.jpg;NX3224T024_11.jpg;NX3224T024_12.jpg',
 	'NX3224T024 - ITEAD Wiki.pdf',
 	''
 ),
@@ -757,6 +758,1124 @@ INSERT INTO components( name, description, category, quantity, locationBox, stat
 	'LM339, LM239, LM139, LM2901 Quad Differential Comparators.pdf',
 	''
 ),
+(
+	'Módulo Diodo Laser 650nm',
+	'Módulo Diodo Laser com tensão de trabalho de 5V e comprimento de onda de 650nm.',
+	'LED',
+	1,
+	'BOX. 001 POSITION 01',
+	'NOT ORGANIZED',
+	'650nm Laser Diode Module-sku_137473_1.jpg;650nm Laser Diode Module-sku_137473_2.jpg;650nm Laser Diode Module-sku_137473_3.jpg',
+	'Laser Diode Module - 5mW 650nm 5V Red.pdf',
+	''
+),
+(
+	'Display alfanumérico D8614ASR',
+	'Display alfanumérico D8614ASR de 28x20mm de cor vermelha',
+	'LED',
+	1,
+	'BOX. 001 POSITION 02',
+	'NOT ORGANIZED',
+	'Display alfanumérico D8614ASR_1.jpg;Display alfanumérico D8614ASR_2.png',
+	'',
+	''
+),
+(
+	'Barra Gráfica 10 Led Segmentos Vermelho',
+	'Barra Gráfica 10 Led Segmentos Vermelho modelo B210SR.',
+	'LED',
+	1,
+	'BOX. 001 POSITION 02',
+	'NOT ORGANIZED',
+	'Barra Gráfica 10 Led Segmentos Vermelho.png',
+	'',
+	''
+),
+(
+	'Display 7 Segmentos HS-3191-AS',
+	'Display 7 Segmentos HS-3191-AS com catodo vermelho, de dimensões 10x13mm.',
+	'LED',
+	3,
+	'BOX. 001 POSITION 02',
+	'NOT ORGANIZED',
+	'Display 7 Segmentos HS-3191-AS.png',
+	'',
+	''
+),
+(
+	'Display 7 Segmentos CAI5011AH',
+	'Display 7 Segmentos de catodo comum',
+	'LED',
+	1,
+	'BOX. 001 POSITION 03',
+	'NOT ORGANIZED',
+	'Display 7 Segmentos.jpg;Display 7 Segmentos.png;Display 7 Segmentos.webp',
+	'GNS-5011ABx-11.pdf',
+	''
+),
+(
+	'Diodo Led 10W sem Dissipador',
+	'Características: Potência: 10W; Cor: Cool White / Branco Frio; Tensão de Alimentação: 9,6~11V; Corrente: 1050mA; Fluxo Luminoso: 675 ~ 765 LM; Temperatura de Cor: 6000~7000K',
+	'LED',
+	1,
+	'BOX. 001 POSITION 04',
+	'NOT ORGANIZED',
+	'Diodo Led 10W sem Dissipador.png',
+	'',
+	''
+),
+(
+	'Diodo Led 3W com Dissipador',
+	'Diodo Led 3W com Dissipador na cor branca',
+	'LED',
+	1,
+	'BOX. 001 POSITION 04',
+	'NOT ORGANIZED',
+	'led-3w-com-dissipador-branco_2_1.jpg',
+	'',
+	''
+),
+(
+	'Led RGB Tricolor 5mm com 4 Terminais',
+	'Led RGB Tricolor 5mm com 4 Terminais com 3.000 MCD',
+	'LED',
+	1,
+	'BOX. 001 POSITION 05',
+	'NOT ORGANIZED',
+	'Led RGB Tricolor 5mm com 4 Terminais.png',
+	'',
+	''
+),
+(
+	'Módulo KY-016 LED RGB',
+	'Módulo LED RGB / marca: KEYES; módulo: KY-016; material: PCB; sinal de saída RGB; 3 cor: vermelho, verde, azul; compatível com para o projeto arduino DIY',
+	'LED',
+	1,
+	'BOX. 001 POSITION 05',
+	'NOT ORGANIZED',
+	'Módulo KY-016 LED RGB.png',
+	'',
+	''
+),
+(
+	'PHCR359 - Chave Opto Politronic',
+	'PHCR359 - Chave Opto Politronic',
+	'LED',
+	1,
+	'BOX. 001 POSITION 06',
+	'NOT ORGANIZED',
+	'PHCR359 - Chave Opto Politronic.png',
+	'',
+	''
+),
+(
+	'Sensor Óptico Refletivo Duplo TCRT5000',
+	'Sensor óptico de reflexão que possui acoplado um infravermelho (emissor) e um fototransistor (receptor). Modelo TCRT5000; Tipo do Detector: Fototransistor; Dimensões: 10.2 x 5.8 x 7mm; Tamanho de Onda Emissor: 950nm; Máxima Detecção: 25mm',
+	'LED',
+	1,
+	'BOX. 001 POSITION 06',
+	'NOT ORGANIZED',
+	'Sensor Óptico Refletivo Duplo TCRT5000.png',
+	'',
+	''
+),
+(
+	'Led Alto Brilho Azul 5mm',
+	'Led Alto Brilho Azul 5mm.',
+	'LED',
+	20,
+	'BOX. 001 POSITION 07',
+	'NOT ORGANIZED',
+	'Led Alto Brilho Azul 5mm.png',
+	'',
+	''
+),
+(
+	'Led Alto Brilho Laranja 5mm',
+	'Led Alto Brilho Laranja 5mm.'.
+	'LED',
+	5,
+	'BOX. 001 POSITION 07',
+	'NOT ORGANIZED',
+	'Led Alto Brilho Laranja 5mm.png',
+	'',
+	''
+),
+(
+	'Led Alto Brilho Roxo 10mm',
+	'Led Alto Brilho Roxo 10mm com 3.000 mcd (mili candela).',
+	'LED',
+	1,
+	'BOX. 001 POSITION 09',
+	'NOT ORGANIZED',
+	'Led Alto Brilho Roxo 10mm.png',
+	'',
+	''
+),
+(
+	'Led Alto Brilho Azul 10mm',
+	'Led Alto Brilho Azul 10mm com 6.000 mcd (mili candela).',
+	'LED',
+	1,
+	'BOX. 001 POSITION 09',
+	'NOT ORGANIZED',
+	'Led Alto Brilho Azul 10mm.png',
+	'',
+	''
+),
+(
+	'Led Alto Brilho Verde 10mm',
+	'Led Alto Brilho Verde 10mm com 18.000 mcd (mili candela).',
+	'LED',
+	1,
+	'BOX. 001 POSITION 09',
+	'NOT ORGANIZED',
+	'Led Alto Brilho Verde 10mm.png',
+	'',
+	''
+),
+(
+	'Led Alto Brilho Branco 10mm',
+	'Led Alto Brilho Branco 10mm com 8.000 mcd (mili candela).',
+	'LED',
+	1,
+	'BOX. 001 POSITION 09',
+	'NOT ORGANIZED',
+	'Led Alto Brilho Branco 10mm.png',
+	'',
+	''
+),
+(
+	'Led Alto Brilho Amarelo 10mm',
+	'Led Alto Brilho Amarelo 10mm com 1.000 mcd (mili candela).',
+	'LED',
+	1,
+	'BOX. 001 POSITION 09',
+	'NOT ORGANIZED',
+	'Led Alto Brilho Amarelo 10mm.png',
+	'',
+	''
+),
+(
+	'Led Alto Brilho Vermelho 10mm',
+	'Led Alto Brilho Vermelho 10mm com 6.000 mcd (mili candela).',
+	'LED',
+	1,
+	'BOX. 001 POSITION 09',
+	'NOT ORGANIZED',
+	'Led Alto Brilho Vermelho 10mm.png',
+	'',
+	''
+),
+(
+	'Display quadruplo D-4036-ksr e 7 segmentos',
+	'Display quadruplo D-4036-ksr, catodo, 7 segmentos, vermelho, 30x15mm',
+	'LED',
+	1,
+	'BOX. 001 POSITION 09',
+	'NOT ORGANIZED',
+	'Display quadruplo D-4036-ksr e 7 segmentos.png',
+	'D4036KSR.pdf',
+	''
+),
+(
+	'LED emissor infravermelho de 3mm',
+	'LED emissor infravermelho transparente com diâmetro de 3mm, ângulo de iluminação de 45º, tensão de alimentação de 1.43~1.58V, distância de transmissão de 10m, com comprimento de onda de 940nm.',
+	'LED',
+	10,
+	'BOX. 001 POSITION 09',
+	'NOT ORGANIZED',
+	'LED emissor infravermelho de 3mm.png',
+	'TIL32_ETC.pdf',
+	''
+),
+(
+	'Driver com LED 10W cor Branca',
+	'Tensão entrada (saída) no Driver: AC 86~265V (DC 9~11V); Temperatura de trabalho: -20~60C; Corrente de saída: 700mA; Angulo de feixe: 140°; Temperatura da cor: 6000~6300K; Lumens: 600~900 lumens.',
+	'DIY',
+	1,
+	'BOX. 001 POSITION 10',
+	'NOT ORGANIZED',
+	'Driver com LED 10W cor Branca_1.jpg;Driver com LED 10W cor Branca_2.jpg;Driver com LED 10W cor Branca_3.jpg;Driver com LED 10W cor Branca_4.jpg',
+	'',
+	''
+),
+(
+	'Jack Adaptador para Telefone RJ11 2X6P4C Fêmea 6P4C',
+	'1 Macho x 2 Femeas RJ11 - Une dois telefones em uma única linha; Acoplador telefônico 1Macho x 2Femea é usado em tomadas telefônicas para uso extensão; Tipo de conexão: RJ11; Pode ser utilizada em qualquer aparelho telefônico; Cor: Bege',
+	'Conector',
+	1,
+	'BOX. 003 POSITION 01',
+	'NOT ORGANIZED',
+	'Jack Adaptador para Telefone RJ11 2X6P4C Fêmea 6P4C.jpg',
+	'',
+	''
+),
+(
+	'Plug Modular para Conector RJ11 - 6P4C',
+	'Plug Modular para Conector RJ11 - 6P4C',
+	'Conector',
+	4,
+	'BOX. 003 POSITION 01',
+	'NOT ORGANIZED',
+	'Plug Modular para Conector RJ11 - 6P4C.jpg',
+	'',
+	''
+),
+(
+	'Plug modular para RJ11 4P4C, YH003 top',
+	'Plug modular para RJ11 4P4C, YH003 top',
+	'Conector',
+	4,
+	'BOX. 003 POSITION 01',
+	'NOT ORGANIZED',
+	'Plug modular para RJ11 4P4C, YH003 top.jpg',
+	'',
+	''
+),
+(
+	'Plug Modular para conector RJ11 YH002 - 4P4C',
+	'Plug Modular para conector RJ11 YH002 - 4P4C',
+	'Conector',
+	4,
+	'BOX. 003 POSITION 01',
+	'NOT ORGANIZED',
+	'Plug Modular para conector RJ11 YH002 - 4P4C.jpg',
+	'',
+	''
+),
+(
+	'Jack RJ11 YH55-04 6P4C 90°',
+	'Jack RJ11 YH55-04 6P4C 90°; Cor Bege',
+	'Conector',
+	2,
+	'BOX. 003 POSITION 01',
+	'NOT ORGANIZED',
+	'Jack RJ11 YH55-04 6P4C 90°.jpg',
+	'',
+	''
+),
+(
+	'Conector RJ45 Femea Multilan CAT.5E - Furukawa',
+	'Suporta IEEE 802.3, 1000 BASE T, 1000 BASE TX, EIA/TIA-854, ANSI-EIA/TIA-862, ATM, Vídeo, Sistemas de Automação Predial e todos os protocolos LAN anteriores. Altura 22,7 mm, Largura 18,3 mm, Peso 0,012kg, Contato Elétrico: (1,27 mm) de ouro e 100 min',
+	'Conector',
+	1,
+	'BOX. 003 POSITION 02',
+	'NOT ORGANIZED',
+	'Conector RJ45 Femea Multilan CAT.5E - Furukawa.jpg',
+	'',
+	''
+),
+(
+	'Plug Modular para Conector RJ45 8P8CS-HALF 8 Vias',
+	'Plug Modular para Conector RJ45 8P8CS-HALF 8 Vias',
+	'Conector',
+	3,
+	'BOX. 003 POSITION 02',
+	'NOT ORGANIZED',
+	'Plug Modular para Conector RJ45 8P8CS-HALF 8 Vias.jpg',
+	'',
+	''
+),
+(
+	'Plug Modular para Conector RJ45 8P8C - 8 Vias',
+	'Plug Modular para Conector RJ45 8P8C - 8 Vias',
+	'Conector',
+	2,
+	'BOX. 003 POSITION 02',
+	'NOT ORGANIZED',
+	'Plug Modular para Conector RJ45 8P8C - 8 Vias.jpg',
+	'',
+	''
+),
+(
+	'Conector USB03 Fêmea - para Circuito Impresso 90°',
+	'Conector USB03 Fêmea - para Circuito Impresso 90°',
+	'Conector',
+	2,
+	'BOX. 003 POSITION 03',
+	'NOT ORGANIZED',
+	'Conector USB03 Fêmea - para Circuito Impresso 90°.jpg',
+	'',
+	''
+),
+(
+	'Conector YH-USB-01A fêmea, para pci 180º',
+	'Conector YH-USB-01A fêmea, para pci 180º',
+	'Conector',
+	3,
+	'BOX. 003 POSITION 03',
+	'NOT ORGANIZED',
+	'Conector YH-USB-01A fêmea, para pci 180º.jpg',
+	'',
+	''
+),
+(
+	'Conector USB05A Macho para Circuito Impresso 180°',
+	'Conector USB05A Macho para Circuito Impresso 180°',
+	'Conector',
+	2,
+	'BOX. 003 POSITION 03',
+	'NOT ORGANIZED',
+	'Conector USB05A Macho para Circuito Impresso 180°.jpg',
+	'',
+	''
+),
+(
+	'Conector USB06 Tipo Solda Macho DS-1107',
+	'Conector USB06 Tipo Solda Macho DS-1107',
+	'Conector',
+	4,
+	'BOX. 003 POSITION 03',
+	'NOT ORGANIZED',
+	'Conector USB06 Tipo Solda Macho DS-1107.jpg',
+	'',
+	''
+),
+(
+	'Conector F Macho RCF Compressão RG59/U',
+	'Conector F Macho RCF Compressão RG59/U',
+	'Conector',
+	5,
+	'BOX. 003 POSITION 04',
+	'NOT ORGANIZED',
+	'Conector F Macho RCF Compressão RG59-U.jpg',
+	'',
+	''
+),
+(
+	'Conector Antenar para Cabo Coaxial RG59 com Anel',
+	'Conector Antenar para Cabo Coaxial com Anel. Conector F Coaxial para cabo RG59 possui anel de crimpagem (requer alicate de crimpar). Para Montagens de Cabo para TV parabólica. sistemas CFTV, etc.',
+	'Conector',
+	6,
+	'BOX. 003 POSITION 04',
+	'NOT ORGANIZED',
+	'Conector Antenar para Cabo Coaxial com Anel.jpg',
+	'',
+	''
+),
+(
+	'Conector F Macho com Rosca para RG59',
+	'Conector F Macho com Rosca para RG59',
+	'Conector',
+	3,
+	'BOX. 003 POSITION 04',
+	'NOT ORGANIZED',
+	'Conector F Macho com Rosca para RG59.gif',
+	'',
+	''
+),
+(
+	'Terminal CRIMPLINK Tubular IS0-15008D-3 1,5mm - Preto',
+	'Terminal CRIMPLINK Tubular IS0-15008D-3 1,5mm - Preto',
+	'Conector',
+	14,
+	'BOX. 003 POSITION 05',
+	'NOT ORGANIZED',
+	'Terminal CRIMPLINK Tubular IS0-15008D-3 1,5mm - Preto.jpg',
+	'',
+	''
+),
+(
+	'Terminal CRIMPLINK Tubular IS0-10008D-3 1,0mm - Vermelho',
+	'Terminal CRIMPLINK Tubular IS0-10008D-3 1,0mm - Vermelho',
+	'Conector',
+	5,
+	'BOX. 003 POSITION 05',
+	'NOT ORGANIZED',
+	'Terminal CRIMPLINK Tubular IS0-10008D-3 1,0mm - Vermelho.jpg',
+	'',
+	''
+),
+(
+	'Adaptador microSD para SD Memory Card',
+	'Adaptador microSD para SD Memory Card',
+	'Tool',
+	4,
+	'BOX. 003 POSITION 05',
+	'NOT ORGANIZED',
+	'Adaptador microSD para SD Memory Card.jpg',
+	'',
+	''
+),
+(
+	'Conector BNC Macho para Crimpar RGC58',
+	'Conector BNC Macho para Crimpar RGC58',
+	'Conector',
+	2,
+	'BOX. 003 POSITION 06',
+	'NOT ORGANIZED',
+	'Conector BNC Macho para Crimpar RGC58.jpg',
+	'',
+	''
+),
+(
+	'Conector Emenda T BNC',
+	'Conector Emenda T BNC',
+	'Conector',
+	2,
+	'BOX. 003 POSITION 06',
+	'NOT ORGANIZED',
+	'Conector Emenda T BNC.jpg',
+	'',
+	''
+),
+(
+	'Pino Banana PB121 com derivação lateral – preto',
+	'Pino Banana PB121 com derivação lateral – preto',
+	'Conector',
+	2,
+	'BOX. 003 POSITION 06',
+	'NOT ORGANIZED',
+	'Pino Banana PB121 com derivação lateral – preto.jpg',
+	'',
+	''
+),
+(
+	'Pino Banana PB121 com derivação lateral – vermelho',
+	'Pino Banana PB121 com derivação lateral - vermelho',
+	'Conector',
+	2,
+	'BOX. 003 POSITION 06',
+	'NOT ORGANIZED',
+	'Pino Banana PB121 com derivação lateral – vermelho.jpg',
+	'',
+	''
+),
+(
+	'Pino Banana PB121 com derivação lateral – verde',
+	'Pino Banana PB121 com derivação lateral – verde',
+	'Conector',
+	4,
+	'BOX. 003 POSITION 06',
+	'NOT ORGANIZED',
+	'Pino Banana PB121 com derivação lateral – verde.jpg',
+	'',
+	''
+),
+(
+	'Pino Banana Macho CN 175 – Amarelo',
+	'Pino Banana Macho CN 175 – Amarelo',
+	'Conector',
+	1,
+	'BOX. 003 POSITION 06',
+	'NOT ORGANIZED',
+	'Pino Banana Macho CN 175 – Amarelo.jpg',
+	'',
+	''
+),
+(
+	'Pino Banana Macho CN-0919 – Verde',
+	'Pino Banana Macho CN-0919 – Verde',
+	'Conector',
+	1,
+	'BOX. 003 POSITION 06',
+	'NOT ORGANIZED',
+	'Pino Banana Macho CN-0919 – Verde.jpg'
+	'',
+	''
+),
+(
+	'Pino Banana Macho CN-0921 – Azul',
+	'Pino Banana Macho CN-0921 – Azul',
+	'Conector',
+	1,
+	'BOX. 003 POSITION 06',
+	'NOT ORGANIZED',
+	'Pino Banana Macho CN-0921 – Azul.jpg',
+	'',
+	''
+),
+(
+	'Chave Push Button NA',
+	'Chave Push Button NA',
+	'Button',
+	2,
+	'BOX. 004 POSITION 02',
+	'NOT ORGANIZED',
+	'Chave Push Button NA.jpg',
+	'',
+	''
+),
+(
+	'Chave Push Button NA DS-314 – 2T sem trava – vermelho',
+	'Chave Push Button NA DS-314 – 2T sem trava – vermelho',
+	'Button',
+	1,
+	'BOX. 004 POSITION 02',
+	'NOT ORGANIZED',
+	'Chave Push Button NA DS-314 – 2T sem trava – vermelho.jpg',
+	'',
+	''
+),
+(
+	'Chave de Gancho Micro-switch KW9-XW',
+	'Chave de Gancho Micro-switch KW9-XW',
+	'Button',
+	1,
+	'BOX. 004 POSITION 02',
+	'NOT ORGANIZED',
+	'Chave de Gancho Micro-switch KW9-XW.jpg',
+	'',
+	''
+),
+(
+	'Chave Alavanca',
+	'Chave Alavanca',
+	'Button',
+	2,
+	'BOX. 004 POSITION 02',
+	'NOT ORGANIZED',
+	'Chave Alavanca.png',
+	'',
+	''
+),
+(
+	'Chave táctil KFC-A06 – 12X12X4,3mm – 4T – 180º',
+	'Chave táctil KFC-A06 – 12X12X4,3mm – 4T – 180º',
+	'Button',
+	9,
+	'BOX. 004 POSITION 03',
+	'NOT ORGANIZED',
+	'Chave Táctil KFC-A06 12X12X4,3mm - 4T - 180°.jpg',
+	'',
+	''
+),
+(
+	'Borne Fêmea 2EDGK-0,5 5 Vias - Espaçamento 5,08mm',
+	'Borne Fêmea 2EDGK-0,5 5 Vias - Espaçamento 5,08mm',
+	'Conector',
+	1,
+	'BOX. 004 POSITION 04',
+	'NOT ORGANIZED',
+	'Borne Fêmea 2EDGK-0,5 5 Vias - Espaçamento 5,08mm.jpg',
+	'',
+	''
+),
+(
+	'Borne Macho 90° 2EDGRC-0,5 5 Vias - Espaçamento 5,08mm',
+	'Borne Macho 90° 2EDGRC-0,5 5 Vias - Espaçamento 5,08mm',
+	'Conector',
+	1,
+	'BOX. 004 POSITION 04',
+	'NOT ORGANIZED',
+	'Borne Macho 90° 2EDGRC-0,5 5 Vias - Espaçamento 5,08mm.jpg',
+	'',
+	''
+),
+(
+	'Borne PCI KRE 2T, Azul - Espaçamento 5,08mm',
+	'Borne PCI KRE 2T, Azul - Espaçamento 5,08mm',
+	'Conector',
+	5,
+	'BOX. 004 POSITION 04',
+	'NOT ORGANIZED',
+	'Borne PCI KRE 2T, Azul - Espaçamento 5,08mm.jpg',
+	'',
+	''
+),
+(
+	'Borne PCI KRE 3T Azul - Espaçamento 5,08mm',
+	'Borne PCI KRE 3T Azul - Espaçamento 5,08mm',
+	'Conector',
+	3,
+	'BOX. 004 POSITION 04',
+	'NOT ORGANIZED',
+	'Borne PCI KRE 3T Azul - Espaçamento 5,08mm.jpg'
+	'',
+	''
+),
+(
+	'Chave HH SS12D00G3 com 3 Terminais',
+	'Chave HH SS12D00G3 com 3 Terminais',
+	'Button',
+	2,
+	'BOX. 004 POSITION 05',
+	'NOT ORGANIZED',
+	'Chave HH SS12D00G3 com 3 Terminais.jpg',
+	'',
+	''
+),
+(
+	'Chave táctil KFC-A06 - 6X6X5mm - 4T – 180°',
+	'Chave táctil KFC-A06 - 6X6X5mm - 4T – 180°',
+	'Button',
+	4,
+	'BOX. 004 POSITION 05',
+	'NOT ORGANIZED',
+	'Chave Táctil KFC-A06 - 6X6X5mm - 4T - 180°.jpg',
+	'',
+	''
+),
+(
+	'Chave Tactil Redonda TSY6650 6X6X5mm 2T 180º',
+	'Chave Tactil Redonda TSY6650 6X6X5mm 2T 180º',
+	'Button',
+	2,
+	'BOX. 004 POSITION 05',
+	'NOT ORGANIZED',
+	'Chave Tactil Redonda TSY6650 6X6X5mm 2T 180G.jpg',
+	'',
+	''
+),
+(
+	'Terminal CRIMPLINK Forquilha FV-15 M5-3 1,5mm – Vermelho',
+	'Terminal CRIMPLINK Forquilha FV-15 M5-3 1,5mm – Vermelho',
+	'Conector',
+	5,
+	'BOX. 004 POSITION 05',
+	'NOT ORGANIZED',
+	'Terminal CRIMPLINK Forquilha FV-15 M5-3 1,5mm – Vermelho.jpg',
+	'',
+	''
+),
+(
+	'Terminal CRIMPLINK Olhal OB-25 M4-3 2,5mm – Azul',
+	'Terminal CRIMPLINK Olhal OB-25 M4-3 2,5mm – Azul',
+	'Conector',
+	6,
+	'BOX. 004 POSITION 05',
+	'NOT ORGANIZED',
+	'Terminal CRIMPLINK Olhal OB-25 M4-3 2,5mm – Azul.jpg',
+	'',
+	''
+),
+(
+	'Terminal Faston FDD pré isolado – Vermelho',
+	'Terminal Faston FDD pré isolado – Vermelho',
+	'Conector',
+	1,
+	'BOX. 004 POSITION 05',
+	'NOT ORGANIZED',
+	'Terminal Faston FDD pré isolado – Vermelho.jpg',
+	'',
+	''
+),
+(
+	'Conector Adaptador Mini HDMI Macho x HDMI Fêmea',
+	'Conector Adaptador Mini HDMI Macho x HDMI Fêmea',
+	'Conector',
+	1,
+	'BOX. 004 POSITION 06',
+	'NOT ORGANIZED',
+	'Conector Adaptador Mini HDMI Macho x HDMI Fêmea.jpg',
+	'',
+	''
+),
+(
+	'Plug P4-DC sem Rabicho',
+	'Plug P4-DC sem Rabicho',
+	'Conector',
+	1,
+	'BOX. 005 POSITION 01',
+	'NOT ORGANIZED',
+	'Plug P4-DC sem Rabicho.gif'
+	'',
+	''
+),
+(
+	'Plug P4-DC com Rabicho',
+	'Plug P4-DC com Rabicho',
+	'Conector',
+	1,
+	'BOX. 005 POSITION 01',
+	'NOT ORGANIZED',
+	'Plug P4-DC com Rabicho.gif',
+	'',
+	''
+),
+(
+	'Jack J2 Estéreo PCI Rosca',
+	'Jack J2 Estéreo PCI Rosca',
+	'Conector',
+	1,
+	'BOX. 005 POSITION 05',
+	'NOT ORGANIZED',
+	'Jack J2 Estéreo PCI Rosca.jpg',
+	'',
+	''
+),
+(
+	'Relé Songle SRD-05VDC-SL-C',
+	'Relé de 5Volts para projetos que necessitam de no máximo 10A/250VAC, 10A/125VAC, 10A/30VDC ou 10A/28VDC. Genérico (Relé 5V Sanyou SRD-S-105D).',
+	'Relay',
+	4,
+	'BOX. 005 POSITION 06',
+	'NOT ORGANIZED',
+	'Relé Songle SRD-05VDC-SL-C.jpg',
+	'Songle Relay - SRD.pdf',
+	''
+),
+(
+	'Capacitor Eletrolítico SNAP-IN 680uF/400V',
+	'Capacitor Eletrolítico SNAP-IN 680uF/400V com 35.4mm de diametro e 50.8mm de altura.',
+	'Capacitor',
+	2,
+	'BOX. 006 POSITION 06',
+	'NOT ORGANIZED',
+	'Capacitor eletrolitico snap-in.jpg',
+	'',
+	''
+),
+(
+	'DB3 - DIAC	DIAC',
+	'DB3 com tensão de condução de 32V e corrente máxima de 2.0A.',
+	'Diode',
+	2,
+	'BOX. 009 POSITION 01',
+	'NOT ORGANIZED',
+	'DIAC DB3.jpg',
+	'',
+	''
+),
+(
+	'1N914 - Diodo de Comutação Rápida',
+	'Diodo 1N914 de comutação rápida de pequeno sinal, com dissipação máxima de 500mW e queda de tensão de 1.0V.',
+	'Diode',
+	2,
+	'BOX. 009 POSITION 02',
+	'NOT ORGANIZED',
+	'1N914 - Diodo de Comutação Rápida.jpg',
+	'',
+	''
+),
+(
+	'1N60P - Diodo Schottky de Germânio',
+	'Diodo Schottky de pequeno sinal de Germânio 1N60P com tensão máxima de alimentação de 45V, corrente máxima de 50mA, queda de tensão girando entre 0.24V e 1.0V dependendo da corrente.',
+	'Diode',
+	2,
+	'BOX. 009 POSITION 02',
+	'NOT ORGANIZED',
+	'Diodo Schottky de Germânio 1N60P.jpg',
+	'',
+	''
+),
+(
+	'1N4730A - Diodo Zener',
+	'Diodo Zener 1N4730A com tensão zener de 3.9V e potência máxima de 1W.',
+	'Diode',
+	1,
+	'BOX. 009 POSITION 03',
+	'NOT ORGANIZED',
+	'Diodo Zener 1N4730A.jpg',
+	'',
+	''
+),
+(
+	'1N4733A - Diodo Zener',
+	'Diodo Zener 1N4733A com tensão zener de 5.1V e potência máxima de 1W.',
+	'Diode',
+	3,
+	'BOX. 009 POSITION 03',
+	'NOT ORGANIZED',
+	'Diodo Zener 1N4733A.jpg',
+	'',
+	''
+),
+(
+	'1N4742A - Diodo Zener',
+	'Diodo Zener 1N4742A com tensão zener de 12V e potência máxima de 1W.',
+	'Diode',
+	4,
+	'BOX. 009 POSITION 03',
+	'NOT ORGANIZED',
+	'Diodo Zener 1N4742A.png',
+	'',
+	''
+),
+(
+	'1N4729A - Diodo Zener',
+	'Diodo Zener 1N4729A com tensão zener de 3,6V e potência máxima de 1W.',
+	'Diode',
+	2,
+	'BOX. 009 POSITION 03',
+	'NOT ORGANIZED',
+	'Diodo Zener 1N4729A.png',
+	'',
+	''
+),
+(
+	'1N4148 - Diodo de Baixo Sinal',
+	'Diodo de Baixo Sinal 1N4148 com máxima tensão de 100V, corrente de 200mA, potência de 500mW e queda de tensão de 1.0V.',
+	'Diode',
+	12,
+	'BOX. 009 POSITION 04',
+	'NOT ORGANIZED',
+	'Diodo de Baixo Sinal 1N4148.jpg',
+	'',
+	''
+),
+(
+	'P6KE130A - Diodo Transorb',
+	'Diodo Transorb P6KE130A com corrente máxima de pico a pico de 33.5A.',
+	'Diode',
+	1,
+	'BOX. 009 POSITION 04',
+	'NOT ORGANIZED',
+	'Diodo_resina_sem_valor.jpg',
+	'',
+	''
+),
+(
+	'6A8 - Diodo Retificador',
+	'Diodo Retificador 6A8 com corrente de 6A e tensão de 800V, com queda de tensão máxima de 0.95V.',
+	'Diode',
+	6,
+	'BOX. 009 POSITION 06',
+	'NOT ORGANIZED',
+	'Diodo Retificador 6A8.jpg',
+	'',
+	''
+),
+(
+	'1N5408 - Diodo Retificador',
+	'Diodo Retificador 1N5408 com corrente de 3A, tensão de 700V e queda de tensão de 1.0V.',
+	'Diode',
+	4,
+	'BOX. 009 POSITION 06',
+	'NOT ORGANIZED',
+	'Diodo Retificador 1N5408.jpg',
+	'',
+	''
+),
+(
+	'UF5408 - Diodo Retificador Ultra rápido',
+	'Diodo Retificador UF5408 Ultra rápido com corrente de 3A, tensão de 700V e queda de tensão entre 1.0~1.7V.',
+	'Diode',
+	8,
+	'BOX. 009 POSITION 06',
+	'NOT ORGANIZED',
+	'Diodo Retificador UF5408 Ultra rápido.png',
+	'',
+	''
+),
+(
+	'1N5333B - Diodo Zener',
+	'Diodo Zener 1N5333B com tensão zener de 3.3V e potência máxima de 5W.',
+	'Diode',
+	1,
+	'BOX. 009 POSITION 06',
+	'NOT ORGANIZED',
+	'Diodo Zener 1N5333B.jpg',
+	'',
+	''
+),
+(
+	'1N5337B - Diodo Zener',
+	'Diodo Zener 1N5337B com tensão zener de 4.7V e potência máxima de 5W.',
+	'Diode',
+	1,
+	'BOX. 009 POSITION 06',
+	'NOT ORGANIZED',
+	'Diodo Zener 1N5337B.jpg',
+	'',
+	''
+),
+(
+	'1N5406 - Diodo Retificador',
+	'Diodo Retificador 1N5406 com corrente de 3A, tensão de 420V e queda de tensão máxima de 1.2V.',
+	'Diode',
+	2,
+	'BOX. 009 POSITION 06',
+	'NOT ORGANIZED',
+	'Diodo Retificador 1N5406_1.jpg;Diodo Retificador 1N5406_2.jpg';
+	'',
+	''
+),
+(
+	'1N5349B - Diodo Zener',
+	'Diodo Zener 1N5349B com tensão zener de 12V e potência máxima de 5W.',
+	'Diode',
+	4,
+	'BOX. 009 POSITION 06',
+	'NOT ORGANIZED',
+	'Diodo Zener 1N5349B.jpg',
+	'',
+	''
+),
+(
+	'1N4007 - Diodo Retificador',
+	'Diodo Retificador 1N4007 com corrente máxima de 1 Ampere, tensão máxima de 1000V e queda de tensão de 1.1V.',
+	'Diode',
+	1,
+	'BOX. 009 POSITION 06',
+	'NOT ORGANIZED',
+	'Diodo Retificador 1N4007.jpg',
+	'',
+	''
+),
+(
+	'1N4004 - Diodo Retificador',
+	'Diodo Retificador 1N4004 com corrente máxima de 1 Ampere, tensão máxima de 400V e queda de tensão de 1.1V.',
+	'Diode',
+	6,
+	'BOX. 009 POSITION 06',
+	'NOT ORGANIZED',
+	'Diodo Retificador 1N4004.jpg',
+	'',
+	''
+),
+(
+	'IRFZ44N - Power MOSFET',
+	'Ultra Low On-Resistance (Rds(on) = 17.5mOhms); Vdss = 55V; Id = 49A; PD(TC=25°C) = 94W; Vgs = ± 20V; dv/dt = 5.0 V/ns (Peak Diode Recovery dv/dt).',
+	'Transistor',
+	4,
+	'BOX. 010 POSITION 02',
+	'NOT ORGANIZED',
+	'IRFZ44N - HEXFET Power MOSFET.jpg',
+	'IRFZ44N - HEXFET Power MOSFET.pdf',
+	''
+),
+(
+	'TIP122 (NPN) - Darlington Medium-Power Silicon Transistor',
+	'hFE=2500 (Typ) @ IC= 4.0Adc; VCEO(sus) = 100 Vdc (Min) (with 100 mAdc); VCE(sat) = 2.0 Vdc (Max) @ IC = 3.0 Adc and VCE(sat) = 4.0 Vdc (Max) @ IC = 5.0 Adc; Ic(max) = 5 A; P(max) = 65 W',
+	'Transistor',
+	5,
+	'BOX. 010 POSITION 02',
+	'NOT ORGANIZED',
+	'TIP120, TIP121, TIP122 (NPN) TIP125, TIP126, TIP127 (PNP) - Plastic Medium-Power Complementary Silicon Transistors.jpg',
+	'TIP120, TIP121, TIP122 (NPN), TIP125, TIP126, TIP127 (PNP) - Plastic Medium-Power Complementary Silicon Transistors.pdf',
+	''
+),
+(
+	'TIP42C - PNP Epitaxial Silicon Transistor',
+	'Vcbo = -100 V; Vceo = -100 V; Ic = -6 A; Ib = -2 A; Tj = 150 °C; Pc = (Tc=25°C)65 W / (Ta=25°C) 2 W; hFE = 15 (min) / 75 (max)',
+	'Transistor',
+	2,
+	'BOX. 010 POSITION 02',
+	'NOT ORGANIZED',
+	'TIP42C - PNP Epitaxial Silicon Transistor.jpg',
+	'TIP42C - PNP Epitaxial Silicon Transistor.pdf',
+	''
+),
+(
+	'BD136 - Plastic Medium-Power Silicon PNP Transistors',
+	'POWER TRANSISTORS PNP SILICON; V(CEO) = 45 Vdc; V(CBO) = 45 Vdc; V(EBO) = 5 Vdc; I(C) = 1.5 Adc; I(B) = 0.5 Adc; P(D) = 12.5 W; hFE = 25 (min) / 250 (max)',
+	'Transistor',
+	5,
+	'BOX. 010 POSITION 03',
+	'NOT ORGANIZED',
+	'BD136.jpg',
+	'BD136G, BD138G, BD140G - Plastic Medium-Power Silicon PNP Transistors.pdf',
+	''
+),
+(
+	'MJE13005 - NPN Silicon Power Transistors',
+	'V(CEO(sus)) = 400 Vdc; V(CEV) = 700 Vdc; V(EBO) = 9 Vdc; I(C) = 4 Adc; I(CM) = 8 Adc; I(B) = 2 Adc; I(BM) = 4 Adc; I(E) = 6 Adc; I(EM) = 12 Adc; P(D) = 75 W (0.6 W/ºC); h(FE) = 8 (min) / 60 (max)',
+	'Transistor',
+	2,
+	'BOX. 010 POSITION 03',
+	'NOT ORGANIZED',
+	'MJE13005.jpg',
+	'MJE13005G - SWITCHMODE Series NPN Silicon Power Transistors.pdf',
+	''
+),
+(
+	'BT151-650R - SCR',
+	'V(DRM) = 650 V (max); I(T(AV)) = 7.5 A (max); I(T(RMS)) = 12 A (max); I(GT) = 2 mA (typ) / 15 mA (max); dIT/dt = 50 A/µs (max)',
+	'Transistor',
+	1,
+	'BOX. 010 POSITION 03',
+	'NOT ORGANIZED',
+	'BT151-650R-SCR.jpg',
+	'BT151-650R-SCR.pdf',
+	''
+),
+(
+	'11N60C3 - Cool MOS Power Transistor',
+	'I(D) = 11 A, VDD=50V; I(D(puls)) = 33 A; E(AS) = 340 mJ; E(AR) = 0.6 mJ; I(AR) = 11 A; V(GS) = ±20 V; P(tot) = 125 W; T(j) = -55~+150 °C; dv/dt = 15 V/ns (diode); dv/dt = 50 V/ns; R(DS(on)) = 0.34 Ω (typ) / 0.92 Ω (typ Tj=150ºC) / 0.38 Ω',
+	'Transistor',
+	5,
+	'BOX. 010 POSITION 03',
+	'NOT ORGANIZED',
+	'11N60C3.jpg',
+	'SPP11N60C3, SPI11N60C3, SPA11N60C3, SPA11N60C3 E8185 - Cool MOS Power Transistor.pdf',
+	''
+),
+(
+	'TIC106D - SCR',
+	'V(DRM) = 400 V; V(RRM) = 400 V; I(T(RMS)) = 5 A; I(T(AV)) = 3.2 A; I(TM) = 30 A; I(GM) = 0.2 A; P(GM) = 1.3 W; P(G(AV)) = 0.3 W; T(C) = -40ºC ~ +110 °C; dv/dt = 10 V/µs (typ); V(GT) = 0.2 V (min) / 0.6 V (typ) / 1.2 (max); I(H) = 8 mA (max)',
+	'Transistor',
+	5,
+	'BOX. 010 POSITION 04',
+	'NOT ORGANIZED',
+	'TIC106D.png',
+	'TIC106 Series - Silicon Controlled Rectifiers.pdf',
+	''
+),
+(
+	'MCR106-8 - SCR',
+	'V(DRM) = 600 V; V(RRM) = 600 V; I(T(RMS)) = 4.0 A; I(T(AV)) = 2.55 A; I(TSM) = 25 A; I2t = 2.6 A2s; P(GM) = 0.5 W; P(G(AV)) = 0.1 W; I(GM) = 0.2 A; V(RGM) = 6.0 V; T(J) = −40ºC ~ +110 °C; Mounting Torque = 6.0 in. lb',
+	'Transistor',
+	2,
+	'BOX. 010 POSITION 04',
+	'NOT ORGANIZED',
+	'MCR106-2.jpg',
+	'MCR106-6, MCR106-8 - Sensitive Gate Silicon Controlled Rectifiers (Reverse Blocking Thyristors).pdf',
+	''
+),
+(
+	'BD138 - Plastic Medium-Power Silicon PNP Transistors',
+	'POWER TRANSISTORS PNP SILICON; V(CEO) = 60 Vdc; V(CBO) = 60 Vdc; V(EBO) = 5 Vdc; I(C) = 1.5 Adc; I(B) = 0.5 Adc; P(D) = 12.5 W; hFE = 25 (min) / 250 (max)',
+	'Transistor',
+	1,
+	'BOX. 010 POSITION 04',
+	'NOT ORGANIZED',
+	'BD138_1.jpg;BD138_2.jpg',
+	'BD136G, BD138G, BD140G - Plastic Medium-Power Silicon PNP Transistors.pdf',
+	''
+),
+(
+	'IRF9640 - Power MOSFET',
+	'V(DS) = -200 V; R(DS(on)) = 0.50 Ω; Q(g) max. = 44 nC; Q(gs) = 7.1 nC; Q(gd) = 27 nC; V(GS) = ± 20 V; I(D) = -11 A; I(DM) = -44 A; E(AS) = 700 mJ; I(AR) = -11 A; E(AR) = 13 mJ; P(D) = 125 W; dV/dt = -5.0 V/ns (diode); T(J) = -55 ºC ~ +150 °C',
+	'Transistor',
+	1,
+	'BOX. 010 POSITION 04',
+	'NOT ORGANIZED',
+	'IRF9640_1.jpg;IRF9640_2.jpg',
+	'IRF9640, SiHF9640 - Power MOSFET.pdf',
+	''
+),
+(
+	'BTA08-600 - TRIAC 8A',
+	'TRIAC; I(T) = 8 A; V(DRM) = 600 V; V(RRM) = 600 V; I(TSM) = 84 A; T(j) = 110 ºC; V(TM) = 1.55 V; I(H) = 50 mA; I(GT) = 25 mA (VAK=12V，RL=30Ω); V(GT) = 1.3 V (VD=12V，RL=30Ω)',
+	'Transistor',
+	4,
+	'BOX. 010 POSITION 07',
+	'NOT ORGANIZED',
+	'BTA08-600.jpg',
+	'BTA08.pdf;BTA08-600 - TRIAC 8A.pdf',
+	''
+),
+(
+	'IRLZ44 - Power MOSFET',
+	'V(DS) = 60 V; R(DS(on)) (VGS = 5.0 V) = 0.028 Ω; Qg(Max.) = 66 nC; Q(gs) = 12 nC; Q(gd) = 43 nC; Logic-Level Gate Drive; R(DS(on)) Specified at VGS = 4 V and 5 V; Peak Diode Recovery dV/dt = 4.5 V/ns (limit)',
+	'Transistor',
+	10,
+	'BOX. 010 POSITION 07',
+	'NOT ORGANIZED',
+	'IRLZ44 - Power MOSFET.jpg',
+	'IRLZ44, SiHLZ44 - Power MOSFET.pdf',
+	''
+),
+(
+	'2N3055 - NPN Complementary Silicon Power Transistors',
+	'V(CEO) = 60 Vdc; V(CER) = 70 Vdc; V(CB) = 100 Vdc; V(EB) = 7 Vdc; I(C) = 15 Adc; I(B) = 7 Adc; P(D) = 115 W (0.657 W/°C); T(J) = −65ºC ~ +200 °C; h(FE) = 5.0 (min) / 70 (max)',
+	'Transistor',
+	1,
+	'BOX. 010 POSITION 08',
+	'NOT ORGANIZED',
+	'2N3055.jpg';
+	'2N3055(NPN), MJ2955(PNP) - Complementary Silicon Power Transistors.pdf',
+	''
+),
+
+
+
+
+
+
+
 (
 	'Módulo Serial I2C para Display LCD',
 	'Módulo Serial I2C para Display LCD para conexão de display ao Arduino usando o chip PCF8574',
@@ -882,7 +2001,7 @@ INSERT INTO components( name, description, category, quantity, locationBox, stat
 	'Assistente de Soldagem Hikari HK-151',
 	'Assistente de Soldagem Hikari com alavanca, gancho, escova, garfo, agulha, suporte, faca, raspador e broca.',
 	'Tool',
-	1
+	1,
 	'Paper Box 01',
 	'NOT ORGANIZED',
 	'Assistente de Soldagem Hikari HK-151.jpg',
@@ -984,7 +2103,7 @@ INSERT INTO components( name, description, category, quantity, locationBox, stat
 	1,
 	'Paper Box 01',
 	'NOT ORGANIZED',
-	'Lupa de Aumento 75mm.jpg'
+	'Lupa de Aumento 75mm.jpg',
 	'',
 	''
 ),
@@ -1320,7 +2439,7 @@ INSERT INTO components( name, description, category, quantity, locationBox, stat
 ),
 (
 	'Multímetro Digital Minipa ET-2041',
-	'Leitura tensão contínua (alternada) 200mV~1000V (2V~750V), corrente contínua (alternada) 2mA~20A (20mA~20A), capacitância 2nF~20uF, temperatura, frequência, teste transistores bipolares, teste diodos/continuidade e resistência 200Ohms~200MOhms.'
+	'Leitura tensão contínua (alternada) 200mV~1000V (2V~750V), corrente contínua (alternada) 2mA~20A (20mA~20A), capacitância 2nF~20uF, temperatura, frequência, teste transistores bipolares, teste diodos/continuidade e resistência 200Ohms~200MOhms.',
 	'Equipment',
 	1,
 	'Paper Box 02',
@@ -1368,13 +2487,14 @@ INSERT INTO components( name, description, category, quantity, locationBox, stat
 	'Equipment',
 	1,
 	'Paper Box 02',
-	'NOT ORGANIZED',	'Extension_Cable_Flat_OBD2_16Pin_Male_to_Female_ELM327_1.jpg;Extension_Cable_Flat_OBD2_16Pin_Male_to_Female_ELM327_2.jpg;Extension_Cable_Flat_OBD2_16Pin_Male_to_Female_ELM327_3.jpg;Extension_Cable_Flat_OBD2_16Pin_Male_to_Female_ELM327_4.jpg',
+	'NOT ORGANIZED',
+	'Extension_Cable_Flat_OBD2_16Pin_Male_to_Female_ELM327_1.jpg;Extension_Cable_Flat_OBD2_16Pin_Male_to_Female_ELM327_2.jpg;Extension_Cable_Flat_OBD2_16Pin_Male_to_Female_ELM327_3.jpg;Extension_Cable_Flat_OBD2_16Pin_Male_to_Female_ELM327_4.jpg',
 	'',
 	''
 ),
 (
 	'Conversor USB para RS485',
-	'Módulo conversor USB para RS485; Cor: Preta; Driver USB: CH340; Velocidade: 75~115200bps; Máxima distância de comunicação RS485: 1200m; Dimensões: 60mmx18mmx14mm.';
+	'Módulo conversor USB para RS485; Cor: Preta; Driver USB: CH340; Velocidade: 75~115200bps; Máxima distância de comunicação RS485: 1200m; Dimensões: 60mmx18mmx14mm.',
 	'Equipment',
 	1,
 	'Paper Box 02',
@@ -1425,7 +2545,7 @@ INSERT INTO components( name, description, category, quantity, locationBox, stat
 	'NOT ORGANIZED',
 	'Arduino Nano V3-0_1.jpg;Arduino Nano V3-0_2.jpg',
 	'',
-	'CH341SER.zip;CH341SER (2).zip',
+	'CH341SER.zip;CH341SER (2).zip'
 ),
 (
 	'Onion Omega 2+',
@@ -1478,7 +2598,7 @@ INSERT INTO components( name, description, category, quantity, locationBox, stat
 	1,
 	'Paper Box 03',
 	'NOT ORGANIZED',
-	'CHIP.png'
+	'CHIP.png',
 	'',
 	''
 ),
@@ -1556,8 +2676,7 @@ INSERT INTO components( name, description, category, quantity, locationBox, stat
 	'Paper Box 03',
 	'NOT ORGANIZED',
 	'ESP-32_1.jpg;ESP-32_2.jpg;ESP-32_3.png;ESP-32_4.png',
-	'ESP32 Datasheet.pdf;ESP-WROOM-32 Datasheet.pdf'
-	'',
+	'ESP32 Datasheet.pdf;ESP-WROOM-32 Datasheet.pdf',
 	''
 ),
 (
@@ -1800,7 +2919,7 @@ INSERT INTO components( name, description, category, quantity, locationBox, stat
 	'NOT ORGANIZED',
 	'Módulo Digital Sensor de Pressão Barométrica e Temperatura do Ar BOSCH BMP085.jpg',
 	'BMP085 - Digital pressure sensor.pdf',
-	'Adafruit_Python_BMP-master.zip;Adafruit-BMP085-Library-master.zip;Adafruit_Python_GPIO-master.zip;BMP280_driver-master.zip',
+	'Adafruit_Python_BMP-master.zip;Adafruit-BMP085-Library-master.zip;Adafruit_Python_GPIO-master.zip;BMP280_driver-master.zip'
 ),
 (
 	'Módulo de Sensor de toque de corpo humano',
@@ -1866,7 +2985,7 @@ INSERT INTO components( name, description, category, quantity, locationBox, stat
 	'NOT ORGANIZED',
 	'GY-9250(MPU-9250)-9-axis_1.jpg;GY-9250(MPU-9250)-9-axis_2.jpg;GY-9250(MPU-9250)-9-axis_3.jpg;GY-9250(MPU-9250)-9-axis_4.jpg;GY-9250(MPU-9250)-9-axis_5.jpg',
 	'PS-MPU-9250A-01.pdf;RM-MPU-9250A-00.pdf',
-	'MPU9250-master.zip',
+	'MPU9250-master.zip'
 ),
 (
 	'CM30-3015-NC - Sensor Capacitivo',
@@ -2010,7 +3129,7 @@ INSERT INTO components( name, description, category, quantity, locationBox, stat
 	'Módulo Buck-boost para FPV.png',
 	'',
 	''
-)
+),
 (
 	'Placa Amplificadora Stereo com TDA2030A',
 	'Placa Amplificadora Stereo com TDA2030A com duplo canal para acesso OCL 18Wx2 ou mono BTL 36Wx1. Resistores de 1% de metal de filmes, Chemi-Con e Panasonic capacitores, 2x3300uF/25V como filtro. Tensão de entrada AC 9V-12V.',
@@ -2420,7 +3539,7 @@ INSERT INTO components( name, description, category, quantity, locationBox, stat
 ),
 (
 	'Conversor RS232 para TTL',
-	'Transceiver : 2 (1 TTL -> RS232 + 1 TTL <- RS232) Operating Voltage:3 V ~ 5.5 V Maximum Datarate: 120 kbps Operation: Full Duplex Protocol: RS232 Receiver Hysteresis: 300mV Temperature range: -40°C ~ 85°C Size: 10mm x 15mm'
+	'Transceiver : 2 (1 TTL -> RS232 + 1 TTL <- RS232) Operating Voltage:3 V ~ 5.5 V Maximum Datarate: 120 kbps Operation: Full Duplex Protocol: RS232 Receiver Hysteresis: 300mV Temperature range: -40°C ~ 85°C Size: 10mm x 15mm',
 	'DIY',
 	3,
 	'Paper Box 05',
@@ -2431,7 +3550,7 @@ INSERT INTO components( name, description, category, quantity, locationBox, stat
 ),
 (
 	'SSR-25 DA - Relé de Estado Sólido',
-	'Relé de Estado Sólido para 25A de corrente de trabalho, tensão de entrada de 3~32VDC, tensão ON (>2.4V) e OFF (<1.0V), corrente de trigger de 7.5mA/12V, método de controle dado por \"Zero Cross Trigger\", tensão de trabalho 24~380VAC.'
+	'Relé de Estado Sólido para 25A de corrente de trabalho, tensão de entrada de 3~32VDC, tensão ON (>2.4V) e OFF (<1.0V), corrente de trigger de 7.5mA/12V, método de controle dado por \"Zero Cross Trigger\", tensão de trabalho 24~380VAC.',
 	'DIY',
 	1,
 	'Paper Box 06',
@@ -2441,7 +3560,7 @@ INSERT INTO components( name, description, category, quantity, locationBox, stat
 	''
 ),
 (
-	'L298N - Módulo para constrole de motores DC'
+	'L298N - Módulo para constrole de motores DC',
 	'Tensão operação 5~35V (4~35V), controle p/ 2 motores DC ou 1 motor passo, corrente máxima 2A por canal ou 4A máxima, tensão lógica 4.5~5.5V (HIGH)/0V (LOW), corrente lógica 0~36mA, potência máxima de 20W (25W).',
 	'DIY',
 	2,
@@ -2458,7 +3577,7 @@ INSERT INTO components( name, description, category, quantity, locationBox, stat
 	1,
 	'Paper Box 06',
 	'NOT ORGANIZED',
-	'Modulo Relay 1 relay.jpg'
+	'Modulo Relay 1 relay.jpg',
 	'Songle Relay - SRD.pdf',
 	''
 ),
