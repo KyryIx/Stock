@@ -17,18 +17,18 @@
 		switch( $option ){
 			case 'location':
 			{
-				$sql = "SELECT id, name, description, category, quantity, locationBox, status, locationImage FROM components WHERE locationBox LIKE '$value' ORDER BY $orderBy $ascDesc";
+				$sql = "SELECT id, name, description, category, quantity, locationBox, status, locationImage FROM item WHERE locationBox LIKE '$value' ORDER BY $orderBy $ascDesc";
 				break;
 			}
 			case 'category':
 			default:
 			{
-				$sql = "SELECT id, name, description, category, quantity, locationBox, status, locationImage FROM components WHERE category LIKE '$value' ORDER BY $orderBy $ascDesc";
+				$sql = "SELECT id, name, description, category, quantity, locationBox, status, locationImage FROM item WHERE category LIKE '$value' ORDER BY $orderBy $ascDesc";
 			}
 		}
 		
 		try{
-			$db  = new PDO( 'sqlite:./components.db3' );
+			$db  = new PDO( 'sqlite:./patrimony/patrimony.db3' );
 			$sth = $db->prepare( $sql );
 			$sth->execute();
 			$array = array();
@@ -37,12 +37,12 @@
 					$array,
 					array(
 						'id'            => $row['id'],
+						'locationImage' => /*explode( ';', $row['locationImage'], 2 )*/ 'IMAGE',
 						'name'          => $row['name'],
 						'description'   => $row['description'],
 						'category'      => $row['category'],
 						'quantity'      => $row['quantity'],
 						'locationBox'   => $row['locationBox'],
-						'locationImage' => explode( ';', $row['locationImage'], 2 ),
 						'status'        => $row['status']
 					)
 				);

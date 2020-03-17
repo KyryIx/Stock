@@ -8,6 +8,7 @@ var category_options_portuguese = [
 	'Transistor',
 	'Conector',
 	'Botao',
+	'Relé',
 	'Diodo',
 	'Capacitor',
 	'Resistor',
@@ -17,19 +18,29 @@ var category_options_portuguese = [
 ];
 
 var category_options_english = [
-	'Equipment',
-	'Tool',
-	'LED',
+	'Button',
+	'Capacitor',
+	'Connector',
+	'Diode',
+	'Display',
 	'DIY',
 	'Embedded',
+	'Equipment',
 	'Integrated Circuit',
-	'Transistor',
-	'Connector',
-	'Button',
-	'Diode',
-	'Capacitor',
-	'Resistor',
+	'LED',
+	'Memory',
+	'Microcontroller',
+	'Motor',
+	'Operational Amplifier',
+	'Optocoupler',
 	'Other',
+	'Relay',
+	'Resistor',
+	'Sensor',
+	'Thyristor',
+	'Tool',
+	'Transistor',
+	'Trimmer',
 	'All'
 	//'Reset'
 ];
@@ -110,8 +121,8 @@ var location_options_english = [
 	*/
 ];
 
-var head_table_portuguese = ['ID', 'NOME', 'DESCRICAO', 'CATEGORIA', 'QUANTIDADE', 'IMAGEM', 'LOCALIZACAO', 'LINK'];
-var head_table_english = ['ID', 'NAME', 'DESCRIPTION', 'CATEGOTY', 'QUANTITY', 'IMAGE', 'LOCATION', 'LINK'];
+var head_table_portuguese = ['ID', 'IMAGEM', 'NOME', 'DESCRICAO', 'CATEGORIA', 'QUANTIDADE', 'LOCALIZACAO', 'STATUS'];
+var head_table_english = ['ID', 'IMAGE', 'NAME', 'DESCRIPTION', 'CATEGORY', 'QUANTITY', 'LOCATION', 'STATUS'];
 
 function loadData( event ){
 	//alert( event.target.value );
@@ -186,7 +197,7 @@ function loadData( event ){
 		//	document.getElementById("tableList").innerHTML += this.responseText;
 		}
 	};
-	xhttp.open( "POST", "listComponents.php", true );
+	xhttp.open( "POST", "list.php", true );
 	xhttp.setRequestHeader( "Content-type", "application/x-www-form-urlencoded" );
 	if( (topic == 'category') || (topic == 'location') ){
 		//xhttp.send( "option=" + selected + "&orderBy=" + v1 + "&ascDesc=" + v2 );

@@ -1,4 +1,4 @@
-CREATE TABLE components (
+CREATE TABLE item (
 	id                 INTEGER PRIMARY KEY AUTOINCREMENT	NOT NULL,
     name               VARCHAR(255) NOT NULL,
     description        VARCHAR(255)NOT NULL,
