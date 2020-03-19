@@ -22,7 +22,7 @@ INSERT INTO item( name, description, category, quantity, locationBox, status, lo
 	'Module LCD Nokia 5110;Nokia5110.pdf',
 	'Module LCD Nokia 5110;Adafruit-PCD8544-Nokia-5110-LCD-library-1.1.1.zip;Adafruit-GFX-Library-1.7.4.zip;BitmapEncoder-master.zip;LCDAssistant.zip;LCDAssistantCMD.zip;TheDotFactory-0.1.4.7z'),
 	
-(	'AGM-1604A-801 - Display de Cristal Liquido',
+(	'AGM-1604A-801 - Display de Cristal Liquido 16x4',
 	'Display de Cristal Liquido modelo AGM-1604A-801, no formato 16*4 caracteres, com luz branca de fundo e cor de fundo azul.',
 	'Display',
 	1,
@@ -42,8 +42,8 @@ INSERT INTO item( name, description, category, quantity, locationBox, status, lo
 	'3.2 inch TFT LCD Screen Module;SSD1289-spec.pdf',
 	'3.2 in TFT LCD Screen Module;UTFT.zip;3.2 inch TFT Touch LCD.zip;LCD 3.2 TFT LCD Screen Module.zip;The instruction for mega2560 board and 3.2 inch touch screen and shield.zip'),
 	
-(	'1602A - Módulo LCD com 16 caracteres por 2 linhas e fundo azul',
-	'Modelo 6514 com 16 caracteres x 2 linhas, luz de fundo azul, caracteres branco e tensão de alimentação de 5VDC',
+(	'1602A - Display de Cristal Liquido 16x2',
+	'Display de Cristal Liquido; Modelo 6514 com 16 caracteres x 2 linhas, luz de fundo azul, caracteres branco e tensão de alimentação de 5VDC',
 	'Display',
 	1,
 	'Box 000',

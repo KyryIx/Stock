@@ -2,7 +2,7 @@
  * Diode
  */
 INSERT INTO item( name, description, category, quantity, locationBox, status, locationImage, locationDatasheet, locationAttachment ) VALUES
-(	'DB3 - DIAC	DIAC',
+(	'DB3 - DIAC',
 	'DB3 com tensão de condução de 32V e corrente máxima de 2.0A.',
 	'Diode',
 	2,
@@ -12,7 +12,7 @@ INSERT INTO item( name, description, category, quantity, locationBox, status, lo
 	'',
 	''),
 	
-(	'1N914 - Diodo de Comutação Rápida',
+(	'1N914 - Diodo',
 	'Diodo 1N914 de comutação rápida de pequeno sinal, com dissipação máxima de 500mW e queda de tensão de 1.0V.',
 	'Diode',
 	2,
@@ -22,7 +22,7 @@ INSERT INTO item( name, description, category, quantity, locationBox, status, lo
 	'',
 	''),
 	
-(	'1N60P - Diodo Schottky de Germânio',
+(	'1N60P - Diodo Schottky',
 	'Diodo Schottky de pequeno sinal de Germânio 1N60P com tensão máxima de alimentação de 45V, corrente máxima de 50mA, queda de tensão girando entre 0.24V e 1.0V dependendo da corrente.',
 	'Diode',
 	2,
@@ -72,7 +72,7 @@ INSERT INTO item( name, description, category, quantity, locationBox, status, lo
 	'',
 	''),
 	
-(	'1N4148 - Diodo de Baixo Sinal',
+(	'1N4148 - Diodo',
 	'Diodo de Baixo Sinal 1N4148 com máxima tensão de 100V, corrente de 200mA, potência de 500mW e queda de tensão de 1.0V.',
 	'Diode',
 	12,
@@ -112,7 +112,7 @@ INSERT INTO item( name, description, category, quantity, locationBox, status, lo
 	'',
 	''),
 	
-(	'UF5408 - Diodo Retificador Ultra rápido',
+(	'UF5408 - Diodo Retificador',
 	'Diodo Retificador UF5408 Ultra rápido com corrente de 3A, tensão de 700V e queda de tensão entre 1.0~1.7V.',
 	'Diode',
 	8,

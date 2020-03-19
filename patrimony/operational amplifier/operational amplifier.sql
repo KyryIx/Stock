@@ -120,5 +120,15 @@ INSERT INTO item( name, description, category, quantity, locationBox, status, lo
 	'NOT ORGANIZED',
 	'LM339.jpg',
 	'LM339, LM239, LM139, LM2901 Quad Differential Comparators.pdf',
+	''),
+	
+(	'OP07 - Ultralow Offset Voltage Operational Amplifier',
+	'Low VOS: 75 μV maximum; Low VOS drift: 1.3 μV/°C maximum; Ultrastable vs. time: 1.5 μV per month maximum; Low noise: 0.6 μV p-p maximum; Wide input voltage range: ±14 V typical; Wide supply voltage range: ±3 V to ±18 V; 125°C temperature-tested dice',
+	'Operational Amplifier',
+	4,
+	'',
+	'NOT ORGANIZED',
+	'OP07;Figure1.jpg',
+	'OP07;OP07.pdf',
 	'')
 ;
