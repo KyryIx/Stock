@@ -36,7 +36,7 @@ INSERT INTO item( name, description, category, quantity, locationBox, status, lo
 	'Capacitor Eletrolítico SNAP-IN 680uF/400V com 35.4mm de diametro e 50.8mm de altura.',
 	'Capacitor',
 	2,
-	'BOX. 006 POSITION 06',
+	'BOX 006 POSITION 06',
 	'NOT ORGANIZED',
 	'Capacitor eletrolitico snap-in;Figure1.jpg',
 	'',

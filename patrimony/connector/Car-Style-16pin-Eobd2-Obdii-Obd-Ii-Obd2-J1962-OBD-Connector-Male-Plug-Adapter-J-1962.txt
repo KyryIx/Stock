@@ -1,0 +1,38 @@
+OBD2 Standard 16pin Male Connector OBD 2/OBD II/EOBD 2/J1962 Plug Adapter 
+ 
+
+ 
+Description:
+OBD2 16 pin Male Adapter
+Now lots of diagnostic tools are 16 pin connector, but lots of cars have no 16 pin connector like some old cars. You can use the 16 pin diagnostic tool to check your car without 16pin connector via this item.
+Without software, it is just a small connector.
+Simple to use.
+Color: Black.
+ 
+ 
+Package Included:
+1 x OBD2 16 pin Male Shell Plug
+ 
+
+Note:
+
+Plese check your car pin-out,if this cable fits your car pin assignment or not !
+pin Signal description
+2    J1850 Bus+
+4    CGND Chassis ground
+5    SGND Signal ground
+6 can high j 2285
+7     K-LINE (ISO 9141-2 and ISO/DIS 14230-4)
+10   J1850 Bus-
+14   CAN Low J-2284
+15   ISO 9141-2 L-LINE (ISO 9141-2 and ISO/DIS 14230-4)
+16   +12v Battery power
+
+
+
+
+
+
+
+
+Hardware Version: latestSoftware Version: NewestMaterial Type: PlasticPower: WBrand Name: JMLOBDElectronic: NoModel Name: obdii 16pinItem Type: Car Diagnostic Cables and ConnectorsItem Height: 1cmItem Length: 5cmItem Width: 3cmVoltage: VItem Weight: 0.1kgExternal Testing Certification: ceSpecial Features: PlasticItem Width: 5cmItem Length: three inchItem Height: 3cmshipping: Fast and TimelyQuality: Top QualityTerms of Shipment: dhl, fedex, ups, tnt, ems, aramexTechnical Support: Available and TimelyAfter-sale service: Perfect and convenientCar Maker: for Audi,GM, Honda, Isuzu, Nissan,Seat,Skoda

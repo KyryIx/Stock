@@ -1,0 +1,16 @@
+Type: BF350-3AA
+Resistance: 349.8 ±0.1Ω
+Sensitivity coefficient(gauge factor): 2.0 - 2.20
+Accuracy class: 0.02
+Strain limit: 2.0% (2000 microstrain)
+Monolithic size: 7.1mm * 4.5mm
+
+
+Brand Name: MCIGICM
+Condition: New
+Supply Voltage: standard
+Model Number: BF350-3AA
+Operating Temperature: standard
+Dissipation Power: standard
+Type: IC module
+Application: diy

@@ -36,7 +36,7 @@ INSERT INTO item( name, description, category, quantity, locationBox, status, lo
 	'Adaptador microSD para SD Memory Card',
 	'Other',
 	4,
-	'BOX. 003 POSITION 05',
+	'BOX 003 POSITION 05',
 	'NOT ORGANIZED',
 	'Adaptador microSD para SD Memory Card.jpg',
 	'',
