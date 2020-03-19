@@ -23,7 +23,12 @@
 			case 'category':
 			default:
 			{
-				$sql = "SELECT id, name, description, category, quantity, locationBox, status, locationImage FROM item WHERE category LIKE '$value' ORDER BY $orderBy $ascDesc";
+				if( $value == 'All' ){
+					$sql = 'SELECT id, name, description, category, quantity, locationBox, status, locationImage FROM item';
+				}
+				else{
+					$sql = "SELECT id, name, description, category, quantity, locationBox, status, locationImage FROM item WHERE category LIKE '$value' ORDER BY $orderBy $ascDesc";
+				}
 			}
 		}
 		

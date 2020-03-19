@@ -62,6 +62,16 @@ INSERT INTO item( name, description, category, quantity, locationBox, status, lo
 	'',
 	''),
 	
+(	'PIC18F4520 - Microcontrolador',
+	'Program Memory Type: Flash; Program Memory Size (KB): 32; CPU Speed (MIPS/DMIPS): 10; SRAM (B): 1,536; Data EEPROM/HEF (bytes): 256; Digital Communication Peripherals: 1-UART, 1-SPI, 1-I2C1-MSSP(SPI/I2C); Capture/Compare/PWM Peripherals: 1 CCP, 1 ECCP; Timers: 1 x 8-bit, 3 x 16-bit; ADC Input: 13 ch, 10-bit; Number of Comparators: 2; Operating Voltage Range (V): 2 to 5.5',
+	'Microcontroller',
+	1,
+	'',
+	'NOT ORGANIZED',
+	'PIC18F4520;Figure1.png',
+	'PIC18F4520;PIC18F2420,2520,4420,4520 - Data Sheet 28,40,44-Pin Enhanced Flash Microcontrollers with 10-Bit A,D and nanoWatt Technology.pdf',
+	''),
+	
 (	'dsPIC4013 - Microcontrolador',
 	'Microcontrolador alta performance de 16 bits para controle de sinal digital, 48k+16k bytes de memória de programa, 2048 bytes SRAM, 1024 bytes EEPROM, 5 timers 16 bits, 4 PWM, interface codec AC 97 e I2S, 13 canais A/D 12 bits, 2 UART, 1 SPI/I2C/CAN',
 	'Microcontroller',

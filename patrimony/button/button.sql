@@ -2,6 +2,17 @@
  * Button
  */
 INSERT INTO item( name, description, category, quantity, locationBox, status, locationImage, locationDatasheet, locationAttachment ) VALUES
+(
+	'Boia de Nível Magnético para Água',
+	'Boia Sensor de Nível Lateral Magnético para Água; Material: ABS; Tensão Máxima: 110 VDC; Corrente Máxima: 0,5A; Potencia Máxima suportada: 10W; Exemplo: Alimentação 110V, a corrente máxima é de 0,09mA',
+	'Button',
+	1,
+	'BOX. 004 POSITION 02',
+	'NOT ORGANIZED',
+	'Boia Sensor de Nivel Lateral Magnetico para Agua;Figure1.jpg;Figure2.jpg',
+	'',
+	''),
+
 (	'Chave Push Button NA',
 	'Chave Push Button NA',
 	'Button',
@@ -13,7 +24,7 @@ INSERT INTO item( name, description, category, quantity, locationBox, status, lo
 	''),
 	
 (	'Chave Push Button NA DS-314 – 2T sem trava – vermelho',
-	'Chave Push Button NA DS-314 – 2T sem trava – vermelho',
+	'Chave Push Button NA; Modelo: DS-314; Quantidade terminais: 2T sem trava; Cor: vermelho',
 	'Button',
 	1,
 	'BOX. 004 POSITION 02',
@@ -42,17 +53,17 @@ INSERT INTO item( name, description, category, quantity, locationBox, status, lo
 	'',
 	''),
 	
-(	'Chave táctil KFC-A06 – 12X12X4,3mm – 4T – 180º',
-	'Chave táctil KFC-A06 – 12X12X4,3mm – 4T – 180º',
+(	'Chave táctil KFC-A06 – 4T 180º',
+	'Chave táctil; Modelo: KFC-A06; Dimensão: 12x12x4,3mm; 4 Terminais; Disposição de 180º',
 	'Button',
 	9,
 	'BOX. 004 POSITION 03',
 	'NOT ORGANIZED',
-	'Chave Táctil KFC-A06 12X12X4,3mm - 4T - 180°;Figure1.jpg',
+	'Chave Táctil KFC-A06 12x12x4,3mm - 4T - 180°;Figure1.jpg',
 	'',
 	''),
 	
-(	'Chave HH SS12D00G3 com 3 Terminais',
+(	'Chave HH SS12D00G3 3T',
 	'Chave HH SS12D00G3 com 3 Terminais',
 	'Button',
 	2,
@@ -62,8 +73,8 @@ INSERT INTO item( name, description, category, quantity, locationBox, status, lo
 	'',
 	''),
 	
-(	'Chave táctil KFC-A06 - 6X6X5mm - 4T – 180°',
-	'Chave táctil KFC-A06 - 6X6X5mm - 4T – 180°',
+(	'Chave táctil KFC-A06 - 4T 180°',
+	'Chave táctil; Modelo KFC-A06; Dimensão: 6x6x5mm: 4 Terminais; Disposição 180°',
 	'Button',
 	4,
 	'BOX. 004 POSITION 05',
@@ -72,8 +83,8 @@ INSERT INTO item( name, description, category, quantity, locationBox, status, lo
 	'',
 	''),
 	
-(	'Chave Tactil Redonda TSY6650 6X6X5mm 2T 180º',
-	'Chave Tactil Redonda TSY6650 6X6X5mm 2T 180º',
+(	'Chave Tactil Redonda TSY6650 - 2T 180º',
+	'Chave Tactil Redonda; Modelo: TSY6650; Dimensão: 6x6x5mm; 2 Terminais; Disposição 180º',
 	'Button',
 	2,
 	'BOX. 004 POSITION 05',
@@ -88,7 +99,7 @@ INSERT INTO item( name, description, category, quantity, locationBox, status, lo
 	1,
 	'Paper Box 06',
 	'NOT ORGANIZED',
-	'Slide_Switch_AYZ0202__Arduino_LilyPad;Figure11.png;Figure2.png;Figure3.png;Figure4.png',
+	'Slide_Switch_AYZ0202__Arduino_LilyPad;Figure1.png;Figure2.png;Figure3.png;Figure4.png',
 	'',
 	'')
 ;

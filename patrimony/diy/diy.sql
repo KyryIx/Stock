@@ -440,5 +440,15 @@ INSERT INTO item( name, description, category, quantity, locationBox, status, lo
 	'NOT ORGANIZED',
 	'Modulo L298N.jpg;Modulo L298N_description.jpg',
 	'',
-	'')
+	''),
+	
+(	'Módulo Arduino CAN Bus MCP2515',
+	'Circuito Integrado MCP2515; Suporta especificação CAN V2.0B (1 Mb/S); Tensão de alimentação: 5V; Corrente de operação: 5mA (standby 1µA); Interface: SPI; Resistores de terminação de 120 ohms; Temperatura de operação: -40 a 85°C; Dimensões: 40 x 28 x 11,5mm',
+	'DIY',
+	1,
+	'Paper Box 06',
+	'NOT ORGANIZED',
+	'Modulo Arduino CAN Bus MCP2515;Figure1.jpg;Figure2.jpg',
+	'Modulo Arduino CAN Bus MCP2515;MCP2515.pdf;TJA1050.pdf;Arduino CAN Tutorial - Interfacing MCP2515 CAN BUS Module with Arduino.pdf',
+	'Modulo Arduino CAN Bus MCP2515;arduino-mcp2515-master.zip')
 ;

@@ -2,6 +2,16 @@
  * Equipment
  */
 INSERT INTO item( name, description, category, quantity, locationBox, status, locationImage, locationDatasheet, locationAttachment ) VALUES
+(	'Alicate Amperimetro Digital AD-7910 True RMS',
+	'Medidas de tensão contínua e alternada True RMS, corrente contínua e alternada, resistência, capacitância, frequência, ciclo de atividade, temperatura, teste de diodo, continuidade e detecção de tensão elétrica. Abertura garra 52mm (2”)',
+	'Equipment',
+	1,
+	'Paper Box 02',
+	'NOT ORGANIZED',
+	'Alicate Amperimetro Digital AD-7910;Figure1.jpg',
+	'Alicate Amperimetro Digital AD-7910;AD-7910 Manual Fev 2015 A.pdf',
+	'AD-7910;'
+),
 (	'Multímetro Digital MD-6130 True RMS',
 	'Multímetro Digital MD-6130 para leituras de tensão/corrente elétrica contínua/alternada (True RMS), de temperatura, de teste de transistores, diodos e continuidade, de resistência, de capacitância, indutância e frequência.',
 	'Equipment',
@@ -329,6 +339,46 @@ INSERT INTO item( name, description, category, quantity, locationBox, status, lo
 	'Paper Box 06',
 	'NOT ORGANIZED',
 	'Controle JVC RM-RK50 (P14-Infrared module).jpg',
+	'',
+	''),
+	
+(	'Webcam 3MP HD 720P C270 Logitech',
+	'Resolução máxima: 720p/30qps; Tipo de foco: foco fixo; Tecnologia de lente: padrão; Microfone embutido: mono; FoV: 60°; Clipe universal que se ajusta a laptops e LCDs ou monitores; Comprimento do cabo: 1,5 m',
+	'Equipment',
+	1,
+	'Paper Box 05',
+	'NOT ORGANIZED',
+	'Webcam 3MP HD 720P C270 Logitech;Figure1.png;Figure2.png;Figure3.png;Figure4.png',
+	'Webcam 3MP HD 720P C270 Logitech;hd-webcam-c270.pdf',
+	'Webcam 3MP HD 720P C270 Logitech;LogiCameraSettings_2.10.4.7z.001;LogiCameraSettings_2.10.4.7z.002;LogiCameraSettings_2.10.4.7z.003'),
+
+(	'Conversor HDMI para VGA com cabo P2 + P2 estéreo',
+	'Conversor HDMI para VGA, acompanha cabo P2 + P2 estéreo',
+	'Equipment',
+	1,
+	'Paper Box 06',
+	'NOT ORGANIZED',
+	'Conversor HDMI para VGA;Figure1.jpg',
+	'',
+	''),
+
+(	'Leitor de Cartão de Memória SD',
+	'Leitor de Cartao de Memoria 480Mbps para cartões Ultra II SD, MMC 4.0, MMC-II, HS RS MMC, Extreme III-SD e RS-MMC',
+	'Equipment',
+	1,
+	'Paper Box 06',
+	'NOT ORGANIZED',
+	'Leitor de Cartao de Memoria SD;Figure1.jpg',
+	'',
+	''),
+	
+(	'Fonte Chaveada CFTV 5V 3A com Plug P4 2,1mm',
+	'Fonte Chaveada CFTV 5V 3A com Plug P4 2,1mm com Novo Padrao INMETRO',
+	'Equipment',
+	1,
+	'Paper Box 06',
+	'NOT ORGANIZED',
+	'Fonte Chaveada CFTV 5V 3A;Figure1.jpg',
 	'',
 	'')
 ;

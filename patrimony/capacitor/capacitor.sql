@@ -2,8 +2,8 @@
  * Capacitor
  */
 INSERT INTO item( name, description, category, quantity, locationBox, status, locationImage, locationDatasheet, locationAttachment ) VALUES
-(	'Capacitor Huang Eletrolítico 33uF/400V',
-	'Capacitor Huang Eletrolítico 33UF por 400V.Di&acirc;metro de 16mm e altura de 22mm. Temperatura de -40&deg;C até 105&deg;C.',
+(	'Capacitor Eletrolítico 33uF/400V',
+	'Capacitor Huang Eletrolítico 33UF por 400V.Diâmetro de 16mm e altura de 22mm. Temperatura de -40°C até 105°C.',
 	'Capacitor',
 	1,
 	'',
@@ -13,7 +13,7 @@ INSERT INTO item( name, description, category, quantity, locationBox, status, lo
 	''),
 	
 (	'Capacitor Eletrolítico Snap-in 47uF/400V',
-	'Capacitor G-LUXON Eletrolítico Snap-in 47UF por 400V e TW85&deg;. Di&acirc;metro de 22mm e altura de 20mm.',
+	'Capacitor G-LUXON Eletrolítico Snap-in 47UF por 400V e TW85°. Diâmetro de 22mm e altura de 20mm.',
 	'Capacitor',
 	1,
 	'',
