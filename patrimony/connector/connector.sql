@@ -4,7 +4,7 @@
 INSERT INTO item( name, description, category, quantity, locationBox, status, locationImage, locationDatasheet, locationAttachment ) VALUES
 (	'Jack Adaptador para Telefone RJ11 2X6P4C Fêmea 6P4C',
 	'1 Macho x 2 Femeas RJ11 - Une dois telefones em uma única linha; Acoplador telefônico 1Macho x 2Femea é usado em tomadas telefônicas para uso extensão; Tipo de conexão: RJ11; Pode ser utilizada em qualquer aparelho telefônico; Cor: Bege',
-	'Conector',
+	'Connector',
 	1,
 	'BOX 003 POSITION 01',
 	'NOT ORGANIZED',
@@ -14,7 +14,7 @@ INSERT INTO item( name, description, category, quantity, locationBox, status, lo
 	
 (	'Plug Modular para Conector RJ11 - 6P4C',
 	'Plug Modular para Conector RJ11 - 6P4C',
-	'Conector',
+	'Connector',
 	4,
 	'BOX 003 POSITION 01',
 	'NOT ORGANIZED',
@@ -24,7 +24,7 @@ INSERT INTO item( name, description, category, quantity, locationBox, status, lo
 	
 (	'Plug modular para RJ11 4P4C, YH003 top',
 	'Plug modular para RJ11 4P4C, YH003 top',
-	'Conector',
+	'Connector',
 	4,
 	'BOX 003 POSITION 01',
 	'NOT ORGANIZED',
@@ -34,7 +34,7 @@ INSERT INTO item( name, description, category, quantity, locationBox, status, lo
 	
 (	'Plug Modular para conector RJ11 YH002 - 4P4C',
 	'Plug Modular para conector RJ11 YH002 - 4P4C',
-	'Conector',
+	'Connector',
 	4,
 	'BOX 003 POSITION 01',
 	'NOT ORGANIZED',
@@ -44,7 +44,7 @@ INSERT INTO item( name, description, category, quantity, locationBox, status, lo
 	
 (	'Jack RJ11 YH55-04 6P4C 90°',
 	'Jack RJ11 YH55-04 6P4C 90°; Cor Bege',
-	'Conector',
+	'Connector',
 	2,
 	'BOX 003 POSITION 01',
 	'NOT ORGANIZED',
@@ -54,7 +54,7 @@ INSERT INTO item( name, description, category, quantity, locationBox, status, lo
 	
 (	'Conector RJ45 Femea Multilan CAT.5E - Furukawa',
 	'Suporta IEEE 802.3, 1000 BASE T, 1000 BASE TX, EIA/TIA-854, ANSI-EIA/TIA-862, ATM, Vídeo, Sistemas de Automação Predial e todos os protocolos LAN anteriores. Altura 22,7 mm, Largura 18,3 mm, Peso 0,012kg, Contato Elétrico: (1,27 mm) de ouro e 100 min',
-	'Conector',
+	'Connector',
 	1,
 	'BOX 003 POSITION 02',
 	'NOT ORGANIZED',
@@ -64,7 +64,7 @@ INSERT INTO item( name, description, category, quantity, locationBox, status, lo
 	
 (	'Plug Modular para Conector RJ45 8P8CS-HALF 8 Vias',
 	'Plug Modular para Conector RJ45 8P8CS-HALF 8 Vias',
-	'Conector',
+	'Connector',
 	3,
 	'BOX 003 POSITION 02',
 	'NOT ORGANIZED',
@@ -74,7 +74,7 @@ INSERT INTO item( name, description, category, quantity, locationBox, status, lo
 	
 (	'Plug Modular para Conector RJ45 8P8C - 8 Vias',
 	'Plug Modular para Conector RJ45 8P8C - 8 Vias',
-	'Conector',
+	'Connector',
 	2,
 	'BOX 003 POSITION 02',
 	'NOT ORGANIZED',
@@ -84,7 +84,7 @@ INSERT INTO item( name, description, category, quantity, locationBox, status, lo
 	
 (	'Conector USB03 Fêmea - para Circuito Impresso 90°',
 	'Conector USB03 Fêmea - para Circuito Impresso 90°',
-	'Conector',
+	'Connector',
 	2,
 	'BOX 003 POSITION 03',
 	'NOT ORGANIZED',
@@ -94,7 +94,7 @@ INSERT INTO item( name, description, category, quantity, locationBox, status, lo
 	
 (	'Conector YH-USB-01A fêmea, para pci 180º',
 	'Conector YH-USB-01A fêmea, para pci 180º',
-	'Conector',
+	'Connector',
 	3,
 	'BOX 003 POSITION 03',
 	'NOT ORGANIZED',
@@ -104,7 +104,7 @@ INSERT INTO item( name, description, category, quantity, locationBox, status, lo
 	
 (	'Conector USB05A Macho para Circuito Impresso 180°',
 	'Conector USB05A Macho para Circuito Impresso 180°',
-	'Conector',
+	'Connector',
 	2,
 	'BOX 003 POSITION 03',
 	'NOT ORGANIZED',
@@ -114,7 +114,7 @@ INSERT INTO item( name, description, category, quantity, locationBox, status, lo
 	
 (	'Conector USB06 Tipo Solda Macho DS-1107',
 	'Conector USB06 Tipo Solda Macho DS-1107',
-	'Conector',
+	'Connector',
 	4,
 	'BOX 003 POSITION 03',
 	'NOT ORGANIZED',
@@ -124,7 +124,7 @@ INSERT INTO item( name, description, category, quantity, locationBox, status, lo
 	
 (	'Conector F Macho RCF Compressão RG59/U',
 	'Conector F Macho RCF Compressão RG59/U',
-	'Conector',
+	'Connector',
 	5,
 	'BOX 003 POSITION 04',
 	'NOT ORGANIZED',
@@ -134,7 +134,7 @@ INSERT INTO item( name, description, category, quantity, locationBox, status, lo
 	
 (	'Conector Antenar para Cabo Coaxial RG59 com Anel',
 	'Conector Antenar para Cabo Coaxial com Anel. Conector F Coaxial para cabo RG59 possui anel de crimpagem (requer alicate de crimpar). Para Montagens de Cabo para TV parabólica. sistemas CFTV, etc.',
-	'Conector',
+	'Connector',
 	6,
 	'BOX 003 POSITION 04',
 	'NOT ORGANIZED',
@@ -144,7 +144,7 @@ INSERT INTO item( name, description, category, quantity, locationBox, status, lo
 	
 (	'Conector F Macho com Rosca para RG59',
 	'Conector F Macho com Rosca para RG59',
-	'Conector',
+	'Connector',
 	3,
 	'BOX 003 POSITION 04',
 	'NOT ORGANIZED',
@@ -154,7 +154,7 @@ INSERT INTO item( name, description, category, quantity, locationBox, status, lo
 	
 (	'Terminal CRIMPLINK Tubular IS0-15008D-3 1,5mm - Preto',
 	'Terminal CRIMPLINK Tubular IS0-15008D-3 1,5mm - Preto',
-	'Conector',
+	'Connector',
 	14,
 	'BOX 003 POSITION 05',
 	'NOT ORGANIZED',
@@ -164,7 +164,7 @@ INSERT INTO item( name, description, category, quantity, locationBox, status, lo
 	
 (	'Terminal CRIMPLINK Tubular IS0-10008D-3 1,0mm - Vermelho',
 	'Terminal CRIMPLINK Tubular IS0-10008D-3 1,0mm - Vermelho',
-	'Conector',
+	'Connector',
 	5,
 	'BOX 003 POSITION 05',
 	'NOT ORGANIZED',
@@ -174,7 +174,7 @@ INSERT INTO item( name, description, category, quantity, locationBox, status, lo
 	
 (	'Conector BNC Macho para Crimpar RGC58',
 	'Conector BNC Macho para Crimpar RGC58',
-	'Conector',
+	'Connector',
 	2,
 	'BOX 003 POSITION 06',
 	'NOT ORGANIZED',
@@ -184,7 +184,7 @@ INSERT INTO item( name, description, category, quantity, locationBox, status, lo
 	
 (	'Conector Emenda T BNC',
 	'Conector Emenda T BNC',
-	'Conector',
+	'Connector',
 	2,
 	'BOX 003 POSITION 06',
 	'NOT ORGANIZED',
@@ -194,7 +194,7 @@ INSERT INTO item( name, description, category, quantity, locationBox, status, lo
 	
 (	'Pino Banana PB121 com derivação lateral – preto',
 	'Pino Banana PB121 com derivação lateral – preto',
-	'Conector',
+	'Connector',
 	2,
 	'BOX 003 POSITION 06',
 	'NOT ORGANIZED',
@@ -204,7 +204,7 @@ INSERT INTO item( name, description, category, quantity, locationBox, status, lo
 	
 (	'Pino Banana PB121 com derivação lateral – vermelho',
 	'Pino Banana PB121 com derivação lateral - vermelho',
-	'Conector',
+	'Connector',
 	2,
 	'BOX 003 POSITION 06',
 	'NOT ORGANIZED',
@@ -214,7 +214,7 @@ INSERT INTO item( name, description, category, quantity, locationBox, status, lo
 	
 (	'Pino Banana PB121 com derivação lateral – verde',
 	'Pino Banana PB121 com derivação lateral – verde',
-	'Conector',
+	'Connector',
 	4,
 	'BOX 003 POSITION 06',
 	'NOT ORGANIZED',
@@ -224,7 +224,7 @@ INSERT INTO item( name, description, category, quantity, locationBox, status, lo
 	
 (	'Pino Banana Macho CN 175 – Amarelo',
 	'Pino Banana Macho CN 175 – Amarelo',
-	'Conector',
+	'Connector',
 	1,
 	'BOX 003 POSITION 06',
 	'NOT ORGANIZED',
@@ -234,7 +234,7 @@ INSERT INTO item( name, description, category, quantity, locationBox, status, lo
 	
 (	'Pino Banana Macho CN-0919 – Verde',
 	'Pino Banana Macho CN-0919 – Verde',
-	'Conector',
+	'Connector',
 	1,
 	'BOX 003 POSITION 06',
 	'NOT ORGANIZED',
@@ -244,7 +244,7 @@ INSERT INTO item( name, description, category, quantity, locationBox, status, lo
 	
 (	'Pino Banana Macho CN-0921 – Azul',
 	'Pino Banana Macho CN-0921 – Azul',
-	'Conector',
+	'Connector',
 	1,
 	'BOX 003 POSITION 06',
 	'NOT ORGANIZED',
@@ -254,7 +254,7 @@ INSERT INTO item( name, description, category, quantity, locationBox, status, lo
 	
 (	'Borne Fêmea 2EDGK-0,5 5 Vias - Espaçamento 5,08mm',
 	'Borne Fêmea 2EDGK-0,5 5 Vias - Espaçamento 5,08mm',
-	'Conector',
+	'Connector',
 	1,
 	'BOX 004 POSITION 04',
 	'NOT ORGANIZED',
@@ -264,7 +264,7 @@ INSERT INTO item( name, description, category, quantity, locationBox, status, lo
 	
 (	'Borne Macho 90° 2EDGRC-0,5 5 Vias - Espaçamento 5,08mm',
 	'Borne Macho 90° 2EDGRC-0,5 5 Vias - Espaçamento 5,08mm',
-	'Conector',
+	'Connector',
 	1,
 	'BOX 004 POSITION 04',
 	'NOT ORGANIZED',
@@ -274,7 +274,7 @@ INSERT INTO item( name, description, category, quantity, locationBox, status, lo
 	
 (	'Borne PCI KRE 2T, Azul - Espaçamento 5,08mm',
 	'Borne PCI KRE 2T, Azul - Espaçamento 5,08mm',
-	'Conector',
+	'Connector',
 	5,
 	'BOX 004 POSITION 04',
 	'NOT ORGANIZED',
@@ -284,7 +284,7 @@ INSERT INTO item( name, description, category, quantity, locationBox, status, lo
 	
 (	'Borne PCI KRE 3T Azul - Espaçamento 5,08mm',
 	'Borne PCI KRE 3T Azul - Espaçamento 5,08mm',
-	'Conector',
+	'Connector',
 	3,
 	'BOX 004 POSITION 04',
 	'NOT ORGANIZED',
@@ -294,7 +294,7 @@ INSERT INTO item( name, description, category, quantity, locationBox, status, lo
 	
 (	'Terminal CRIMPLINK Forquilha FV-15 M5-3 1,5mm – Vermelho',
 	'Terminal CRIMPLINK Forquilha FV-15 M5-3 1,5mm – Vermelho',
-	'Conector',
+	'Connector',
 	5,
 	'BOX 004 POSITION 05',
 	'NOT ORGANIZED',
@@ -304,7 +304,7 @@ INSERT INTO item( name, description, category, quantity, locationBox, status, lo
 	
 (	'Terminal CRIMPLINK Olhal OB-25 M4-3 2,5mm – Azul',
 	'Terminal CRIMPLINK Olhal OB-25 M4-3 2,5mm – Azul',
-	'Conector',
+	'Connector',
 	6,
 	'BOX 004 POSITION 05',
 	'NOT ORGANIZED',
@@ -314,7 +314,7 @@ INSERT INTO item( name, description, category, quantity, locationBox, status, lo
 	
 (	'Terminal Faston FDD pré isolado – Vermelho',
 	'Terminal Faston FDD pré isolado – Vermelho',
-	'Conector',
+	'Connector',
 	1,
 	'BOX 004 POSITION 05',
 	'NOT ORGANIZED',
@@ -324,7 +324,7 @@ INSERT INTO item( name, description, category, quantity, locationBox, status, lo
 	
 (	'Conector Adaptador Mini HDMI Macho x HDMI Fêmea',
 	'Conector Adaptador Mini HDMI Macho x HDMI Fêmea',
-	'Conector',
+	'Connector',
 	1,
 	'BOX 004 POSITION 06',
 	'NOT ORGANIZED',
@@ -334,7 +334,7 @@ INSERT INTO item( name, description, category, quantity, locationBox, status, lo
 	
 (	'Plug P4-DC sem Rabicho',
 	'Plug P4-DC sem Rabicho',
-	'Conector',
+	'Connector',
 	1,
 	'BOX 005 POSITION 01',
 	'NOT ORGANIZED',
@@ -344,7 +344,7 @@ INSERT INTO item( name, description, category, quantity, locationBox, status, lo
 	
 (	'Plug P4-DC com Rabicho',
 	'Plug P4-DC com Rabicho',
-	'Conector',
+	'Connector',
 	1,
 	'BOX 005 POSITION 01',
 	'NOT ORGANIZED',
@@ -354,11 +354,51 @@ INSERT INTO item( name, description, category, quantity, locationBox, status, lo
 	
 (	'Jack J2 Estéreo PCI Rosca',
 	'Jack J2 Estéreo PCI Rosca',
-	'Conector',
+	'Connector',
 	1,
 	'BOX 005 POSITION 05',
 	'NOT ORGANIZED',
 	'Jack J2 Estéreo PCI Rosca;Figure1.jpg',
+	'',
+	''),
+	
+(	'16pin OBD 2 Connector Female Plug',
+	'Power: 24W; Item Height: 1cm; Brand Name: K KWOKKER; Voltage: 12V; Model Name: bmw obd2 connector female angle; Item Width: 1cm; Material Type: Plastic; Item Weight: 50g',
+	'Connector',
+	1,
+	'BOX 005 POSITION 05',
+	'NOT ORGANIZED',
+	'16pin OBD 2 Connector Female Plug;Fig1.webp;Fig2.jpg;Fig3.jpg;Fig4.webp;Fig5.jpg;Fig6.webp;Fig7.jpg;Fig8.jpg;Fig9.jpg;Fig10.jpg;Fig11.jpg;Fig12.jpg;Fig13.jpg;Fig14.jpg;Fig15.jpg;Fig16.jpg;Fig17.jpg;Fig18.jpg;Fig19.jpg;Fig20.jpg;Fig21.jpg',
+	'',
+	''),
+
+(	'16pin OBD2 J1962 Connector Male Plug',
+	'OBD2 Standard Male Connector OBD 2/OBD II/EOBD 2/J1962; pin Signal description: (2) J1850 Bus+, (4) CGND Chassis ground, (5) SGND Signal ground, (6) can high j 2285, (7) K-LINE (ISO 9141-2 and ISO/DIS 14230-4), (10) J1850 Bus-, (14) CAN Low J-2284, (15) ISO 9141-2 L-LINE (ISO 9141-2 and ISO/DIS 14230-4), (16) +12v Battery power',
+	'Connector',
+	1,
+	'BOX 005 POSITION 05',
+	'NOT ORGANIZED',
+	'16pin OBD2 J1962 Connector Male Plug;Figure1.jpg;Figure2.jpg;Figure3.jpg;Figure4.jpg;Figure5.jpg;Figure6.jpg',
+	'',
+	''),
+	
+(	'Micro USB Female to DIP Adapter with 5 pin',
+	'Micro USB Female to DIP Adapter with 5pin Connector in PCB',
+	'Connector',
+	5,
+	'BOX 005 POSITION 05',
+	'NOT ORGANIZED',
+	'Micro USB Female Connector Adapter;Figure1.jpg',
+	'',
+	''),
+	
+(	'Mini USB Female to DIP Adapter with 5 pin',
+	'Mini USB Female to DIP Adapter with 5pin Connector in PCB',
+	'Connector',
+	1,
+	'BOX 005 POSITION 05',
+	'NOT ORGANIZED',
+	'Micro USB Female Connector Adapter;Figure1.jpg;Figure2.jpg',
 	'',
 	'')
 ;
