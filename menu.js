@@ -34,6 +34,7 @@ var category_options_english = [
 	'Operational Amplifier',
 	'Optocoupler',
 	'Other',
+	'Potentiometer',
 	'Relay',
 	'Resistor',
 	'Sensor',
@@ -85,17 +86,17 @@ var location_options_portuguese = [
 
 var location_options_english = [
 	'Office',
-	'Box 000',/*
-	'Box 001',
-	'Box 002',
+	'Box 000',
+	'Box 001',/*
+	'Box 002',*/
 	'Box 003',
 	'Box 004',
 	'Box 005',
-	'Box 006',
+	'Box 006',/*
 	'Box 007',
-	'Box 008',
+	'Box 008',*/
 	'Box 009',
-	'Box 010',
+	'Box 010',/*
 	'Cabinet box 01',
 	'Cabinet box 02',
 	'Cabinet box 03',
@@ -113,12 +114,11 @@ var location_options_english = [
 	'Paper box 03',
 	'Paper box 04',
 	'Paper box 05',
-	'Paper box 06'/*,
-	'Component case 01',
+	'Paper box 06',/*
+	'Component case 01',*/
 	'Other',
 	'All'
 	//'Reset'
-	*/
 ];
 
 var head_table_portuguese = ['ID', 'IMAGEM', 'NOME', 'DESCRICAO', 'CATEGORIA', 'QUANTIDADE', 'LOCALIZACAO', 'STATUS'];
@@ -176,7 +176,12 @@ function loadData( event ){
 				}
 				table.appendChild( tbody );
 			}
-			
+			{
+				var div = document.createElement( 'div' );
+				div.setAttribute( 'style', 'background-color:#defaf7;border:1px solid #faa;border-radius:5px;margin-bottom:3px;padding:5px 3px 5px 10px;padding-bottom:5px;width:100%;' );
+				div.innerHTML = '<b>' + result.length + '</b> elements in <b>' + selected + '</b><br/>';
+				objResult.appendChild( div );
+			}
 			objResult.appendChild( table );
 		//	obj_table.className = "table table-striped table-sm";
 		//	obj_thead.className = "thead-dark";

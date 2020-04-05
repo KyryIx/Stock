@@ -17,7 +17,19 @@
 		switch( $option ){
 			case 'location':
 			{
-				$sql = "SELECT id, name, description, category, quantity, locationBox, status, locationImage FROM item WHERE locationBox LIKE '$value' ORDER BY $orderBy $ascDesc";
+				switch( $value ){
+					case 'All':
+						$sql = 'SELECT id, name, description, category, quantity, locationBox, status, locationImage FROM item';
+						break;
+					
+					case 'Other':
+						$sql = "SELECT id, name, description, category, quantity, locationBox, status, locationImage FROM item WHERE locationBox=''";
+						break;
+					
+					default:
+						$sql = "SELECT id, name, description, category, quantity, locationBox, status, locationImage FROM item WHERE locationBox LIKE '$value%' ORDER BY $orderBy $ascDesc";
+						break;
+				}
 				break;
 			}
 			case 'category':
