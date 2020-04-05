@@ -280,5 +280,15 @@ INSERT INTO item( name, description, category, quantity, locationBox, status, lo
 	'NOT ORGANIZED',
 	'Lupa de Cabeça Profissional.jpg',
 	'',
+	''),
+	
+(	'Stainless Steel Needle Set PCB',
+	'Stainless Steel Needle Set PCB wit width 80mm and diameter 0.7 ~ 1.3mm',
+	'Tool',
+	1,
+	'PAPER BOX 01',
+	'NOT ORGANIZED',
+	'Stainless Steel Needle Set PCB 80mm x 0.7-1.3mm;Figure1.jpg;Figure1.jpg;Figure1.jpg;Figure4a.jpg;Figure4b.jpg;Figure5.jpg;Figure6a.jpg;Figure6b.jpg',
+	'',
 	'')
 ;

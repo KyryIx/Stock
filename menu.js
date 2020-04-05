@@ -34,6 +34,7 @@ var category_options_english = [
 	'Operational Amplifier',
 	'Optocoupler',
 	'Other',
+	'Potentiometer',
 	'Relay',
 	'Resistor',
 	'Sensor',

@@ -380,5 +380,15 @@ INSERT INTO item( name, description, category, quantity, locationBox, status, lo
 	'NOT ORGANIZED',
 	'Fonte Chaveada CFTV 5V 3A;Figure1.jpg',
 	'',
+	''),
+	
+(	'USB Blaster Mini USB Cable 10-Pin JTAG Connection Cable',
+	'Fully compatible with original Altera USB-Blaster; Supported target voltage: 1.0~5.5V; Support all ALTERA device; CPLD: MAX 3000A.MAX 7000A.MAX 7000B.MAX 7000S.MAX 9000.MAX 9000A and MAX II; FPGA: Stratix.Stratix II.Stratix GX.Cyclone.Cyclone II.Cyclone III.ACEX 1K.APEX II.APEX 20K.APEX 20KE.APEX 20KC.FLEX 10K.FLEX 10KE.FLEX 10KA.FLEX 6000.FLEX 8000.EPCS1.EPCS4.EPCS16.EPCS64EPC1.EPC4.EPC8.EPC16; Support: JTAG, AS, PS Mode; Support NiosII embeded core based debug; Supports Quartus II SignalTap? II Logic Analyzer (for logic analysis); High performance, 6 times faster than ByteBlasterII; USB interface with status and Power LED; Size:5.5cm x 2.8cm x 1.5cm - 2.17inch x 1.1inch x 0.59inch.',
+	'Equipment',
+	1,
+	'PAPER BOX 06',
+	'NOT ORGANIZED',
+	'USB Blaster Mini USB Cable 10-Pin JTAG Connection Cable;Figure1.webp;Figure2.webp;Figure3.webp;Figure4.webp;Figure5.webp;Figure6.jpg',
+	'',
 	'')
 ;
