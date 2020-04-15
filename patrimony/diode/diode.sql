@@ -18,7 +18,7 @@ INSERT INTO item( name, description, category, quantity, locationBox, status, lo
 	2,
 	'BOX 009 POSITION 02',
 	'NOT ORGANIZED',
-	'1N914 - Diodo de Comutação Rápida;Figure1.jpg',
+	'1N914 - Diodo de Comutacao Rapida;Figure1.jpg',
 	'',
 	''),
 	
@@ -28,7 +28,7 @@ INSERT INTO item( name, description, category, quantity, locationBox, status, lo
 	2,
 	'BOX 009 POSITION 02',
 	'NOT ORGANIZED',
-	'Diodo Schottky de Germânio 1N60P;Figure1.jpg',
+	'1N60P - Diodo Schottky de Germanio;Figure1.jpg',
 	'',
 	''),
 	
@@ -38,7 +38,7 @@ INSERT INTO item( name, description, category, quantity, locationBox, status, lo
 	1,
 	'BOX 009 POSITION 03',
 	'NOT ORGANIZED',
-	'Diodo Zener 1N4730A;Figure1.jpg',
+	'1N4730A - Diodo Zener;Figure1.jpg',
 	'',
 	''),
 	
@@ -48,7 +48,7 @@ INSERT INTO item( name, description, category, quantity, locationBox, status, lo
 	3,
 	'BOX 009 POSITION 03',
 	'NOT ORGANIZED',
-	'Diodo Zener 1N4733A;Figure1.jpg',
+	'1N4733A - Diodo Zener;Figure1.jpg',
 	'',
 	''),
 	
@@ -58,7 +58,7 @@ INSERT INTO item( name, description, category, quantity, locationBox, status, lo
 	4,
 	'BOX 009 POSITION 03',
 	'NOT ORGANIZED',
-	'Diodo Zener 1N4742A;Figure1.png',
+	'1N4742A - Diodo Zener;Figure1.png',
 	'',
 	''),
 	
@@ -68,7 +68,7 @@ INSERT INTO item( name, description, category, quantity, locationBox, status, lo
 	2,
 	'BOX 009 POSITION 03',
 	'NOT ORGANIZED',
-	'Diodo Zener 1N4729A;Figure1.png',
+	'1N4729A - Diodo Zener;Figure1.png',
 	'',
 	''),
 	
@@ -78,7 +78,7 @@ INSERT INTO item( name, description, category, quantity, locationBox, status, lo
 	12,
 	'BOX 009 POSITION 04',
 	'NOT ORGANIZED',
-	'Diodo de Baixo Sinal 1N4148;Figure1.jpg',
+	'1N4148 - Diodo de Baixo Sinal;Figure1.jpg',
 	'',
 	''),
 	
@@ -88,7 +88,7 @@ INSERT INTO item( name, description, category, quantity, locationBox, status, lo
 	1,
 	'BOX 009 POSITION 04',
 	'NOT ORGANIZED',
-	'Diodo_resina_sem_valor;Figure1.jpg',
+	'Diodo de resina sem valor;Figure1.jpg',
 	'',
 	''),
 	
@@ -98,7 +98,7 @@ INSERT INTO item( name, description, category, quantity, locationBox, status, lo
 	6,
 	'BOX 009 POSITION 06',
 	'NOT ORGANIZED',
-	'Diodo Retificador 6A8;Figure1.jpg',
+	'6A8 - Diodo Retificador;Figure1.jpg',
 	'',
 	''),
 	
@@ -108,17 +108,17 @@ INSERT INTO item( name, description, category, quantity, locationBox, status, lo
 	4,
 	'BOX 009 POSITION 06',
 	'NOT ORGANIZED',
-	'Diodo Retificador 1N5408;Figure1.jpg',
+	'1N5408 - Diodo Retificador;Figure1.jpg',
 	'',
 	''),
 	
-(	'UF5408 - Diodo Retificador',
+(	'UF5408 - Diodo Retificador Ultra Rápido',
 	'Diodo Retificador UF5408 Ultra rápido com corrente de 3A, tensão de 700V e queda de tensão entre 1.0~1.7V.',
 	'Diode',
 	8,
 	'BOX 009 POSITION 06',
 	'NOT ORGANIZED',
-	'Diodo Retificador UF5408 Ultra rápido;Figure1.png',
+	'UF5408 - Diodo Retificador Ultra Rapido;Figure1.png',
 	'',
 	''),
 	
@@ -128,7 +128,7 @@ INSERT INTO item( name, description, category, quantity, locationBox, status, lo
 	1,
 	'BOX 009 POSITION 06',
 	'NOT ORGANIZED',
-	'Diodo Zener 1N5333B;Figure1.jpg',
+	'1N5333B - Diodo Zener;Figure1.jpg',
 	'',
 	''),
 	
@@ -138,7 +138,7 @@ INSERT INTO item( name, description, category, quantity, locationBox, status, lo
 	1,
 	'BOX 009 POSITION 06',
 	'NOT ORGANIZED',
-	'Diodo Zener 1N5337B;Figure1.jpg',
+	'1N5337B - Diodo Zener;Figure1.jpg',
 	'',
 	''),
 	
@@ -148,7 +148,7 @@ INSERT INTO item( name, description, category, quantity, locationBox, status, lo
 	2,
 	'BOX 009 POSITION 06',
 	'NOT ORGANIZED',
-	'Diodo Retificador 1N5406;Figure1.jpg;Figure2.jpg',
+	'1N5406 - Diodo Retificador;Figure1.jpg;Figure2.jpg',
 	'',
 	''),
 	
@@ -158,7 +158,7 @@ INSERT INTO item( name, description, category, quantity, locationBox, status, lo
 	4,
 	'BOX 009 POSITION 06',
 	'NOT ORGANIZED',
-	'Diodo Zener 1N5349B;Figure1.jpg',
+	'1N5349B - Diodo Zener;Figure1.jpg',
 	'',
 	''),
 	
@@ -168,7 +168,7 @@ INSERT INTO item( name, description, category, quantity, locationBox, status, lo
 	1,
 	'BOX 009 POSITION 06',
 	'NOT ORGANIZED',
-	'Diodo Retificador 1N4007;Figure1.jpg',
+	'1N4007 - Diodo Retificador;Figure1.jpg',
 	'',
 	''),
 	
@@ -178,7 +178,7 @@ INSERT INTO item( name, description, category, quantity, locationBox, status, lo
 	6,
 	'BOX 009 POSITION 06',
 	'NOT ORGANIZED',
-	'Diodo Retificador 1N4004;Figure1.jpg',
+	'1N4004 - Diodo Retificador;Figure1.jpg',
 	'',
 	'')
 ;
