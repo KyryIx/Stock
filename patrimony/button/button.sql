@@ -49,7 +49,7 @@ INSERT INTO item( name, description, category, quantity, locationBox, status, lo
 	2,
 	'BOX 004 POSITION 02',
 	'NOT ORGANIZED',
-	'Chave Alavanca.png',
+	'Chave Alavanca;Figure1.png',
 	'',
 	''),
 	
@@ -59,7 +59,7 @@ INSERT INTO item( name, description, category, quantity, locationBox, status, lo
 	9,
 	'BOX 004 POSITION 03',
 	'NOT ORGANIZED',
-	'Chave Táctil KFC-A06 12x12x4,3mm - 4T - 180°;Figure1.jpg',
+	'Chave Tactil KFC-A06 12x12x4,3mm - 4T - 180deg;Figure1.jpg',
 	'',
 	''),
 	
@@ -79,7 +79,7 @@ INSERT INTO item( name, description, category, quantity, locationBox, status, lo
 	4,
 	'BOX 004 POSITION 05',
 	'NOT ORGANIZED',
-	'Chave Táctil KFC-A06 - 6X6X5mm - 4T - 180°;Figure1.jpg',
+	'Chave Tactil KFC-A06 - 6x6x5mm - 4T - 180deg;Figure1.jpg',
 	'',
 	''),
 	
@@ -89,7 +89,7 @@ INSERT INTO item( name, description, category, quantity, locationBox, status, lo
 	2,
 	'BOX 004 POSITION 05',
 	'NOT ORGANIZED',
-	'Chave Tactil Redonda TSY6650 6X6X5mm 2T 180G;Figure1.jpg',
+	'Chave Tactil Redonda TSY6650 6x6x5mm 2T 180deg;Figure1.jpg',
 	'',
 	''),
 	
@@ -99,7 +99,7 @@ INSERT INTO item( name, description, category, quantity, locationBox, status, lo
 	1,
 	'PAPER BOX 06',
 	'NOT ORGANIZED',
-	'Slide_Switch_AYZ0202__Arduino_LilyPad;Figure1.png;Figure2.png;Figure3.png;Figure4.png',
+	'Slide Switch AYZ0202 to Arduino LilyPad;Figure1.png;Figure2.png;Figure3.png;Figure4.png',
 	'',
 	'')
 ;
