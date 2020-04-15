@@ -8,7 +8,7 @@ INSERT INTO item( name, description, category, quantity, locationBox, status, lo
 	1,
 	'BOX 003 POSITION 01',
 	'NOT ORGANIZED',
-	'Jack Adaptador para Telefone RJ11 2X6P4C Fêmea 6P4C;Figure1.jpg',
+	'Jack Adaptador para Telefone RJ11 2X6P4C Femea 6P4C;Figure1.jpg',
 	'',
 	''),
 	
@@ -48,7 +48,7 @@ INSERT INTO item( name, description, category, quantity, locationBox, status, lo
 	2,
 	'BOX 003 POSITION 01',
 	'NOT ORGANIZED',
-	'Jack RJ11 YH55-04 6P4C 90°;Figure1.jpg',
+	'Jack RJ11 YH55-04 6P4C 90deg;Figure1.jpg',
 	'',
 	''),
 	
@@ -58,7 +58,7 @@ INSERT INTO item( name, description, category, quantity, locationBox, status, lo
 	1,
 	'BOX 003 POSITION 02',
 	'NOT ORGANIZED',
-	'Conector RJ45 Femea Multilan CAT.5E - Furukawa;Figure1.jpg',
+	'Conector RJ45 Femea Multilan CAT 5E - Furukawa;Figure1.jpg',
 	'',
 	''),
 	
@@ -88,7 +88,7 @@ INSERT INTO item( name, description, category, quantity, locationBox, status, lo
 	2,
 	'BOX 003 POSITION 03',
 	'NOT ORGANIZED',
-	'Conector USB03 Fêmea - para Circuito Impresso 90°;Figure1.jpg',
+	'Conector USB03 Femea - para Circuito Impresso 90deg;Figure1.jpg',
 	'',
 	''),
 	
@@ -98,7 +98,7 @@ INSERT INTO item( name, description, category, quantity, locationBox, status, lo
 	3,
 	'BOX 003 POSITION 03',
 	'NOT ORGANIZED',
-	'Conector YH-USB-01A fêmea, para pci 180º;Figure1.jpg',
+	'Conector YH-USB-01A femea, para pci 180deg;Figure1.jpg',
 	'',
 	''),
 	
@@ -108,7 +108,7 @@ INSERT INTO item( name, description, category, quantity, locationBox, status, lo
 	2,
 	'BOX 003 POSITION 03',
 	'NOT ORGANIZED',
-	'Conector USB05A Macho para Circuito Impresso 180°;Figure1.jpg',
+	'Conector USB05A Macho para Circuito Impresso 180deg;Figure1.jpg',
 	'',
 	''),
 	
@@ -128,7 +128,7 @@ INSERT INTO item( name, description, category, quantity, locationBox, status, lo
 	5,
 	'BOX 003 POSITION 04',
 	'NOT ORGANIZED',
-	'Conector F Macho RCF Compressão RG59-U;Figure1.jpg',
+	'Conector F Macho RCF Compressao RG59-U;Figure1.jpg',
 	'',
 	''),
 	
@@ -192,23 +192,23 @@ INSERT INTO item( name, description, category, quantity, locationBox, status, lo
 	'',
 	''),
 	
-(	'Pino Banana PB121 com derivação lateral – preto',
-	'Pino Banana PB121 com derivação lateral – preto',
+(	'Pino Banana PB121 com derivação lateral - preto',
+	'Pino Banana PB121 com derivação lateral - preto',
 	'Connector',
 	2,
 	'BOX 003 POSITION 06',
 	'NOT ORGANIZED',
-	'Pino Banana PB121 com derivação lateral – preto;Figure1.jpg',
+	'Pino Banana PB121 com derivacao lateral - preto;Figure1.jpg',
 	'',
 	''),
 	
-(	'Pino Banana PB121 com derivação lateral – vermelho',
+(	'Pino Banana PB121 com derivação lateral - vermelho',
 	'Pino Banana PB121 com derivação lateral - vermelho',
 	'Connector',
 	2,
 	'BOX 003 POSITION 06',
 	'NOT ORGANIZED',
-	'Pino Banana PB121 com derivação lateral – vermelho;Figure1.jpg',
+	'Pino Banana PB121 com derivacao lateral - vermelho;Figure1.jpg',
 	'',
 	''),
 	
@@ -218,7 +218,7 @@ INSERT INTO item( name, description, category, quantity, locationBox, status, lo
 	4,
 	'BOX 003 POSITION 06',
 	'NOT ORGANIZED',
-	'Pino Banana PB121 com derivação lateral – verde;Figure1.jpg',
+	'Pino Banana PB121 com derivacao lateral - verde;Figure1.jpg',
 	'',
 	''),
 	
@@ -228,7 +228,7 @@ INSERT INTO item( name, description, category, quantity, locationBox, status, lo
 	1,
 	'BOX 003 POSITION 06',
 	'NOT ORGANIZED',
-	'Pino Banana Macho CN 175 – Amarelo;Figure1.jpg',
+	'Pino Banana Macho CN 175 - Amarelo;Figure1.jpg',
 	'',
 	''),
 	
@@ -238,7 +238,7 @@ INSERT INTO item( name, description, category, quantity, locationBox, status, lo
 	1,
 	'BOX 003 POSITION 06',
 	'NOT ORGANIZED',
-	'Pino Banana Macho CN-0919 – Verde;Figure1.jpg',
+	'Pino Banana Macho CN-0919 - Verde;Figure1.jpg',
 	'',
 	''),
 	
@@ -248,7 +248,7 @@ INSERT INTO item( name, description, category, quantity, locationBox, status, lo
 	1,
 	'BOX 003 POSITION 06',
 	'NOT ORGANIZED',
-	'Pino Banana Macho CN-0921 – Azul;Figure1.jpg',
+	'Pino Banana Macho CN-0921 - Azul;Figure1.jpg',
 	'',
 	''),
 	
@@ -258,7 +258,7 @@ INSERT INTO item( name, description, category, quantity, locationBox, status, lo
 	1,
 	'BOX 004 POSITION 04',
 	'NOT ORGANIZED',
-	'Borne Fêmea 2EDGK-0,5 5 Vias - Espaçamento 5,08mm;Figure1.jpg',
+	'Borne Femea 2EDGK-0,5 5 Vias - Espacamento 5,08mm;Figure1.jpg',
 	'',
 	''),
 	
@@ -268,7 +268,7 @@ INSERT INTO item( name, description, category, quantity, locationBox, status, lo
 	1,
 	'BOX 004 POSITION 04',
 	'NOT ORGANIZED',
-	'Borne Macho 90° 2EDGRC-0,5 5 Vias - Espaçamento 5,08mm;Figure1.jpg',
+	'Borne Macho 90deg 2EDGRC-0,5 5 Vias - Espacamento 5,08mm;Figure1.jpg',
 	'',
 	''),
 	
@@ -278,7 +278,7 @@ INSERT INTO item( name, description, category, quantity, locationBox, status, lo
 	5,
 	'BOX 004 POSITION 04',
 	'NOT ORGANIZED',
-	'Borne PCI KRE 2T, Azul - Espaçamento 5,08mm;Figure1.jpg',
+	'Borne PCI KRE 2T, Azul - Espacamento 5,08mm;Figure1.jpg',
 	'',
 	''),
 	
@@ -288,7 +288,7 @@ INSERT INTO item( name, description, category, quantity, locationBox, status, lo
 	3,
 	'BOX 004 POSITION 04',
 	'NOT ORGANIZED',
-	'Borne PCI KRE 3T Azul - Espaçamento 5,08mm;Figure1.jpg',
+	'Borne PCI KRE 3T Azul - Espacamento 5,08mm;Figure1.jpg',
 	'',
 	''),
 	
@@ -298,7 +298,7 @@ INSERT INTO item( name, description, category, quantity, locationBox, status, lo
 	5,
 	'BOX 004 POSITION 05',
 	'NOT ORGANIZED',
-	'Terminal CRIMPLINK Forquilha FV-15 M5-3 1,5mm – Vermelho;Figure1.jpg',
+	'Terminal CRIMPLINK Forquilha FV-15 M5-3 1,5mm - Vermelho;Figure1.jpg',
 	'',
 	''),
 	
@@ -308,7 +308,7 @@ INSERT INTO item( name, description, category, quantity, locationBox, status, lo
 	6,
 	'BOX 004 POSITION 05',
 	'NOT ORGANIZED',
-	'Terminal CRIMPLINK Olhal OB-25 M4-3 2,5mm – Azul;Figure1.jpg',
+	'Terminal CRIMPLINK Olhal OB-25 M4-3 2,5mm - Azul;Figure1.jpg',
 	'',
 	''),
 	
@@ -318,7 +318,7 @@ INSERT INTO item( name, description, category, quantity, locationBox, status, lo
 	1,
 	'BOX 004 POSITION 05',
 	'NOT ORGANIZED',
-	'Terminal Faston FDD pré isolado – Vermelho;Figure1.jpg',
+	'Terminal Faston FDD pre isolado - Vermelho;Figure1.jpg',
 	'',
 	''),
 	
@@ -328,7 +328,7 @@ INSERT INTO item( name, description, category, quantity, locationBox, status, lo
 	1,
 	'BOX 004 POSITION 06',
 	'NOT ORGANIZED',
-	'Conector Adaptador Mini HDMI Macho x HDMI Fêmea;Figure1.jpg',
+	'Conector Adaptador Mini HDMI Macho x HDMI Femea;Figure1.jpg',
 	'',
 	''),
 	
@@ -358,7 +358,7 @@ INSERT INTO item( name, description, category, quantity, locationBox, status, lo
 	1,
 	'BOX 005 POSITION 05',
 	'NOT ORGANIZED',
-	'Jack J2 Estéreo PCI Rosca;Figure1.jpg',
+	'Jack J2 Estereo PCI Rosca;Figure1.jpg',
 	'',
 	''),
 	
@@ -368,7 +368,7 @@ INSERT INTO item( name, description, category, quantity, locationBox, status, lo
 	1,
 	'BOX 005 POSITION 05',
 	'NOT ORGANIZED',
-	'16pin OBD 2 Connector Female Plug;Fig1.webp;Fig2.jpg;Fig3.jpg;Fig4.webp;Fig5.jpg;Fig6.webp;Fig7.jpg;Fig8.jpg;Fig9.jpg;Fig10.jpg;Fig11.jpg;Fig12.jpg;Fig13.jpg;Fig14.jpg;Fig15.jpg;Fig16.jpg;Fig17.jpg;Fig18.jpg;Fig19.jpg;Fig20.jpg;Fig21.jpg',
+	'16pin OBD2 Connector Female Plug;Fig1.webp;Fig2.jpg;Fig3.jpg;Fig4.webp;Fig5.jpg;Fig6.webp;Fig7.jpg;Fig8.jpg;Fig9.jpg;Fig10.jpg;Fig11.jpg;Fig12.jpg;Fig13.jpg;Fig14.jpg;Fig15.jpg;Fig16.jpg;Fig17.jpg;Fig18.jpg;Fig19.jpg;Fig20.jpg;Fig21.jpg',
 	'',
 	''),
 
@@ -398,7 +398,7 @@ INSERT INTO item( name, description, category, quantity, locationBox, status, lo
 	1,
 	'BOX 005 POSITION 05',
 	'NOT ORGANIZED',
-	'Micro USB Female Connector Adapter;Figure1.jpg;Figure2.jpg',
+	'Mini USB Female Connector Adapter;Figure1.jpg;Figure2.jpg',
 	'',
 	'')
 ;
