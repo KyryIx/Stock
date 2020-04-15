@@ -122,13 +122,13 @@ INSERT INTO item( name, description, category, quantity, locationBox, status, lo
 	'ESP32 Datasheet.pdf;ESP-WROOM-32 Datasheet.pdf',
 	''),
 	
-(	'EPROM 5V ALTERA FPGA CycloneII EP2C5T144 Minimum System Development Board',
+(	'EPROM 5V ALTERA FPGA CycloneII EP2C5T144C8N Minimum System Development Board',
 	'On board 3.3V and 1.2V Regulators; Single Power 5VDC operation; On board Clock Oscillator; On board Configuration storage EEPROM; 3x LED indicators for user; 1x Power Indicator LED; Reset Switch; FPGA Chip: Altera Cyclone II, EP2C5T144C8N; FPGA chip has 4068 logic elements; Multiple 4k RAM blocks giving a total of 119,898 bits; 13 multipliers; Two PLLs; 89 I/Os; Maximum clock frequency is 300 MHz; FPGA Core Voltage : 1.2V; FPGA IO voltage : 3.3V; Size : 6 (cm) x 8 (cm); Configuration EEPROM chip: 4Mbit EPCS4; Oscillator Frequency: 50MHz; Support for the development of embedded CPU NiosII',
 	'Embedded',
 	1,
 	'PAPER BOX 03',
 	'NOT ORGANIZED',
-	'ALTERA FPGA CycloneII EP2C5T144 Board;Figure1.jpg;Figure2.jpg;Figure3.jpg;Figure4.jpg;Figure5.webp;Figure6.webp;Figure7.jpg;Figure8.webp;Figure9.png;Figure10.gif;Figure11.webp',
-	'ALTERA FPGA CycloneII EP2C5T144 Board;EP2C5T144-Altera-Cyclone-II-FPGA-Development-Board-Diagram.pdf;ALTREA-CY2-Evaluation-Board-Schematic-Diagram.pdf;0900766b8130521b.pdf;Cyclone-II-Device-Handbook.pdf;cyc_c51014.pdf',
-	'ALTERA FPGA CycloneII EP2C5T144 Board;EP2C5T144E-Diagrams.zip;EP2C5-core-board-test.zip')
+	'ALTERA FPGA Cyclone II EP2C5T144 Board;Figure1.jpg;Figure2.jpg;Figure3.jpg;Figure4.jpg;Figure5.webp;Figure6.webp;Figure7.jpg;Figure8.webp;Figure9.png;Figure10.gif;Figure11.webp',
+	'ALTERA FPGA Cyclone II EP2C5T144 Board;EP2C5T144-Altera-Cyclone-II-FPGA-Development-Board-Diagram.pdf;ALTREA-CY2-Evaluation-Board-Schematic-Diagram.pdf;0900766b8130521b.pdf;Cyclone-II-Device-Handbook.pdf;cyc_c51014.pdf',
+	'ALTERA FPGA Cyclone II EP2C5T144 Board;EP2C5T144E-Diagrams.zip;EP2C5-core-board-test.zip')
 ;
